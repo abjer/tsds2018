@@ -6,7 +6,7 @@ In this course, GitHub is only used to host files (exercises and assignments, ma
 
 1. Fire up a terminal/console on your computer.
 2. Navigate to the directory in your computer where you keep the folder for this course
-3. Run `git clone https://github.com/ulfaslak/computational_analysis_of_big_data_2018_spring`
+3. Run `git clone https://github.com/abjer/tsds`
 
 Now you have all the course files on your computer. When we update the course material (and we do every now and then) you can get the newest version of all the files by running `git pull origin master` from inside the course folder. We recommend you get used to doing this before every class session, so that you don't solve outdated exercises.
 
