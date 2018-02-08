@@ -1,0 +1,52 @@
+Group	Name
+-----	---
+7	Adrian Michael Bay Schmith
+11	Alexandre Ann A. Kaisin
+2	Anders Frimann Nielsen
+10	Asger Vibel
+8	Bruno Carvalho Lopes Rogério
+0	Daniel Højgaard Wegener
+2	Dénes Lukács Pápai
+6	Emil Toft Hansen
+10	Emilie Nordby Lauritzen
+11	Flemming Dose
+11	Frederik Juhl Pedersen
+4	Frederik Martin Normind Strikert
+4	Frederik Storgaard Falsig
+9	Frederik Verner Kristensen
+9	Hjalte Fejerskov Boas
+4	Ida Egmose Pedersen
+0	Jacob Højberg Jensen
+8	Jakob Jul Elben
+2	Janne Tarpgaard
+8	Johan Sæverud
+6	Jonathan Isak Marin
+1	Kasper Brandt
+12	Kazuharu Yanagimoto
+5	Kristian Emil Lunow Nielsen
+9	Kristian Urup Olesen Larsen
+3	Kristoffer Pade Glavind
+3	Lasse Holm
+0	Louise Faldt Albrektsen
+1	Mai Yan Ni Wu
+10	Malte Lukas Flint
+0	Martin Bruun Ipsen
+10	Mette-Marie Valentin
+3	Morten Ehlers
+5	Morten Hansen Kirkegaard
+1	Nicolai Vinther Tanghøj
+5	Nikolaj Moll Lund
+2	Nynne Helt Almdal
+12	Pernille Beckmann
+3	Philipp Schmalen
+6	Rasmus Bjørn
+6	Rasmus Kornbek
+1	Rasmus Thomsen-Hviid
+12	Rio Hozumi
+4	Rune Boye Knudsen
+7	Simon Kjær Bjerg
+7	Simon Polichinel von der Maase
+5	Søren Dybdahl Krebs
+8	Takuya Miki
+7	Tobias Seier Pedersen
+9	Troels Østergaard
