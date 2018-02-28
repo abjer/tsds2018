@@ -1,0 +1,49 @@
+{{Infobox comics character| <!--Part of Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Zealot
+|real_name=Thomas Philip Moreau
+|species=[[Mutant (Marvel Comics)|Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''Magneto Rex'' #1 (April 1999)
+|creators=[[Joe Pruett]]<br>[[Brandon Peterson]]
+|alliance_color=background:#ffc0c0
+|alliances=
+|aliases=
+|powers=Geokinesis
+|}}
+'''Zealot''' ('''Thomas Philip Moreau''') is a [[fictional character]], a [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]] who possesses the ability of earth-manipulation. He is an enemy of the [[X-Men]]'s sometime foe [[Magneto (comics)|Magneto]]. He appeared in the ''Magneto Rex'' miniseries.
+
+==Publication history==
+Zealot first appeared in ''Magneto Rex'' #1 and was created by [[Joe Pruett]] and [[Brandon Peterson]].
+
+==Fictional character biography==
+Zealot is a [[mutant (Marvel Comics)|mutant]] from the island nation of [[Genosha]]. He is the son of the [[David Moreau|Genegineer]] who genetically-engineered Genosha's mutant population, transforming them into a slave caste in the process. Zealot became an enemy of Magneto when the latter was given control of the war-torn, emancipated Genosha by the [[United Nations]].<ref>''Magneto Rex'' #1</ref>
+
+Zealot led a force of mutant rebels who violently opposed Magneto's rule and fought Magneto, [[Rogue (comics)|Rogue]], and [[Quicksilver (comics)|Quicksilver]].<ref>''Magneto Rex'' #2</ref>
+
+In the end, Zealot was killed by Magneto who encased him and his followers in silicate matter that was then hurled into space.<ref>''Magneto Rex'' #3</ref>
+
+==Powers and abilities==
+Zealot has the ability to manipulate rocks and soil at will.
+
+==In other media==
+===Video games===
+* Zealot appeared as a [[boss (video games)|boss]] in the [[video game]] ''[[X-Men Legends II: Rise of Apocalypse]]'' voiced by [[Armin Shimerman]]. His nature and motivation are much the same in the game as in the comics. In the game, Zealot is allied with [[Apocalypse (comics)|Apocalypse]] in an alliance of convenience. The player's party defeats Zealot near the halfway point of the game's first act when he is encountered in the Cerci Tunnels. He has special dialogue with Magneto.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Thomas_Philip_Moreau_%28Earth-616%29 Zealot] at Marvel Wiki
+* [http://comicvine.gamespot.com/zealot/4005-50961/ Zealot] at Comic Vine
+
+{{X-Men}}
+
+[[Category:Genoshans]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Comics characters introduced in 1999]]
+
+{{Marvel-villain-stub}}

@@ -1,0 +1,52 @@
+{{for|other comics characters called Pulsar|Pulsar (comics)}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|character_name=Pulsar
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Men]]'' #107 (Oct 1977)
+|creators=[[Chris Claremont]] and [[Dave Cockrum]]
+|alliances=[[Imperial Guard (comics)|Imperial Guard]]
+|aliases=Impulse
+|powers=Energy blasts<br>Flight
+}}
+
+'''Pulsar''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as a member of the [[Shi'ar]] [[Imperial Guard (comics)|Imperial Guard]].
+
+==Publication history==
+The character first appeared as '''Impulse''' in ''[[X-Men]]'' #107 (October 1977-February 1978), and was created by [[Chris Claremont]] and [[Dave Cockrum]].
+
+The character subsequently appears in ''X-Men: Spotlight on Starjammers'' #2 (June 1990), ''Quasar'' #32 (March 1992), ''Inhumans'' Vol. 4 #4 (September 2000), ''JLA/Avengers'' #1 (September 2003), and ''Uncanny X-Men'' #477 (October 2006) and #480 (January 2007).
+
+Impulse appeared as part of the "Imperial Guard" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #6.
+
+==Fictional character biography==
+Pulsar is a long-time member of the [[Shi'ar]] [[Imperial Guard (comics)|Imperial Guard]], also known as '''Impulse'''. He is made of pure energy, and his form is only contained by his costume. He can release blasts of energy from his visor.
+
+He was with the Imperial Guard the first time they fought the X-Men.{{issue|date=November 2011}}
+
+He was seemingly killed by [[Vulcan (Marvel Comics)|Vulcan]], who breached Impulse's suit.{{Issue|date=April 2009}} Pulsar later reappeared alive, battling alongside the rest of the Imperial Guard in an assault on the Kree, where Pulsar gravely wounded the Inhuman elite warrior, Gorgon.<ref>''War of Kings'' #1</ref>
+
+==Powers and abilities==
+Pulsar can fire energy blasts from his hands and visor. He can also fly either on his own or using the Shi'ar anti-gravity device.
+
+==Inspiration==
+Several of the members of the Imperial Guard are at least partly based on members of the [[DC Comics]] team [[Legion of Super-Heroes]] (Dave Cockrum, co-creator of the Guard, also had a long run as artist on the Legion). Pulsar is based on LSH member [[Wildfire (comics)|Wildfire]].{{Citation needed|date=May 2009}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/impulseimpguard.htm|Impulse}}
+
+[[Category:Comics characters introduced in 1977]]
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by Dave Cockrum]]
+[[Category:Extraterrestrial superheroes]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics superheroes]]
+
+{{Marvel Cosmic}}
+{{Marvel-hero-stub}}

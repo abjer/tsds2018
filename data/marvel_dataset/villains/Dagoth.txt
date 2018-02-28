@@ -1,0 +1,10 @@
+#Redirect [[List of Marvel Comics characters: D#Dagoth]]
+
+{{Rcat shell|
+{{R from fictional character|Marvel Comics}}
+{{R from merge}}
+}}
+
+[[Category:Comics characters introduced in 1973]]
+[[Category:Marvel Comics devils]]
+[[Category:Marvel Comics supervillains]]

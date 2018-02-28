@@ -1,0 +1,40 @@
+{{Infobox comics character
+|image=[[File:Annex (Marvel Comics character).jpg|250px]]
+|caption=Annex.<br>Art by [[Steve Uy]].
+|character_name=Annex
+|real_name=Alexander Ellis
+|publisher=[[Marvel Comics]]
+|debut=''[[The Amazing Spider-Man]] Annual'' #27 (1993)
+|creators=[[Jack C. Harris]]<br>[[Tom Lyle]]
+|alliances=[[Avengers: The Initiative|Initiative]]
+|powers=superhuman athletic ability, weapon creation, flight, informational downloading methods
+}}
+
+'''Annex''' ('''Alexander Ellis''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as associated with [[Spider-Man]]. His first appearance was in ''[[The Amazing Spider-Man]] Annual'' #27. With powers resulting from [[prosthetics]] through computer technology, he possesses the ability to increase his physical abilities, as well as create any weapon he requires.
+
+==Publication history==
+Annex was created by writer [[Jack C. Harris]] and artist [[Tom Lyle]] and first appeared in ''[[The Amazing Spider-Man]] Annual'' #27 (1993)<ref>{{cite book|last = Cowsill|first = Alan|last2= Gilbert|first2= Laura, ed.|chapter= 1990s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 203|isbn = 978-0756692360|quote= The debut story of Annex was written by Jack C. Harris and drawn by Tom Lyle.}}</ref> as an enemy of Spider-Man, but went on to become an ally. His next appearance was ''[[Spider-Man Unlimited]]'' #3, followed by a self-titled [[Limited series (comics)|limited series]], ''Annex''.
+
+He appeared in the ''[[Avengers: the Initiative]]'' series beginning with issue #13.
+
+==Fictional character biography==
+Ellis is a [[Gulf War|Desert Storm]] veteran whose leg was wounded in combat.  The damage to his leg was so extensive, his leg had to be amputated.  He signed up for an Annexing unit, where [[computer technology]] will grow a newly functioning limb. Because of a [[computer glitch]], Ellis loses his memory and becomes the villain Annex. Annex is quickly defeated by Spider-Man, and changes back into Ellis.<ref>''[[The Amazing Spider-Man]] Annual'' #27 (1993)</ref>
+
+Annex joins Camp Hammond to be trained in the [[Fifty State Initiative]] program.<ref>''Avengers: The Initiative'' #13</ref> After the [[Secret Invasion|Skrull invasion]], Annex was assigned to New Mexico's Initiative team.<ref>''Avengers: The Initiative'' #21</ref>
+
+==Powers and abilities==
+As a result of his exo-skeleton armor, Annex possesses the ability to increase his strength, speed, stamina, reflexes, reaction time, coordination, agility, dexterity, balance, and endurance. Annex can also create any weapon he requires. The armor also grants him flight, "schema mode", and informational downloading methods, all at the base of a [[computer art|computer generated]] robotic structure.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix/annexell.htm|Annex}}
+
+{{Initiative}}
+
+{{DEFAULTSORT:Annex (Comics)}}
+[[Category:Comics characters introduced in 1993]]
+[[Category:Fictional characters from New York City]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics superheroes]]

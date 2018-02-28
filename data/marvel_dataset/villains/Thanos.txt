@@ -1,0 +1,251 @@
+{{About|the Marvel Comics villain|people with the given name or surname|Thanos (name)}}
+{{Infobox comics character <!-- Wikipedia:WikiProject Comics -->
+| character_name = Thanos
+| image = Thanos_Infinity_4.png
+| converted = y
+| caption = Art by Jerome Opeña and Dustin Weaver
+| publisher = [[Marvel Comics]]
+| debut = ''[[Iron Man]]'' #55 (February [[1973 in comics|1973]])
+| creators = [[Mike Friedrich]]<br>[[Jim Starlin]]
+| alter_ego = Dione<ref name="RealName">''Thanos'' Vol. 2 #14</ref>
+| species = [[Eternals (comics)|Titanian Eternal/Deviant Hybrid]]
+| homeworld = [[Titan (Marvel Comics)|Titan]]
+| alliances = [[Infinity Watch]]
+| aliases = The Mad Titan
+| powers = *Superhuman strength, speed, durability, and longevity
+*Energy manipulation
+*Telepathy
+*Telekinesis
+| cat = super
+| subcat = Marvel Comics
+| villain = y
+| sortkey = Thanos
+}}
+'''Thanos''' ({{IPAc-en|UK|ˈ|θ|æ|n|ɒ|s}}, {{IPAc-en|US|ˈ|θ|æ|n|oʊ|s}}) is a fictional antagonist appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by writer [[Mike Friedrich]] and writer-artist [[Jim Starlin]], the character first appeared in ''[[Iron Man]]'' #55 ([[cover date]]d Feb. 1973).
+
+The character appears in various [[Marvel Cinematic Universe]] films, including ''[[The Avengers (2012 film)|The Avengers]]'' (2012), portrayed by [[Damion Poitier]], and ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]'' (2014), ''[[Avengers: Age of Ultron]]'' (2015), ''[[Avengers: Infinity War]]'' (2018), and [[Untitled Avengers film|its untitled sequel]] (2019), portrayed by [[Josh Brolin]]. The character has appeared in other Marvel-endorsed products, including [[Animation|animated]] television series, [[Arcade game|arcade]], and video games.
+
+==Origin==
+Writer-artist [[Jim Starlin]] originally conceived of Thanos of Titan during college [[psychology]] classes. As Starlin described:
+
+{{quote|I went to college between doing [[U.S. military]] service and getting work in comics, and there was a psych class and I came up with Thanos&nbsp;... and [[Drax the Destroyer]], but I'm not sure how he fit into it, just [[anger management]] probably. So I came up to Marvel and [editor] [[Roy Thomas|Roy]] [Thomas] asked if I wanted to do an issue of ''[[Iron Man]]''. I felt that this may be my only chance ever to do a character, not having the confidence that my career was going to last anything longer than a few weeks. So they got jammed into it. Thanos was a much thinner character and Roy suggested beefing him up, so he's beefed up quite a bit from his original sketches&nbsp;... and later on I liked beefing him up so much that he continued to grow in size.<ref>[https://web.archive.org/web/20080122032717/http://www.adelaidecomicsandbooks.com/starlin.htm "Jim Starlin"]. Adelaid Comics and Books. Archived via the [[Wayback Machine]]. Retrieved March 25, 2014.</ref>}}
+
+Starlin has admitted the character is influenced by [[Jack Kirby]]'s [[Darkseid]]:
+
+{{quote|Kirby had done the [[New Gods]], which I thought was terrific. He was over at [[DC Comics|DC]] at the time. I came up with some things that were inspired by that. You'd think that Thanos was inspired by Darkseid, but that was not the case when I showed up. In my first Thanos drawings, if he looked like anybody, it was [[Metron (comics)|Metron]]. I had all these different gods and things I wanted to do, which became Thanos and the Titans. Roy took one look at the guy in the Metron-like chair and said: "Beef him up! If you're going to steal one of the New Gods, at least rip off Darkseid, the really good one!"<ref>{{Cite web |first=Brian |last=Cronin |url=http://goodcomics.comicbookresources.com/2010/06/24/comic-book-legends-revealed-266/ |title=Comic Book Legends Revealed #266 |work=[[Comic Book Resources]] |date=2010-06-24 |accessdate=2010-06-24}}</ref>}}
+
+==Publication history==
+Thanos' first appearance was in ''Iron Man'' #55 (Feb. 1973), featuring a story by Jim Starlin that was scripted by Mike Friedrich. The storyline from that issue continued through ''[[Captain Marvel (Mar-Vell)|Captain Marvel]]'' #25–33 (bi-monthly: March 1973 – Jan. 1974), ''[[Marvel Feature]]'' #12 (Nov. 1973), ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #107 (Jan. 1974), and ''[[The Avengers (comic)|Avengers]]'' #125 (July 1974). He returned in an extended storyline that spanned ''Strange Tales'' #178-181 (Feb.–Aug. 1975), ''Warlock'' #9-11 (Oct. 1975 – Jan. 1976), ''[[Marvel Team Up]]'' #55 (March 1977), and the 1977 Annuals for ''Avengers'' and ''[[Marvel Two-in-One]]'' (Thanos does not actually appear until the end of ''Warlock'' #9). He was also featured in a short backup story in ''[[Logan's Run (comics)|Logan's Run]]'' #6 (June 1977) and had a small role in the ''Death of Captain Marvel'' graphic novel (April 1982).
+
+The character was revived in ''[[Silver Surfer (comic book)|Silver Surfer]]'' vol. 3, #34 (Feb. 1990) and guest-starred until issue #59 (November 1991), while simultaneously appearing  in ''[[The Thanos Quest]]'' #1–2 (Sept.–Oct. 1990) and ''[[Infinity Gauntlet]]'' #1-6 (July–Dec. 1991). After an appearance in ''[[The Amazing Spider-Man|Spider-Man]]'' #17 (Dec. 1991), Thanos had a recurring role in ''[[Warlock and the Infinity Watch]]'' #1-42 (Feb. 1992 – Aug. 1995). This was followed by crossover appearances in ''[[Infinity War]]'' #1-6 (June&nbsp;– Nov. 1992), ''[[Infinity Crusade]]'' #1–6 (June&nbsp;– Nov. 1993), ''Silver Surfer'' vol. 3, #86-88 (Nov. 1993&nbsp;– Jan. 1994), ''Warlock Chronicles'' #6-8, ''[[Thor (Marvel Comics)|Thor]]'' #468–471 (Nov. 1993&nbsp;– Feb. 1994), ''Namor The Sub-Mariner'' #44 (Nov. 1993), ''[[Secret Defenders]]'' #11-14 (Jan.–April 1994), ''Cosmic Powers'' #1–6 (March–July 1994), and ''Cosmic Powers Unlimited'' #1 (May 1995).
+
+Thanos appeared in a connected storyline in ''[[Ka-Zar (comics)|Ka-Zar]]'' vol. 2, #4–11 (Aug. 1997&nbsp;– March 1998), ''Ka-Zar Annual'' (1997), and the ''[[Nate Grey|X-Man]]'' and ''[[The Incredible Hulk (comic book)|Hulk Annual]]'' (1998), before featuring in ''Thor'' vol. 2, #21–25 (March–July 2000) and the 2000 Annual. The character was next used in ''Captain Marvel'' vol. 4, #17–19 (June–Aug. 2001), ''Avengers: Celestial Quest'' #1-8 (Nov. 2001&nbsp;– June 2002), ''[[Infinity Abyss]]'' #1-6 (Aug.–Oct. 2002) and ''[[Marvel: The End]]'' #1-6 (May-Aug 2003).
+
+In 2004 Thanos received an eponymous title that ran for 12 issues. In 2006, the character played an important role in ''[[Annihilation (comics)|Annihilation]]: Silver Surfer'' #1-4 (June&nbsp;– Sept. 2006) and ''Annihilation'' #1-6 (Oct. 2006&nbsp;– March 2007). The character was re-introduced in ''[[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]]'' vol. 2, #24-25 (April–May 2010) and played a major role in ''[[The Thanos Imperative]]: Ignition'' (June 2010) and ''The Thanos Imperative'' #1-6 (July–Dec. 2010).
+
+[[File:Thanos 2014.png|thumb|Thanos in ''Legendary Star-Lord'' #3 (Sept. 2014). Art by Paco Medina and Juan Vlasco.]]
+The character returned in ''Avengers Assemble'' #1 (March 2012).<ref>{{Cite web |last=Meylikhov |first=Matthew |url=http://multiversitycomics.com/news/multiversity-third-printing-variant-the-big-bad-of-avengers-assembled-revealed-and-what-it-probably-means/ |title=The Big Bad of Avengers Assembled Revealed |work=Multiversity.com |date=2012-05-09}}</ref> A mini-series titled ''Thanos: Son of Titan'' by [[Joe Keatinge]] was planned for publication in August 2012, but was cancelled.<ref>[http://www.bleedingcool.com/2012/07/27/marvel-cancels-thanos-son-of-titan-mini-series/ Marvel Cancels Thanos: Son of Titan miniseries], www.bleedingcool.com, 27 July 2012</ref>
+
+The character's origin was expanded in the five-issue ''[[Thanos Rising]]'' miniseries by [[Jason Aaron]] and [[Simone Bianchi (artist)|Simone Bianchi]] which was published monthly beginning in April 2013.<ref name="ThanosRising">{{cite web |url=http://www.comicbookresources.com/?page=article&id=43214 |title=Aaron and Bianchi Explore "Thanos Rising" in April |last=Sunu |first=Steve |date=16 January 2013 |publisher=Comic Book Resources |accessdate=16 January 2013}}</ref> Later that same year, Thanos played a central role in the ''[[Infinity (comic book)|Infinity]]'' miniseries written by [[Jonathan Hickman]] and drawn by [[Jim Cheung]], [[Jerome Opeña]], and Dustin Weaver.
+
+In May 2014, Jim Starlin and Ron Lim worked together on the one-shot ''Thanos Annual'', which is a prelude to a new trilogy of original graphic novels. The first, ''Thanos: The Infinity Revelation'', was released the following August.<ref>[http://insidepulse.com/2014/05/28/thanos-annual-1-spoilers-review-the-road-to-all-new-marvel-now-crisis-comics-event-begins-here-time-runs-out-due-to-universal-transmutation/ Thanos Annual #1], Inside Pulse, May 28, 2014 (accessed May 28, 2014)</ref><ref>[http://www.comicbookresources.com/?page=article&id=50056 Jim Starlin Has an "Infinity Revelation" for Thanos], Comic Book Resources, January 3, 2014 (accessed May 28, 2014)</ref> Beginning in February 2015, Starlin also penned a four-issue miniseries titled ''Thanos vs. Hulk'', which was set prior to the graphic novels. The second installment in the trilogy, ''Thanos: The Infinity Relativity'', was released in June, 2015.<ref>"[http://www.comicbookresources.com/?page=article&id=57225 "Thanos: The Infinity Relativity" OGN From Jim Starlin]", Comic Book Resources, November 20, 2014 (accessed April 3, 2015)</ref> The third graphic novel, ''Thanos: The Infinity Finale'', as well as the connected mini-series ''The Infinity Entity'' were published in 2016.<ref>{{cite web |url= http://www.comicbookresources.com/article/jim-starlin-enters-adam-warlocks-mind-in-infinity-entity|title= EXCLUSIVE: Jim Starlin Enters Adam Warlock's Mind In "Infinity Entity"|first= Dave|last= Richards|date= September 24, 2015|publisher= [[Comic Book Resources]]|archiveurl= https://web.archive.org/web/20160122221327/http://www.comicbookresources.com/article/jim-starlin-enters-adam-warlocks-mind-in-infinity-entity|archivedate= January 22, 2016|deadurl= no|accessdate= January 24, 2016}}</ref>
+
+At the same time Starlin was writing these graphic novels and tie-ins, the character also appeared in ''[[The New Avengers (comics)|New Avengers]]'' #23-24 (Oct-Nov 2014),<ref>Meylikhov, Matthew (May 30, 2014) "[http://multiversitycomics.com/news/thanos-joins-the-new-avengers-in-september-and-time-runs-out-as-hickmans-books-jump-ahead-8-months/ Thanos Joins the New Avengers in September] {{webarchive|url=https://web.archive.org/web/20140603075112/http://multiversitycomics.com/news/thanos-joins-the-new-avengers-in-september-and-time-runs-out-as-hickmans-books-jump-ahead-8-months/ |date=2014-06-03 }}," Multiversity Comics (accessed June 19, 2014)</ref> ''Guardians of the Galaxy'' vol. 3, #18-20 (Oct-Dec 2014), ''Legendary Star-Lord'' #4 (Dec 2014), a six-issue miniseries titled ''Thanos: A God Up There Listening'' (Dec 2014), ''Avengers'' vol. 5, #40-41 (Mar-Apr 2015), and ''Deadpool'' vol. 3, #45 ("#250") (Jun 2015). Thanos also played a major role in the five-issue miniseries ''[[The Infinity Gauntlet]]'' vol. 2, (July 2015 – Jan 2016), a tie-in of the cross-over ''[[Secret Wars (2015 comic book)|Secret Wars]]'' (2015).
+
+==Fictional character biography==
+
+Thanos was born on [[Saturn]]'s moon [[Titan (Marvel Comics)|Titan]], and is the child of [[Eternals (comics)|Eternals]] [[Mentor (A'lars)|Mentor]] and [[Sui-San]]. Thanos carries the [[Deviant (comics)|Deviants]] gene, and as such shares the physical appearance of the Eternals' cousin race. At birth, his mother was shocked by his appearance and attempted to kill him. During his school years, Thanos was a [[pacifist]]<ref>''Thanos Rising'' #1</ref> and would only play with his brother [[Starfox (comics)|Eros]] (Starfox) and pets. By adolescence, Thanos had become fascinated with [[nihilism]] and death, worshipping and eventually falling in love with the physical embodiment of death, [[Death (Marvel Comics)|Mistress Death]].<ref>''Thanos Rising'' #3, ''Iron Man'' vol 1 #55</ref> As an adult, Thanos augmented his physical strength and powers mystically and artificially. He also attempted to create a new life for himself by starting a family. He is visited again by Mistress Death, for whom he murders his family.<ref>''Thanos Rising'' #4-5</ref>
+
+===Cosmic Cube and Infinity Gems===
+
+Wishing to impress Mistress Death, Thanos gathers an army of villainous aliens and begins a nuclear bombardment of Titan that kills millions of his race.<ref name="AvengersAnnual7">''Avengers Annual'' #7 (1977)</ref> Seeking universal power in the form of the [[Cosmic Cube]], Thanos travels to Earth. Prior to landing, his vessel destroys a nearby car  as a family witnesses his arrival.<ref>''Captain Marvel'' #30 (Jan. 1974)</ref> Unbeknownst to Thanos, two of the family members in the vehicle survive: the father's spirit is preserved by the Titanian cosmic entity [[Kronos (comics)|Kronos]] and is given a new form as [[Drax the Destroyer]] while the daughter is found by Thanos' father, Mentor, and is raised to become the heroine [[Moondragon]]. Thanos eventually locates the Cube, and also attracts the attention of Mistress Death. Willing the Cube to make him omnipotent, Thanos then discards the Cube. He imprisons Kronos and taunts [[Kree]] hero Captain Marvel, who with the aid of superhero team the Avengers and [[ISAAC (comics)|ISAAC]] (a super-computer based on Titan), is eventually able to defeat Thanos by destroying the Cube.<ref>''Captain Marvel'' #33 (July 1974)</ref>
+
+Thanos later comes to the aid of [[Adam Warlock]] in a war against the [[Magus (comics)|Magus]] and his religious empire.<ref>''Strange Tales'' #178-181 (Feb.–Aug. 1975)</ref><ref>''Warlock'' #9–11 (Oct. 1975&nbsp;– Jan. 1976)</ref> During this alliance Thanos cultivates a plan to reunite with Mistress Death, and secretly siphons off the energies of Warlock's Soul Gem, and combines these with the power of the other Infinity Gems to create a weapon capable of destroying a star. Warlock summons the Avengers and Captain Marvel to stop Thanos, although the plan is foiled when Thanos kills Warlock. The Titan regroups and captures the heroes, who are freed by Spider-Man and the [[Thing (comics)|Thing]]. Thanos is finally stopped by Warlock, whose spirit emerges from the Soul Gem and turns the Titan to stone.<ref name="AvengersAnnual7"/><ref>''Marvel Two-in-One Annual'' #2 (1977)</ref> Thanos's spirit eventually reappears to accompany a dying Captain Marvel's soul into the realm of Death.<ref>''Death of Captain Marvel'' (1982)</ref>
+
+===The Infinity saga===
+Thanos is eventually resurrected,<ref>''[[Silver Surfer]]'' vol. 3, #34 (Feb. 1990)</ref> and collects the Infinity Gems once again.<ref>''[[The Thanos Quest]]'' (1990)</ref> He uses the gems to create the Infinity Gauntlet, making himself omnipotent, and erases half the living things in the universe to prove his love to Death.<ref>''The Infinity Gauntlet'' #1 (July 1991)</ref> This act and several other acts are soon undone by Adam Warlock.<ref>''The Infinity Gauntlet'' #6 (Dec. 1991)</ref> Warlock reveals that Thanos has always allowed himself to be defeated because the Titan secretly knows he is not worthy of ultimate power. Thanos joins Warlock as part of the [[Infinity Watch]] and helps him to defeat first his [[Magus (comics)|evil]]<ref>''The Infinity War'' #1–6 (1992)</ref> and then [[Goddess (comics)|good]]<ref>''The Infinity Crusade'' #1–6 (1993)</ref> personas, and cure  [[Thor (Marvel Comics)|Thor]] of "warrior Madness".<ref>''Thor'' #470–471 (Jan.–Feb. 1994); ''Silver Surfer'' vol. 3, #88 (Jan. 1994); ''Warlock Chronicles'' #8 (Feb. 1994); ''Warlock and the Infinity Watch'' #25 (Feb. 1994)</ref>
+
+The events above have been dubbed the "Infinity saga."<ref>''[https://books.google.com/books?id=fPCSBgAAQBAJ&vq= Infinity Gauntlet: Aftermath]'', Marvel, 2013, back cover.</ref>
+
+===Other adventures===
+Thanos later recruits a team of Earth-bound super-villains and puts them under the field leadership of [[Geatar]] in a mission to capture an ancient robot containing the obscure knowledge of a universal library and extract its data.<ref>''Secret Defenders'' #11–14 (Jan.–April 1994)</ref> Thanos uses information from the robot to plot against and battle [[Tyrant (Marvel Comics)|Tyrant]], the first creation of Galactus turned destroyer.<ref>''Cosmic Powers'' #1–6 (March–Aug. 1994)</ref> When trapped in an alternate dimension, Thanos employs the aid of the brother of [[Ka-Zar (comics)|Ka-Zar]], [[Plunderer|Parnival Plunder]]<ref>''Ka-Zar'' vol. 2, #4–11 (Aug 1997&nbsp;– March 1998), ''Annual 1997''</ref> and later the [[Hulk (comics)|Hulk]]<ref>''X-Man and Hulk Annual 1998''</ref> to escape, although both attempts are unsuccessful. Thanos is eventually freed and comes into conflict with Thor, aligning himself with [[Mangog]] in a scheme to obtain powerful mystical and cosmic talismans which will allow him to destroy all life in the universe,<ref>''Thor'' vol. 2, #21-25 (March–July 2000)</ref> and during their battles Thanos decimates the planet [[Rigellians (comics)|Rigel-3]].<ref>''Thor Annual'' (2000)</ref>
+
+Thanos then uses the heroes Thor and [[Genis-Vell]] (Captain Marvel's son) against the death god Walker, who attempts to woo Mistress Death and then destroy the entity after being rejected.<ref>''Captain Marvel'' vol. 2, #17–19 (June–Aug. 2001)</ref> Thanos then devises a plan to become the All-Father of a new pantheon of gods created by himself. Thanos, however, finds himself opposed by the Avengers' former member [[Mantis (Marvel Comics)|Mantis]] and her son Quoi, who apparently is destined to be the Celestial Messiah. Thanos abandons this plan after having to unite with Mistress Death to destroy the "Rot", a cosmic aberration in deep space caused by Thanos's incessant love for Death.<ref>''Avengers: Celestial Quest'' #1–8 (Nov. 2001&nbsp;– June 2002)</ref> Thanos also once conducted extensive research on genetics, and after studying many of the universe's heroes and villains [[Cloning|cloned]] them and gene-spliced his own [[DNA]] into the subjects. Although he later abandons the project, five clones survive, being versions of [[Professor X]], Iron Man, [[Gladiator (Kallark)|Gladiator]], [[Doctor Strange]], and Galactus respectively. A sixth and unnamed version of Thanos also appears, and it is revealed the incarnations of Thanos encountered in the past by Thor and Ka-Zar were actually clones. The true Thanos&nbsp;– with the aid of Adam Warlock, Gamora, Pip the Troll, Spider-Man, Captain Marvel, and Dr. Strange&nbsp;– destroys the remaining clones.<ref>''The Infinity Abyss'' #1–6 (2002)</ref>
+
+When the ancient Egyptian [[pharaoh]] Akhenaten uses a [[Heart of the Universe|source of cosmic power]], the Heart of the Universe, to seize power in present-day Earth (killing most of Earth's heroes in the process), Thanos uses a time-travel stratagem to defeat him. Thanos then uses the Heart of the Universe to reverse Akhenaten's actions and was also compelled to correct a flaw in the universe. Changed by the experience, Thanos advises confidant Adam Warlock he will no longer seek universal conquest.<ref>''Marvel: The End'' #1-6 (May-Aug. 2003)</ref> However, Marvel's Executive Editor [[Tom Brevoort]] has stated on his [[Tumblr]] blog that this story is not in any way a part of official Marvel continuity.<ref>{{cite web|url=http://brevoortformspring.tumblr.com/post/94063615333/so-despite-everyone-else-believing-the-end-was|title=New Brevoort Formspring|work=tumblr.com}}</ref><ref>{{cite web|url=http://brevoortformspring.tumblr.com/post/107750758608/wait-a-second-wait-a-second-i-just-saw-on|title=New Brevoort Formspring|work=tumblr.com}}</ref>
+
+Thanos decides to atone for the destruction of Rigel-3, and agrees to aid a colony of Rigellians in evacuating their planet before Galactus can consume it. During the course of this mission Thanos learns Galactus is collecting the Infinity Gems in an effort to end his unyielding hunger. Thanos later learns Galactus is being manipulated into releasing a multiversal threat called Hunger, which feeds on entire universes. Despite opposition from Thanos, Galactus unwittingly frees the entity, and when its intentions are revealed, the pair team up and attempt to destroy it.<ref>''Thanos'' #1–6(Dec. 2003&nbsp;– April 2004)</ref>
+
+En route to the [[Kyln]], an intergalactic prison, Thanos meets Death, who for the first time speaks to the Titan. Death claims to be worth wooing, but says Thanos must offer something other than death. At the Kyln Thanos encounters Peter Quill, also known as [[Star-Lord]], and the [[Shi'ar]] warrior [[Gladiator (Kallark)|Gladiator]], who are both prisoners, and the [[Beyonder]], who has been rendered amnesiac by its choice to assume a humanoid female form. Thanos battles the Beyonder, causing its mind to shut down and leaving its power trapped within a comatose physical form. Thanos then instructs the Kyln officers to keep the Beyonder on life support indefinitely in order to prevent the entity from being reborn.<ref>''Thanos'' #7–9 (May 2004)</ref> Thanos departs the Kyln in the company of Skreet, a chaos-mite freed from the prison. Thanos then meets the Fallen, revealed to be the true first [[Herald of Galactus]]. Thanos defeats the former Herald and places him under complete mental control.<ref>''Thanos'' #10-12 (July&nbsp;– Sept. 2004)</ref> He later appears in [[Wisconsin]] attempting to charge a weapon called the Pyramatrix with the life force of everyone on Earth until he is defeated by [[Squirrel Girl]]. After the battle, [[Uatu]] the Watcher appears and confirms to Squirrel Girl that she defeated the real Thanos, not a clone or copy.<ref>''GLX-Mas Special'' (December 2005)</ref>
+
+===Annihilation===
+{{Main article|Annihilation (comics)}}
+During the [[Annihilation (comics)|Annihilation War]] Thanos allies himself with the genocidal villain [[Annihilus]]. When the Annihilation Wave destroys the Kyln, Thanos sends the Fallen to check on the status of the Beyonder, whose mortal form he finds has perished. Before the Fallen can report back to Thanos it encounters [[Tenebrous (Marvel Comics)|Tenebrous]] and [[Aegis (Lady of All Sorrows)|Aegis]]: two of [[Galactus]]'s ancient foes. Thanos convinces Tenebrous and Aegis to join the Annihilation Wave in order to get revenge on Galactus, and they subsequently defeat the World Devourer and the Silver Surfer. Annihilus desires the secret of the Power Cosmic and asks Thanos to study Galactus. Once Thanos learns Annihilus's true goal is to use the [[Power Cosmic]] to destroy all life and remain the sole survivor, he decides to free Galactus. Drax the Destroyer kills Thanos before he can do so but discovers that Thanos had placed a failsafe device to allow Silver Surfer to free Galactus in the event that Annihilus betrayed him.<ref>''Annihilation'' #4 (Jan. 2007)</ref> During a climactic battle with Annihilus, [[Nova (Richard Rider)|Nova]] is near death and sees Thanos standing with Mistress Death.<ref>''Annihilation'' #6 (March 2007)</ref>
+
+===''The Thanos Imperative''===
+{{Main article|The Thanos Imperative}}
+A cocoon protected by the [[Universal Church of Truth]] is revealed to be hiding Thanos, who has been chosen by [[Oblivion (comics)|Oblivion]] to be the new Avatar of Death.<ref>''Guardians of the Galaxy'' vol. 2, #24 (May 2010)</ref> Resurrected before his mind could be fully formed, Thanos goes on a mindless rampage before being captured by the Guardians of the Galaxy.<ref>''Guardians of the Galaxy'' vol. 2, #25 (June 2010)</ref>  Thanos pretends to aid the Guardians against the [[The Thanos Imperative|invading Cancerverse]], and after discovering its origin kills an alternate version of Mar-Vell, the self-proclaimed Avatar of Life. This causes the collapse of the Cancerverse, and [[Nova (Richard Rider)|Nova]] sacrifices himself in an attempt to contain Thanos inside the imploding reality.<ref>''The Thanos Imperative: Ignition'' July 2010; ''The Thanos Imperative'' Aug. 2010&nbsp;– Jan. 2011</ref> Thanos escapes<ref>''Guardians of the Galaxy'' Vol. 3, #18-20 (Oct. – Dec. 2014)</ref> and returns to Earth seeking an artificial cosmic cube. He forms an incarnation of the criminal group [[Zodiac (comics)|Zodiac]] to retrieve it, but he is defeated by the Avengers and the Guardians of the Galaxy and remanded to the custody of the  [[Elders of the Universe]].<ref>''Avengers Assemble'' #1-8 (March&nbsp;– Oct. 2012)</ref>
+
+===Infinity and the Cabal===
+{{Main article|Infinity (comic book)}}
+Thanos soon invades Earth again after being informed that most of the Avengers have temporarily left the planet.<ref>''Infinity'' #1</ref> He launches an assault on [[Attilan]], which he offers to spare in exchange for the deaths of all [[Inhumans]] between the ages of 16 and 22. [[Black Bolt]] later informs the [[Illuminati (comics)|Illuminati]] that the true purpose of the invasion is to find and kill Thane, an Eternal/Inhuman hybrid that Thanos had secretly fathered years earlier.<ref>''Infinity'' #2</ref> Thanos is trapped in a pocket limbo of stasis by his son.<ref>''Infinity'' #6</ref> Thanos is freed by [[Namor]] and was among the villains that joined his [[Cabal (comics)|Cabal]] to destroy other worlds.<ref>''New Avengers'' Vol. 3, #23</ref> Thanos later meets his end on [[Battleworld]], where he is easily killed by [[Doctor Doom|God Emperor Doom]] during an attempted insurrection.<ref>''Secret Wars'' vol. 2, #8</ref>
+
+===''Ultimates'' and ''Civil War II''===
+[[File:Thanos Ultimates Vol 2 5.png|thumb|Thanos in ''Ultimates'' vol. 2, #5 (May 2016). Art by Kenneth Rocafort.]]
+{{main|Civil War II}}
+
+Thanos is unintentionally brought back to life by Galactus.<ref>''Ultimates'' vol. 2, #5</ref> When Thanos prepares to raid a Project Pegasus facility to steal a Cosmic Cube, he is ambushed and defeated by a team of Avengers. During their battle, he mortally wounds [[War Machine]] and critically injures [[She-Hulk]].<ref>''Free Comic Book Book Day Avengers 2016''; ''Civil War II'' #1</ref><ref>{{cite web|url=http://www.bleedingcool.com/2016/08/10/war-machine-didnt-put-she-hulk-in-a-coma-and-other-civil-war-ii-revelations-today/|title=War Machine didn't put She-Hulk in a coma, and other Civil War revelations today|website=Bleedingcool.com|accessdate=20 September 2016}}</ref><ref>''A-Force'' #8 (2016)</ref> After his defeat, he is imprisoned in the [[Triskelion (comics)|Triskelion]],<ref>''Ultimates'' vol. 2, #8</ref> and manipulates Anti-Man into facilitating his escape.<ref>''Ultimates'' vol. 2, #9-10</ref> Thanos goes on a killing spree, but [[Black Panther (comics)|Black Panther]], [[Blue Marvel]] and [[Monica Rambeau]] are able to stop him by devising a device that blocks the electrical synapses in his brain.<ref>''Ultimates'' vol. 2, #11</ref> 
+
+Thanos somehow later recovers and escapes captivity, and reclaims his [[Black Order (comics)|Black Order]] forces from Corvus Glaive. After retaking command of his Black Quadrant outpost, Thanos discovers that he is dying.<ref>''Thanos'' (2016) #1</ref> Thanos tries to force Mentor to find a cure for his malady, but kills him when he is unable to.<ref>''Thanos'' #2</ref> Around this time, Thanos is approached by a mysterious hooded woman, who proposes an alliance. He tasks her with bringing him the [[Mjolnir (comics)|hammer]] of the deceased [[Ultimate Thor]].<ref>''The Unworthy Thor'' #2</ref> The woman fails, but removes her disguise to reveal herself as [[Hela (comics)|Hela]], the Norse goddess of death. She tells Thanos that she needs his help to reclaim [[Hel (location)|Hel]], and in exchange, offers to give him the one thing he has been searching for his entire life: death. After this, the two kiss.<ref>''The Unworthy Thor'' #5</ref>
+
+==Powers and abilities==
+Thanos is a mutant member of the race of superhumans known as the [[Titan (Marvel Comics)|Titan]]ian Eternals. The character possesses abilities common to the Eternals, but amplified to a higher degree through a combination of his mutant–Eternal heritage, bionic amplification, mysticism, and power bestowed by the abstract entity, Death. Demonstrating enormous superhuman strength, stamina, and durability, Thanos can absorb and project vast quantities of cosmic energy and is capable of [[telekinesis]], [[telepathy]], and matter manipulation. Thanos is an accomplished hand-to-hand combatant, having been trained in the art of war on Titan.
+
+Thanos has proven himself capable of briefly holding his own in battle against [[Odin (comics)|Odin]],<ref>''Warlock and the Infinity Watch'' #25 (Feb. 1994)</ref> and of blasting [[Galactus]] off his feet.<ref>''Thanos'' #5 (April 2004)</ref>
+
+Thanos is a supergenius in virtually all known fields of advanced science and has created technology far exceeding contemporary Earth science. He often employs a transportation chair capable of space flight, [[force shield|force field]] projection, [[teleportation]], [[time travel]], and movement through [[Parallel universe (fiction)|alternate universe]]s. Thanos is also a master strategist and uses several space vessels, at least three under the name "Sanctuary", as a base of operations.
+
+==Other versions==
+
+===Amalgam Comics===
+During the 1996 [[Amalgam Comics]] crossover between [[DC Comics]] and Marvel, Thanos merged with [[Darkseid]] to become "Thanoseid".<ref>''Bullets and Bracelets'' #1 (1996)</ref>
+
+===''Earth X''===
+In the [[Parallel universe (fiction)|alternate universe]] limited series ''[[Earth X]]'', Thanos dwelled in the Realm of the Dead with the entity Death.<ref>''Earth X'' #0–12, X (Mar. 1999&nbsp;– June 2000)</ref> It is revealed his mother was a Skrull and Death used her secret to make him believe that Death was his mother. When the deception is revealed, he uses the Ultimate Nullifier on Death.<ref>''Universe X'' Issue X</ref>
+
+===Ultimate Marvel===
+The [[Ultimate Marvel]] [[imprint (trade name)|imprint]] title ''[[Ultimate Fantastic Four]]'' features an alternate universe version of Thanos who is the ruler of Acheron (and has a son called [[Ronan the Accuser]], who is in possession of a [[Cosmic Cube]]<ref>''Ultimate Fantastic Four'' #42 (May 2007)</ref>), a vast empire consisting of thousands of worlds that exist in another plane of existence.<ref>''Ultimate Fantastic Four'' #35 (Dec. 2006)</ref>
+
+===''Marvel Zombies 2''===
+Thanos features in the limited series ''[[Marvel Zombies 2]]'', set in the alternate universe of [[Multiverse (Marvel Comics)#Known alternate universes|Earth-2149]]. Having been "zombified", the character is killed by the cosmic-powered [[Hulk (comics)|Hulk]] after an altercation over food.<ref>''Marvel Zombies 2'' #1 (Dec. 2007&nbsp;– Apr. 2008)</ref>
+
+==In other media==
+
+===Television===
+* Thanos was featured in the ''[[Silver Surfer (TV series)|Silver Surfer]]'' animated television series, voiced by Gary Krawford. Due to [[Fox Broadcasting Company|Fox]]'s broadcast standards, Thanos is depicted as a worshiper of Lady Chaos. Thanos talks to a statue of Lady Chaos on his ship.<ref>{{Cite web |url=http://marvelite.prohosting.com/surfer/toon/lbrody.html |title=Interview with Larry Brody |work=Marvelite.prohosting.com |accessdate=2011-03-15}}</ref>
+* Thanos appears on ''[[The Super Hero Squad Show]]'', voiced by [[Steven Blum]] in his first appearance,<ref>{{cite episode|title=If This Be My Thanos|series=The Super Hero Squad Show|network=Cartoon Network|season=1|number=11|airdate=October 24, 2009}}</ref> and by [[Jim Cummings]] in all other appearances.<ref name="btva">{{cite web | url=http://www.behindthevoiceactors.com/Jim-Cummings/ | title=Behind the Voice Actors – Jim Cummings | work=Behind the Voice Actors | accessdate=April 28, 2017| postscript=. Check mark indicates BTVA has verified the entries using screenshots of credits and other confirmed sources.}}</ref>
+* Thanos appears in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]''<ref>{{cite web|url=https://www.usatoday.com/story/life/2014/05/22/thanos-avengers-assemble-exclusive/9436619/|title=First look: Thanos a foe for animated 'Avengers'|date=22 May 2014|work=USA TODAY}}</ref> and ''[[Guardians of the Galaxy (TV series)|Guardians of the Galaxy]]'' animated shows, voiced by [[Isaac C. Singleton Jr.]]<ref name="Thanos Rising">{{cite episode|title=Thanos Rising|series=Avengers Assemble|network=Disney XD|season=2|number=2|airdate=October 5, 2014}}</ref>
+
+===Film===
+{{multiple image
+<!-- Essential parameters -->
+| align     = right
+| direction = vertical
+| footer            = Damion Poitier (top) as Thanos in the end credits of ''[[The Avengers (2012 film)|The Avengers]]'' and [[Josh Brolin]] (bottom) as Thanos in ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]''.
+
+<!-- Image 1 -->
+| image1    = Thanos Avengers.jpg
+| width1    = 220
+| alt1      = 
+| caption1  =
+
+<!-- Image 2 -->
+| image2    = Thanos-guardians.jpg
+| width2     = 220
+| alt2      = 
+| caption2  = 
+}}
+* [[Damion Poitier]] makes a cameo appearance as Thanos (credited as Man #1) during the mid-credits of the 2012 film ''[[The Avengers (2012 film)|The Avengers]]'' as [[Loki (comics)|Loki]]'s mysterious benefactor.<ref name=Empire>{{Cite web |url=http://www.empireonline.com/news/story.asp?NID=33806 |title=Kevin Feige Avengers Spoiler Podcast |work=[[Empire Magazine]] |accessdate=2012-05-08}}</ref><ref>{{Cite web |url=http://www.ifc.com/fix/2012/05/the-avengers-post-credit-scenes |title=''The Avengers'' has two post-credit scenes, mystery actor revealed |work=[[IFC (U.S. TV channel)|IFC]] |date=2012-05-02 |accessdate=2012-05-02}}</ref>
+* [[Josh Brolin]] appears as Thanos in the 2014 film ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]''.<ref>{{cite web|url=http://www.hollywoodreporter.com/heat-vision/josh-brolin-voicing-thanos-guardians-708276|title=Josh Brolin Voicing Thanos in 'Guardians of the Galaxy'|last=Ford|first=Rebecca|work=[[The Hollywood Reporter]]|date=May 30, 2014|accessdate=May 30, 2014|archiveurl=https://web.archive.org/web/20140531011326/http://www.hollywoodreporter.com/heat-vision/josh-brolin-voicing-thanos-guardians-708276|archivedate=May 31, 2014 |deadurl=no}}</ref> He tries to use [[Ronan the Accuser]] to obtain an Infinity Stone. The film also introduces him as the adoptive father of [[Gamora]] and [[Nebula (comics)|Nebula]]. [[Sean Gunn]] stood in for Thanos on set,<ref>{{cite web|url=http://www.slashfilm.com/avengers-3-guardians-connection/|title=‘Guardians of The Galaxy’ Connects to ‘Avengers 3;’ Plus New Image|last=Lussier|first=Germain|publisher=[[/Film]]|date=April 11, 2014|archiveurl=https://www.webcitation.org/6Ol7tvegh?url=http://www.slashfilm.com/avengers-3-guardians-connection/|archivedate=April 11, 2014|deadurl=no|df=}}</ref><ref>{{cite web|url=http://spinoff.comicbookresources.com/2014/06/26/james-gunn-reveals-his-brothers-roles-in-guardians-of-the-galaxy/1/|title=James Gunn Reveals His Brother's Roles in 'Guardians of the Galaxy' - Spinoff Online - TV, Film, and Entertainment News Daily|work=Spinoff Online - TV, Film, and Entertainment News Daily}}</ref> while Brolin provided the [[performance capture]] of the character.<ref>{{cite web|url=http://collider.com/kevin-feige-iron-man-4-guardians-of-the-galaxy/|title=Kevin Feige Talks GUARDIANS OF THE GALAXY, THOR 3, CAPTAIN AMERICA 3, DOCTOR STRANGE, Casting Josh Brolin as Thanos, Comic-Con Plans, and More|last=Weintraub|first=Steve|publisher=Collider|date=July 22, 2014|archiveurl=https://www.webcitation.org/6RF2IPFkJ?url=http://collider.com/kevin-feige-iron-man-4-guardians-of-the-galaxy/|archivedate=July 21, 2014|deadurl=no|df=}}</ref> Thanos was originally going to have a larger role in ''Guardians of the Galaxy'', but [[Joss Whedon]] felt that the character needed to be threaded more gently.<ref>{{cite web|url=http://www.hitfix.com/news/joss-whedon-reveals-that-there-was-supposed-to-be-more-thanos-in-guardians-of-the-galaxy|title=Joss Whedon reveals that there was supposed to be more Thanos in Guardians of the Galaxy|date=8 December 2014|work=HitFix}}</ref>
+* Brolin reprises his role (uncredited) in the mid-credits scene of the 2015 film ''[[Avengers: Age of Ultron]]''. Thanos is seen retrieving an Infinity Gauntlet without the stones saying "Fine, I'll do it myself."
+* Brolin will reprise his role in the upcoming films ''[[Avengers: Infinity War]]'' and [[Untitled Avengers film|its untitled sequel]].<ref>{{cite web|url=http://marvel.com/news/movies/23546/marvels_the_avengers_head_into_an_infinity_war|title=Marvel's The Avengers Head Into an Infinity War - News - Marvel.com|work=marvel.com}}</ref><ref>{{cite web|url=http://www.comingsoon.net/movies/news/389995-ultimately-its-thanos-against-everyone-says-josh-brolin-of-avengers-infinity-war#/slide/1|title='It's Thanos Against Everyone' Says Brolin of Avengers: Infinity War - ComingSoon.net|work=ComingSoon.net}}</ref>
+
+===Video games===
+* Thanos appeared in the [[Capcom]] fighting games ''[[Marvel Super Heroes (video game)|Marvel Super Heroes]]''{{cn|date=December 2016}} and ''[[Marvel vs. Capcom 2]]'' as a playable character, voiced by [[Andrew Jackson (actor)|Andrew Jackson]].{{cn|date=December 2016}}
+* Thanos appears as a [[downloadable content]] character in ''[[Lego Marvel Super Heroes]]''.<ref>{{cite web|url=http://brickextra.com/2013/05/02/lego-marvel-super-heroes-video-game-pre-order-bonuses|title=Loading...|website=Brickextra.com|accessdate=24 November 2017}}</ref>
+* Thanos appears as a playable character of ''[[Lego Marvel's Avengers]]'', voiced by Isaac C. Singleton Jr.{{cn|date=February 2017}}
+* Thanos is a playable character in ''[[Marvel Future Fight]]''.<ref>{{cite web|url=http://www.product-reviews.net/2016/04/19/future-fight-2-1-0-with-thanos-supergiant-ebony-maw-playable/|title=Future Fight 2.1.0 with Thanos, Supergiant, Ebony Maw playable|website=Product-reviews.net|accessdate=24 November 2017}}</ref>
+* Thanos is available to play with in ''[[Marvel: Contest of Champions]]''.{{cn|date=October 2016}}
+* There are two playable versions of Thanos in the match-three mobile game ''[[Marvel Puzzle Quest]]''. Thanos was added to the game in December 2016.<ref>{{cite web|url=http://toucharcade.com/2016/12/19/thanos-comes-to-marvel-puzzle-quest/|title=Thanos Comes to 'Marvel Puzzle Quest' - TouchArcade|website=Toucharcade.com|accessdate=24 November 2017}}</ref>
+* Thanos appears in ''[[Guardians of the Galaxy: The Telltale Series]]'', voiced by Jake Hart.<ref>{{cite web|url=http://www.imdb.com/title/tt6636812/|title=Guardians of the Galaxy: The Telltale Series|date=18 April 2017|website=IMDb.com|accessdate=24 November 2017|via=www.imdb.com}}</ref> In the first chapter, Thanos seeks the Eternity Forge, an ancient artifact. He is killed in a battle with the Nova Corps and the Guardians of the Galaxy.
+* Thanos appears as a playable character in ''[[Marvel vs. Capcom: Infinite]]'',<ref>{{cite web|url=https://www.eventhubs.com/news/2017/jun/12/marvel-vs-capcom-infinite-story-mode-demo-out-now-playstation-4-trailer-shows-several-new-characters/|title=Marvel vs. Capcom: Infinite story mode demo out now on PS4 and XB1, trailer shows several new characters|website=Eventhubs.com|accessdate=24 November 2017}}</ref> voiced again by Isaac C. Singleton Jr.<ref>{{cite video game | developer=[[Capcom]] | publisher=[[Capcom]] | scene=Credits, "Cast" | title=[[Marvel vs. Capcom: Infinite]] | year=2017}}</ref> In this game, Thanos no longer has the Infinity Stone-based moves from the previous ''Marvel vs. Capcom'' games. In the story mode, he was originally captured by Ultron Sigma (a fusion between [[Ultron]] and Sigma from Capcom's ''[[Mega Man X]]'' series), until he is rescued by the remaining heroes and soon must aid the heroes to devise another plan in combatting Ultron Sigma.
+
+===Novels===
+* Thanos is the protagonist of the 2017 novel ''Thanos: Death Sentence'' by [[Stuart Moore]].<ref>{{cite web|url=http://marvel.com/comics/collection/55784/thanos_death_sentence_prose_novel_hardcover|title=Thanos: Death Sentence Prose Novel (Hardcover) - Comic Books - Comics - Marvel.com|website=Marvel.com|accessdate=24 November 2017}}</ref> The book follows Thanos' last chance to win Death's love after his defeat at the end of ''The Infinity Gauntlet''.
+
+==Collected editions==
+A number of the stories featuring Thanos have been republished into [[trade paperback (comics)|trade paperbacks]] and other collected editions:
+
+* ''The Life of Captain Marvel'' (collects ''Iron Man'' #55, ''Captain Marvel'' #25-34, ''[[Marvel Feature]]'' #12), 1991, {{ISBN|0-87135-635-X}}
+* ''[[Essential Marvel|Essential]] Avengers: Volume 6'' (includes ''Captain Marvel'' #33; ''The Avengers'' #125, 135), 576 pages, February 2008, {{ISBN|0-7851-3058-6}}
+* ''The Greatest Battles of the Avengers'' (includes ''Avengers Annual'' #7), 156 pages, December 1993, {{ISBN|0-87135-981-2}}
+* ''Avengers vs. Thanos'' (collects ''Iron-Man'' #55, ''Captain Marvel'' #25-33, ''Marvel Feature'' #12, ''Daredevil'' #105-107, ''Avengers'' #125, ''Warlock'' #9-11, 15, ''Avengers Annual'' #7, ''Marvel Two-In-One Annual'' #2, and material from ''Logan's Run'' #6), 472 pages, March 2013, {{ISBN|0-7851-6850-8}}
+* ''Essential Marvel Two-in-One: Volume 2'' (includes ''[[Marvel Two-in-One]] Annual'' #2), 568 pages, July 2007, {{ISBN|0-7851-2698-8}}
+* ''[[Marvel Masterworks]] Captain Marvel: Volume 3'' (collects ''Captain Marvel'' #22–33, ''Iron Man'' #55), 288 pages, hardcover, April 2008, {{ISBN|0-7851-3015-2}}
+* ''Marvel Masterworks Captain Marvel: Volume 6'' (collects ''Captain Marvel'' #58-62, ''[[Marvel Spotlight]]'' #1-4, 8, ''Marvel Super-Heroes'' #3, ''[[Marvel Graphic Novel]]'' #1; ''Logan's Run'' #63), 296 pages, hardcover, May 2016, {{ISBN|978-0785199946}}
+* ''Marvel Masterworks Warlock: Volume 2'' (collects ''Strange Tales'' #178-181; ''Warlock'' #9–15; ''Avengers Annual'' #7; ''Marvel Two-in-One Annual'' #2), hardcover, 320 pages, hardcover, June 2009, {{ISBN|0-7851-3511-1}}
+* ''The Death of Captain Marvel'' (collects ''Captain Marvel'' #34, ''[[Marvel Spotlight]]'' #1–2, ''Marvel Graphic Novel'' #1), 128 pages, hardcover, June 2010, {{ISBN|0-7851-4627-X}}
+* ''Silver Surfer: Rebirth of Thanos'' (collects ''[[Silver Surfer]]'' #34–38; ''[[The Thanos Quest]]'' miniseries; "The Final Flower!" from ''[[Logan's Run (comics)|Logan's Run]]'' #6), 224 pages, April 2006, {{ISBN|0-7851-2046-7}} (hardcover, August 2010, {{ISBN|0-7851-4478-1}})
+* ''[[The Infinity Gauntlet]]'' (collects ''The Infinity Gauntlet'' limited series), 256 pages, March 2000, {{ISBN|0-87135-944-8}} (December 2004, {{ISBN|0-7851-0892-0}}; July 2006, {{ISBN|0-7851-2349-0}}; hardcover, August 2010, {{ISBN|0-7851-4549-4}})
+* ''Infinity War'' (collects ''Infinity War'' limited series; ''Warlock and the Infinity Watch'' #7–10; ''[[Marvel Comics Presents]]'' #108–111), 400 pages, April 2006, {{ISBN|0-7851-2105-6}}
+* ''Infinity Crusade'':
+** ''Volume 1'' (collects ''Infinity Crusade'' #1-3, ''Warlock Chronicles'' #1–3, ''Warlock and the Infinity Watch'' #18–19), 248 pages, December 2008, {{ISBN|0-7851-3127-2}}
+** ''Volume 2'' (collects ''Infinity Crusade'' #4–6, ''Warlock Chronicles'' #4–5, ''Warlock and the Infinity Watch'' #20–22), 248 pages, February 2009, {{ISBN|0-7851-3128-0}}
+* ''Thor: Blood and Thunder'' (collects ''Thor'' #468–471, ''Silver Surfer'' #86–88, ''Warlock Chronicles'' #6–8, ''Warlock and the Infinity Watch'' #23–25), 336 pages, July 2011, {{ISBN|978-0-7851-5094-7}}
+* ''[[DC vs. Marvel|DC versus Marvel Comics]]'' (collects ''DC vs. Marvel'' mini-series, ''Doctor Strangefate'' #1), 163 pages, September 1996, {{ISBN|1-56389-294-4}}
+* ''[[Ka-Zar (comics)|Ka-Zar]]'' by [[Mark Waid]] and [[Andy Kubert]]:
+** ''Volume 1'' (collects ''Ka-Zar'' #1–7, ''Tales of the Marvel Universe'' #1), 208 pages, January 2011, {{ISBN|978-0-7851-4353-6}}
+** ''Volume 2'' (collects ''Ka-Zar'' #8–14, ''Annual '97''), 216 pages, March 2011, {{ISBN|978-0-7851-5992-6}}
+* ''[[Deadpool]] Classic: Volume 5'' (collects ''Deadpool'' #26–33, ''Baby's First Deadpool'', ''Deadpool Team-Up'' #1), 272 pages, June 2011, {{ISBN|978-0-7851-5519-5}}
+* ''[[Thor (Marvel Comics)|The Mighty Thor]] by [[Dan Jurgens]] and [[John Romita, Jr.]]: Volume 4'' (collects ''Thor'' vol. 2, #18–25, ''Annual 2000''), 256 pages, November 2010, {{ISBN|978-0-7851-4927-9}}
+* ''Infinity Abyss'' (collects ''Infinity Abyss'' limited series), 176 pages, 2003, {{ISBN|0-7851-0985-4}}
+* ''Thanos: The End'' (collects ''[[Marvel: The End]]'' limited series), 160 pages, May 2004, {{ISBN|0-7851-1116-6}}
+* ''Thanos: Redemption'' (collects ''Thanos'' #1-12), 304 pages, November 2013, {{ISBN|0-7851-8506-2}}
+** ''Epiphany'' (collects ''Thanos'' #1–6), 144 pages, June 2004, {{ISBN|0-7851-1355-X}}
+** ''Samaritan'' (collects ''Thanos'' #7–12), 144 pages, October 2004, {{ISBN|0-7851-1540-4}}
+* ''[[Annihilation (comics)|Annihilation]]'':
+** ''Volume 1'' (collects ''Drax the Destroyer'' miniseries, ''Annihilation: Prologue'' one-shot, ''Annihilation: Nova'' miniseries), 256 pages, October 2007, {{ISBN|0-7851-2901-4}} (hardcover, March 2007, {{ISBN|0-7851-2511-6}})
+** ''Volume 2'' (collects ''Annihilation: Ronan'' miniseries, ''Annihilation: Silver Surfer'' miniseries, ''Annihilation: Super-Skrull'' miniseries), 320 pages, November 2007, {{ISBN|0-7851-2902-2}} (hardcover, May 2007, {{ISBN|0-7851-2512-4}})
+** ''Volume 3'' (collects ''Annihilation: The Nova Corps Files'' one-shot/handbook, ''Annihilation'' limited series, ''Annihilation: Heralds of Galactus'' miniseries), 304 pages, December 2007, {{ISBN|0-7851-2903-0}} (hardcover, July 2007, {{ISBN|0-7851-2513-2}})
+* ''[[The Thanos Imperative]]'' (collects ''The Thanos Imperative'' #1–6, ''The Thanos Imperative: Ignition'', ''The Thanos Imperative: Devastation'', ''Thanos Sourcebook''), 248 pages, hardcover, February 2011, {{ISBN|0-7851-5183-4}}
+* ''Infinity'' (collects ''Infinity'' #1-6, ''New Avengers'' vol. 3, #7-12, ''Avengers'' vol 5, #14-23, ''Infinity: Against the Tide Infinite Comic'' #1-2), 632 pages, hardcover, February 2014, {{ISBN|978-0785184225}}
+* ''Thanos Rising'' (collects ''Thanos Rising'' #1-5), 136 pages, hardcover, July 2014, {{ISBN|978-0785190479}}
+* ''Thanos: A God Up There Listening'' (collects ''Thanos: A God Up There Listening'' #1-4 and ''Thanos Annual'' #1), 120 pages, hardcover, December 2014, {{ISBN|978-0785191582}}
+* ''Thanos vs. Hulk'' (collects ''Thanos vs. Hulk'' #1-4, ''Warlock'' (1972) #12), 112 pages, June 2015, {{ISBN|978-0785197126}}
+* ''Thanos: Cosmic Powers'' (collects ''Secret Defenders'' #12-14, ''Cosmic Powers'' #1-6), 344 pages, November 2015, {{ISBN|978-0785198178}}
+* ''Deadpool vs. Thanos'' (collects ''Deadpool vs. Thanos'' #1-4), 112 pages, December 2015, {{ISBN|978-0785198451}}
+* ''The Infinity Gauntlet: Warzones!'' (collects ''The Infinity Gauntlet'' #1-5), 112 pages, December 2015, {{ISBN|978-0785198741}}
+* ''Siege: Battleworld'' (collects ''Siege'' #1-4, ''Uncanny X-Men'' (2011) #9-10), 144 pages, Februar 2016, {{ISBN|978-0785195498}}
+* ''[[Secret Wars (2015 comic book)|Secret Wars]]'' (collects ''Secret Wars'' #1-9 and material from ''Secret Wars'' #0 FCBD), 312 pages, March 2016, {{ISBN|978-0785198840}}
+* ''The Infinity Entity'' (collects: ''The Infinity Entity'' #1-4, ''Thanos Annual'' #1), 116 pages, July 2016, {{ISBN|978-0785194217}}'
+* ''Thanos The Infinity Revelation'', Jim Starlin, 2014, {{ISBN|978-0785184706}}
+* ''Thanos The Infinity Relativity'', Jim Starlin, 2015, {{ISBN|978-0785193036}}
+* ''Thanos The Infinity Finale'', Jim Starlin, 2016, {{ISBN|978-0785193050}}
+
+==Reception==
+Thanos was ranked number 47 on [[IGN]]'s top 100 comic book villains of all time,<ref>{{Cite web |url=http://www.ign.com/top/comic-book-villains/47.html |title=Thanos is Number 47 |work=[[IGN]] |accessdate=2014-06-02}}</ref> 22nd on Wizard's Top 100 Greatest Villains list,{{cn|date=June 2017}} and number 21 on ''[[Complex (magazine)|Complex]]''{{'}}s 25 Greatest Comic Book Villains List.<ref>{{Cite web |url=http://uk.complex.com/pop-culture/2013/09/greatest-comic-book-villains/thanos |title=Thanos is Number 21 |work=[[Complex (magazine)|Complex]] |accessdate=2016-06-21}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Wikiquote}}
+* {{Marvelwiki|Thanos|Thanos}}
+* {{Comicbookdb|type=character|id=1607|title=Thanos}}
+* [https://web.archive.org/web/20050213134802/http://www.corvusonline.net/thanos/ Thanos--The Mad Titan]
+* [http://www.marveldirectory.com/individuals/t/thanos.htm Thanos] at the Marvel Directory
+* [http://whenwillthehurtingstop.blogspot.it/2013/04/sir-thanos-rising-1-marvel-made-mistake.html Article about the differences between Thanos and Darkseid.]
+* [http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/Thanos Thanos on TVtropes.] 
+
+{{Thanos}}
+{{Navboxes
+|title=Related topics
+|list1=</span>
+{{Jim Starlin}}
+{{Avengers}}
+{{Captain Marvel}}
+{{Eternals}}
+{{Guardians of the Galaxy}}
+{{Inhumans}}
+{{Silver Surfer}}
+{{Marvel Cosmic}}
+}}
+{{Portal bar|1970s|Fictional characters|Superhero fiction}}
+
+[[Category:Characters created by Jim Starlin]]
+[[Category:Comics characters introduced in 1973]]
+[[Category:Extraterrestrial supervillains]]
+[[Category:Fictional mass murderers]]
+[[Category:Male characters in comics]]
+[[Category:Marvel Comics Eternals]]
+[[Category:Superhero film characters]]

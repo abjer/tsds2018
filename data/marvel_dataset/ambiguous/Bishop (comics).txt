@@ -1,0 +1,195 @@
+{{Infobox comics character
+| image = [[Image:Bishop.png|250px]]
+| caption = Promotional art from the cover of ''Bishop: The Last X-Man'' #1 by [[Georges Jeanty]]
+| alt = 
+| character_name = Lucas Bishop
+| species = [[Mutant (Marvel Comics)|Human Mutant]]
+| publisher = [[Marvel Comics]]
+| debut = ''[[Uncanny X-Men]]'' #282 (November 1991)
+| creators = [[John Byrne (comics)|John Byrne]] (writer)<br>[[Whilce Portacio]] (artist)
+| alliances = {{Plainlist| 
+* [[X-Men]]
+* [[Office of National Emergency|O*N*E]]
+* [[Xavier's Security Enforcers]]
+* [[Interpol]]
+* [[Apocalypse: The Twelve|The Twelve]]
+* [[X-Treme Sanctions Executive]]
+* [[New York City Police Department|NYPD]]
+* [[X-Treme X-Men]]
+}}
+| aliases = Archbishop <ref name="C2">{{Comic book reference | Writer = | Penciller = | Inker = | Story = | Title = Cable Vol. 2 | Issue = #16-17 | date=  2009 | Publisher = [[Marvel Comics]] | }}</ref>
+| powers = {{Plainlist|
+* Energy absorption and redirection
+* Superhuman physical attributes
+* Ability to instinctively know present location
+}}
+}}
+'''Lucas Bishop''' is a fictional [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]], particularly titles associated with the [[X-Men]].
+
+He first appears as a member of [[Xavier's Security Enforcers]] (initially called the Xavier School Enforcers), a [[Mutant (Marvel Comics)|mutant]] [[police]] force from a [[dystopia]]n future of the [[Marvel Universe]].  He travels to the 20th century and joins the X-Men, a team he knew only as legends.  An example of 1990s anti-authority [[antihero]]es, Bishop experiences difficulty adjusting to the norms of the time period. In the mid-2000s, Bishop took on an antagonistic role over the course of several storylines.
+
+Bishop made frequent appearances in [[X-Men (TV series)|the ''X-Men'' animated series]] of the 1990s. Bishop is portrayed by [[Omar Sy]] in the 2014 film ''[[X-Men: Days of Future Past]]''.
+
+{{TOC limit|3}}
+
+==Publication history==
+Created by [[Whilce Portacio]] and [[John Byrne (comics)|John Byrne]], the character first appeared in ''[[Uncanny X-Men]]'' #282 ([[1991 in comics#November|November 1991]]).
+
+Bishop had four limited series including the self-titled ''Bishop'' series, where he tracked and fought [[Mountjoy (comics)|Mountjoy]]; ''XSE'', which showcased his past (future); and its sequel - ''Bishop: Xavier's Security Enforcers''. He also teamed up with [[Gambit (comics)|Gambit]] to oppose [[Stryfe]] in ''Gambit and Bishop: Sons of the Atom''. He also starred in the series ''Bishop: The Last X-Man'' (1999–2001), in which he was trapped in another [[alternate history|alternate timeline]]. He appeared regularly in ''[[District X]]'' (2004–2005), a [[police procedural]] set in a mutant [[ghetto]] in [[New York City]]. He was cast as a police officer in [[New York City]]’s "mutant town," but the series was canceled after 14 issues. He also starred in the House of M tie-in, ''Mutopia''.
+ 
+Writer Sam Humphries revealed in an interview that Bishop would be back in our timeline and would be one of the first enemies of the new incarnation of [[Uncanny X-Force]].<ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=41085|title=Humphries Enters the Shadowy World of "Uncanny X-Force"|date=19 September 2012|publisher=}}</ref>
+
+==Fictional character biography==
+
+===Early life===
+Born about 80 years in the future of the Marvel Universe, Bishop was the son of [[Australian Aboriginal|Aboriginal]] mutant refugees who fled to America from Australia a day before Australia was devastated in a nuclear attack.<ref>''X-Men: The Times and Life of Lucas Bishop'' #1</ref> He was raised in a mutant concentration camp in the aftermath of the Summers Rebellion, an uprising in which mutants and humans joined forces to destroy the [[Sentinel (comics)|Sentinels]]. Bishop has a distinctive M [[human branding|brand]] over his right eye, used to identify [[Mutant (Marvel Comics)|mutants]] in his era.  After his parents were killed, Bishop was taken in by a man named LeBeau, also called [[Alternative versions of Gambit#Bishop's future|Witness]], who was reportedly the last man to see the legendary [[X-Men]] alive.  According to LeBeau (in ''[[Xavier's Security Enforcers|XSE]]'' #4), Bishop's adoptive grandmother took Bishop away from him.  Bishop and his younger sister, [[Shard (comics)|Shard]], were then subsequently raised by his grandmother within the same mutant [[internment|concentration camp]] in [[Brooklyn]].<ref>''XSE'' #4</ref>
+
+Bishop's grandmother taught him many legends of the X-Men, who were old allies of hers. Depowered by unknown means, she had entered the camps in secret to raise her grandchildren. Upon her deathbed, she made Bishop swear to protect Shard. After the Rebellion, the mutants were "emancipated" and sent out of the camps to fend for themselves. Bishop and Shard, who were only children, were left alone. They lived on the streets, stealing in order to survive until coming under the care of a family friend, a war veteran named Hancock. Slightly blind, Hancock nevertheless took on the task of raising the two.
+
+One day, Bishop encountered an anti-human group of mutants called the Exhumes, who took [[Shard (comics)|Shard]] hostage just before the [[Xavier's Security Enforcers|XSE]] arrived.  Until that time Bishop had admired the Exhumes, attributing to them his proud, idealized notion of the legendary X-Men.  It wasn't until the XSE defeated the Exhume and saved his sister, that Bishop knew he wanted to join the XSE, and when at the age of fifteen Hancock was murdered by criminals who were promptly arrested by the XSE he and Shard enlisted in their ranks. Shard soon surpassed Bishop to become the youngest XSE officer.
+
+During a training class, Bishop's instructors and some of his fellow students were attacked and killed. Bishop rallied the survivors and led the struggle against the assailants until reinforcements arrived. Bishop gradually climbs the ranks of the XSE until finally becoming their commander.
+
+While on a mission to wipe out a nest of [[Emplate]]s, mutant [[vampire]]s that feed on [[bone marrow]], Shard was critically injured. Bishop went to Witness for help. Witness, then imprisoned at the New York Stark Fujikawa building, agreed to transfer Shard's essence into a holographic matrix if Bishop would work for him for one year. Bishop agreed, leaving the XSE for a time. The details of Bishop's work during this period are unknown; Bishop appears reticent on the subject, later refusing to tell Shard of his actions.
+
+Immediately upon his re-installment as a commander in the XSE, Bishop and his XSE group the "Omega Squad" captured [[Trevor Fitzroy]], a murderous ex-XSE trainee in the ruins of the [[X-Mansion|Xavier Institute]] War Room.  While there, Bishop discovered a damaged recording of [[Jean Grey]], in which she spoke of a traitor destroying the X-Men from inside. Haunted by his discovery, Bishop confronts Witness for details, but receives only a vague, ambiguous response, leaving Bishop to suspect his former master of being more than simply a witness to the downfall of the X-Men.
+
+===Joining the X-Men===
+Fitzroy escaped from prison and used a large amount of mutant life-force to open a time portal and break out 93 mutant criminal "Lifers" in the process.  Bishop found himself in the past, in the time of his heroes, the X-Men.  Bishop and the Omega Squad eventually "sanctioned" the Lifers, but did not get Fitzroy.  Bishop encountered the X-Men for the first time, but did not believe that they were really the X-Men. He then battled them but later allied with the X-Men in trying to stop Fitzroy. Malcolm and Randall, the two members of his Omega Squad, died in the process.<ref>''Uncanny X-Men'' #282</ref> [[Professor X|Professor Charles Xavier]] offered him a place in the X-Men, and he was placed under [[Storm (Marvel Comics)|Storm]]'s tutelage.  He fought and defeated Styglut.<ref>''Uncanny X-Men'' #287-288</ref>  When he met [[Gambit (comics)|Gambit]], Bishop recognized him as possibly a younger version of the Witness and fought him.<ref>''X-Men'' (vol. 2) #8</ref>
+
+[[Image:XMen-50agonyofmemory.jpg|thumb|left|249px|''X-Men'' (vol. 2) #52 (May 1996).  Cover art by [[Andy Kubert]] and [[Cam Smith]].]]
+
+He soon met [[Mystique (comics)|Mystique]] for the first time,<ref>''Uncanny X-Men'' #289-290</ref> and alongside the X-Men he battled the [[Morlocks (comics)|Morlocks]]<ref>''Uncanny X-Men'' #291-293</ref> and the Death Sponsors.<ref>''Uncanny X-Men Annual'' #16</ref>
+
+Bishop assigned himself the role of Xavier's personal bodyguard, which he failed at when Stryfe, the evil double of [[Cable (comics)|Cable]], critically wounded Xavier.  Initially, the X-Men believed that Cable was the would-be assassin, so [[Wolverine (character)|Wolverine]] and Bishop tracked down Cable, but then travelled to Cable's "Graymalkin" space station, and then joined with them in finding Stryfe.<ref>''X-Factor'' (vol. 1) #84-86; ''X-Force'' (vol. 1) #16-18; ''X-Men'' (vol. 2) #14-16; ''Uncanny X-Men'' #294-296</ref>  Citing his failure to protect Professor X, Bishop offered to resign from the X-Men. His resignation was rejected by Xavier, and then alongside the X-Men he battled the [[Acolytes (comics)|Acolytes]].<ref>''Uncanny X-Men'' #298</ref>
+
+===Age of Apocalypse===
+When Professor Xavier's insane son — the mutant [[Legion (Marvel Comics)|Legion]] — went back in time to assassinate [[Magneto (comics)|Magneto]], Bishop was one of the X-Men sent to stop him.<ref>''Uncanny X-Men'' #320</ref>  When they failed, and Legion accidentally killed Professor Xavier, Bishop was the only time-traveler to remain when history was altered and became the [[Age of Apocalypse]].<ref>''X-Men: Alpha'' one-shot</ref>  He eventually convinced the Magneto of that era that the existence of this reality was wrong, and with a great amount of sacrifice, managed to correct the error and stop Legion.<ref>''X-Men: Omega'' one-shot</ref> After the timeline reset itself, Bishop received some of his counterpart's unsettling memories of the Age of Apocalypse.<ref>''X-Men: Prime'' one-shot</ref>
+
+The traitor in the X-Men was eventually revealed to be Professor X in the form of [[Onslaught (comics)|Onslaught]].  Bishop's knowledge of the future was the only thing that stopped Onslaught from killing the X-Men.  As Onslaught fired a massive blast of psionic energy at the distracted X-Men, Bishop threw himself in front of them and absorbed the blast that would have killed them.  Onslaught, winded from such a massive attack, said that his blast was enough to kill a thousand mutants and "Another time, another place, I would have been proud".  Bishop lost consciousness after absorbing the blast, but soon recovered, although it was not enough to prevent Onslaught from nearly destroying all of humanity.  He made peace with Gambit, who was not the traitor after all.<ref>''Onslaught: X-Men'' one-shot</ref>
+
+Following this, Bishop spent some time in a distant possible future, detailed in the ''Bishop: The Last X-Man'' series, where he again faced Trevor Fitzroy.  He was temporarily returned to the present by [[Apocalypse (comics)|Apocalypse]] who needed him as one of [[The Twelve (X-Men)|The Twelve]], before finally returning permanently during the [[Maximum Security (comics)|Maximum Security]] crossover.<ref>''Bishop:The Last X-Man'' #15 (January 2000)</ref>
+
+===X-Treme X-Men===
+Bishop was a founding member of [[Storm (Marvel Comics)|Storm]]'s splinter team of X-Men, whose mission was to search for the Books of Truth, the diaries of the precognitive mutant [[Destiny (Irene Adler)|Destiny]].<ref>''[[X-Treme X-Men]]'' #1</ref>  They left against the will and knowledge of the main team, as the splinter group did not trust in Xavier or the others to use the diaries for the benefit of humanity.<ref>''[[X-Treme X-Men]]'' #3</ref>
+
+===District X===
+Bishop joined the [[Federal Bureau of Investigation]]. District X, or 'Mutant Town', had a high-population density. It was also a poverty-stricken area with high crime rates. Bishop was assigned to the area in order to resolve mutant-related crimes.<ref>''District X'' #1 (2004)</ref>
+
+===Civil War===
+In the ''[[Civil War: X-Men]]'' miniseries Bishop sides with the [[Office of National Emergency|O*N*E*]] to bring in the X-Men and [[X-Men: The 198|the 198]]. He argues with [[Cyclops (Marvel Comics)|Cyclops]] over allowing their escape, and states his fear of what the future might hold. [[Valerie Cooper|Val Cooper]] and [[Iron Man|Tony Stark]] let Bishop lead [[Micromax]] and [[Sabra (comics)|Sabra]] into action against [[Domino (comics)|Domino]], [[Shatterstar]], and the rest of the 198. Bishop led them to the base where the 198 were hiding and told the X-Men to stand down upon their arrival. General [[Demetrius Lazer]] betrayed him by ensuring that Cyclops attacked Bishop. Though at first he simply absorbed it, the power was too much for him to control and he was overwhelmed. Bishop was forced to direct the energy he had absorbed upwards in a powerful blast that destroyed an O*N*E* Sentinel.  He later teamed up with the X-Men to save the 198 from a bomb explosion and then went his own way, leaving the X-Men. Bishop was among Iron Man's pro-registration forces that guarded the [[Negative Zone]] prison. When [[Captain America]]'s team breaks in a fight ensues, putting Bishop at odds with his former teammates [[Storm (Marvel Comics)|Storm]] and [[Cable (comics)|Cable]].<ref>''[[Civil War (comics)|Civil War]]'' #6</ref>
+
+===Messiah Complex===
+{{Main|X-Men: Messiah Complex|l1=Messiah Complex}}
+In ''Messiah Complex'', an event revitalized Bishop's timeline as a viable future: the birth of the first mutant child since [[Decimation (comics)|M-Day]].  As the [[Marauders (comics)|Marauders]], on [[Mister Sinister]]'s orders, try to gather anyone and anything with knowledge of the future, Bishop is the only target they were unable to locate and terminate. It is revealed that he had betrayed the X-Men, and he attempted to kill the baby. Before he could succeed, he was thwarted by the Marauders, who escaped with the baby.<ref>''Uncanny X-Men'' #494</ref>  As X-Men arrive on the scene, Bishop pretends to have attempted to retrieve the baby.  As [[Jamie Madrox|Multiple Man]]'s duplicate and [[Layla Miller]] find out in their mission to one of the planet's possible futures (80 years in the future) that the birth of the child created, the child apparently kills a million people in an event dubbed the Six-Minute War, and the U.S. government incarcerates all the mutants into concentration camps, where Bishop is born, grows up, and sees his parents killed. As Multiple Man's dupe and Layla find out, Bishop wishes at a young age to have had the opportunity to kill the baby, so that, while he would not be born, he would also not have to see his parents die, and to endure the horrors of life in the concentration camps.  Layla kills the dupe, so that the information conveyed to them by young Bishop can return to the present, to the Multiple Man prime, who conveys Bishop's treachery to the X-Men.<ref>''X-Factor'' #27</ref>  The X-Men then attempted to alert [[X-Force]] to Bishop's betrayal, but he managed to block all of their communication channels. After arriving on [[Muir Island]] and fighting past the Marauders, Bishop found Cable attempting to escape with the baby, and the two fight. Both mutants are then attacked by [[Predator X (Marvel Comics)|Predator X]], who viciously rips off Bishop's right arm.  Bishop cauterizes his torn shoulder on an unconscious Sunfire and in an attempt to shoot down a teleporting Cable, he misses and hits [[Professor X]] instead.<ref>''X-Men'' #207</ref>
+[[Image:CABLE004 cov.jpg|Cover art for ''Cable'' (vol. 2) #4. Art by [[Ariel Olivetti]].|thumb]]
+
+====Chasing the Mutant Messiah====
+Bishop managed to escape the X-Men after he seemingly killed their mentor, and stole a nuclear powered bionic arm from Forge equipped with a timeslide device, which he uses to track down Cable and the newborn mutant.<ref>''Cable'' (vol. 2) #2</ref> Upon finding them, he shoots Cable twice before being hindered by a local gang. With Cable severely weakened by blood loss, he makes a risky attack before the gang can find heavier weapons.<ref>''Cable Annual'' #1 (vol. 2)</ref> He later manages to track down Cable, slaying several mutated beasts in the process, and shoot the Mutant Messiah. He also finds that in the future generated by his choice, Cable will be always revered as a Messianic figure who tried his best to protect the Child, and saved humanity from the very beasts Bishop unwillingly saved Cable from. It has been revealed that the Messiah child is still alive and Bishop has been captured by the X-Men. In his efforts to kill the child Bishop has left several traps for Cable throughout the timestream, killing millions in the process, though he doesn't see them as people who actually exist, but as people who wouldn't exist or come back to life if he kills [[Hope Summers (comics)|Hope]].<ref>''Cable'' #9</ref>
+
+====Messiah War====
+After multiple failings at killing Hope, Bishop locates and enlists the aid of Stryfe, promising him that he would aid him in killing Apocalypse and Cable. Stryfe and Bishop travel to a point in the future where Apocalypse is at his weakest and manage to defeat him.<ref>''Cable'' Vol.2 # 14</ref> Stryfe builds an empire using Celestial technology and Bishop becomes his right-hand man, waiting for Cable and Hope to re-emerge. When they do appear along with X-Force, Hope is kidnapped. Bishop betrays Stryfe and his plot to kill Hope is foiled by Stryfe, who wants to make her his heir. Both attempts are foiled by Apocalypse, X-Force, and Cable. Cable manages to rescue Hope and escape yet again.<ref>''X-Force'' Vol. 3 # 16</ref> Bishop escapes into the "near future" of the 21st century, reconstructing his arm, vowing to find Hope once again.<ref>''X-Force'' Vol. 3 #14-17</ref><ref>''Cable vol. 2 #12-15</ref>
+
+====Homecoming====
+After several years of running from Bishop, Hope finally decides that it is time to return to the present. During a battle, Bishop manages to knock out Cable. In a fit of rage, Hope's powers awaken and render Bishop unconscious. Hope then attempts to kill Bishop, but is stopped by Cable. They take Bishop's time machine and leave him stranded. Bishop is somehow transported with them and begins chasing them through time, in an attempt to kill Hope before they reach the present.<ref>''Cable'' #21</ref> In ''Cable'' #24, Hope and Cable return to the present time but Bishop follows them. He attacks them, running Cable through with a sword. As Cable is incapacitated, Hope rushes to his aid but is ultimately overpowered by Bishop. Cable takes out Bishop's time traveling device from his techno-organic arm, performs some alterations on it and places it in Bishop's robotic arm. Cable recovers enough to toss Bishop into the subway. As Bishop attempts to kill Hope one last time, he is transported to a barren and dead Earth (as a result of his efforts to limit Cable and Hope's attempts to find allies and shelter through different time periods) with a red Sun in the sky (cause unknown). Bishop, being overconfident, attempts to travel back to the present time to continue his quest to kill Cable and Hope Summers, but due to Cable sabotaging Bishop's time traveling device, this attempt causes his robotic arm to explode. This leaves him stranded in the year 6700 A.D. Bishop is last shown thinking to himself concerning Cable and Hope, "I was as much a father to that girl as you were. Whatever she becomes, it's because of me. I was doing the right thing. Wasn't I?"<ref>''Cable'' #24</ref>
+
+===Return to the Present===
+In ''[[Uncanny X-Force]]'' vol. 2 #1, Bishop makes his first appearance since being stranded in the future. He is shown arriving in 2013 Los Angeles and announcing "I'm baaack!"<ref>''Uncanny X-Force'' vol. 2 #1</ref> He battles the members of the new [[X-Force]], before it is revealed that his mind is apparently being possessed by the [[Demon Bear]] that once terrorized [[Danielle Moonstar]].<ref>''Uncanny X-Force'' vol. 2 #4</ref> After a lengthy conflict, [[Psylocke]] manages to pull the Bear out of Bishop's mind, Storm also using the opportunity to disrupt the part of Bishop's mind holding his memories of his hunt for Hope, in the hopes that she will thus restore her old friend.<ref name=un5>''Uncanny X-Force'' vol. 2 #5</ref> Bishop is later shown comatose as a result of his ordeal.<ref>''Uncanny X-Force'' vol. 2 #6</ref>
+
+He eventually regains his memories of Hope.<ref name=un5/> The self-control he has learned during his time in the future helps him move past his former vendetta,{{issue|date=May 2014}} even helping to save Hope's life when Stryfe attempted to manipulate them into attacking each other in revenge for their actions against him during their time-travelling search.<ref>''Uncanny X-Force'' vol. 2 #17</ref>
+
+==Powers and abilities==
+Bishop's [[Mutant (Marvel Comics)|mutant]] ability enables him to absorb all forms of radiant or conductive energy that are directed towards him and to release that energy from his body. This power is passive, allowing Bishop to absorb energy at all times.
+
+He can release this energy in many different forms, usually as concussive blasts of biokinetic energy, even amplified compared to the absorbed amount.<ref>'X-Treme X-Men #26</ref> Bishop can also store absorbed energy within his personal reserves, whereupon the energy increases his strength and recuperative abilities, as well as affording him a measure of invulnerability.<ref>Bishop's Official Marvel Universe Entry</ref> He is also able to absorb magic energy (as seen when fighting "[[Growing Man|growing men]]" in [[Limbo (Marvel Comics)#Immortus' Limbo|Limbo]]) and the psychic energies of psionics as easily as all the other kinds.<ref>''[[X-Men]]'' Vol. 2 #140</ref> This does not prevent him from being read or manipulated by a telepath but only sustains him and helps him to slow them down. It has been clearly stated that Bishop is also able to absorb and process kinetic energy similarly to [[Sebastian Shaw (comics)|Sebastian Shaw]], but in a much less effective way.<ref>''Cable'' (vol. 2) #3, 2008</ref>
+
+His powers make it difficult to harm him with energy-based attacks; however, he can become overloaded from absorbing too much energy, though his upper limits are unknown, even to himself; when Rogue was suffering a power overload after absorbing Skrull telepath Z'Cann, Bishop was pushed to his limit simply by grabbing Rogue as he tried to help her drain off her excess power.{{issue|date=May 2014}} He is partially vulnerable to non-energy weapon attacks. If he were to be shot by a projectile weapon or hit with a crowbar, it could harm him.
+
+He can "let his spirit go"{{clarify|date=May 2014}} as seen in ''X-Treme X-Men Annual'' #1.
+
+He has also demonstrated the ability of instinctively knowing where he is and the present hour and date even if asleep, first mentioned in ''[[X-Treme X-Men]]'' #1. Although being the great-grandson of [[Gateway (comics)|Gateway]], a mutant possessing extensive dealings with time travel, this aspect is not one of Bishop's mutant powers. Bishop's explanation is that due to training, he knows where he is at all times.<ref>''X-Treme X-Men X-Posé'' #1</ref>
+
+Bishop is a highly athletic man, an excellent hand-to-hand combatant with many years of armed and unarmed combat training, and a superb marksman with firearms. When he first came to the modern era, Bishop carried XSE guns from his time that fired laser beams and plasma charges. He also wore his XSE uniform, modeled after X-Men uniforms, which contained [[body armor]].
+
+His current right arm is a prosthetic, stolen from [[Forge (comics)|Forge]]. A nuclear-powered battle-ready arm, incorporates in its design a time-travel device, the ability to channel his energy blasts through, and enhanced strength and resilience.<ref>''Cable'' (vol. 2) #2, 2008</ref> It has since been destroyed after Bishop tried to use it to time travel from 6700 A.D. to 2010 to kill Cable and Hope Summers due to Cable tampering with the time travelling device within it.<ref>''Cable'' Volume 2 #24</ref> His real arm has apparently been re-grown after he was healed in the future by the remnants of humanity.{{issue|date=May 2014}}
+
+==Other versions==
+
+===Ultimate Marvel===
+[[Image:Ultimatebishop.PNG|Ultimate Bishop. Art by [[Ben Oliver]].|thumb ]]
+A time-traveling Bishop appears in ''Ultimate X-Men'' #76.  Moments after the battle with [[Cable (comics)#Ultimate Cable|Cable]] concludes, he appears asking if he's too late to stop Cable.<ref>''Ultimate X-Men'' #75-80</ref>
+
+Wolverine knocks him unconscious and the X-Men interrogate him.  He is wearing the same uniform as the members of Cable's [[Six Pack (comics)|squad]].  He appears to be much older than the mainstream Bishop, because of his grey hair. He then leads the team into battle with Cable's squad. He fails to stop Cable from kidnapping [[Alternative versions of Professor X#Ultimate Charles Xavier|Charles Xavier]] (everyone believes Xavier is dead) and is trapped in the present day, due to Cable's destruction of the device that allowed him to time travel.<ref>''Ultimate X-Men'' #76</ref>
+
+In ''Ultimate X-Men'' #80, Bishop has a conversation with his younger self, who is incarcerated, in which he tells him not to use his powers to escape.  By ''Ultimate X-Men'' #84, Bishop has formed a new team of X-Men (consisting of [[Wolverine (character)|Wolverine]], [[Alternative versions of Storm#Ultimate Storm|Storm]], [[Pyro (Marvel Comics)|Pyro]], [[Dazzler]], [[Warren Worthington III|Angel]], [[Psylocke]], and himself).<ref name="uxm">''Ultimate X-Men'' #84</ref> He is using the new team to stop a new wave of [[Sentinel (comics)|Sentinel]] attacks on mutants, caused by an unknown enemy, revealed in that issue to be the [[Fenris (comics)|Fenris]] twins and [[Bolivar Trask]]. Wolverine appears to distrust Bishop, promising to gut him if he tries anything suspicious. Bishop was unconscious during the fight with the Fenris twins and the Sentinels, but when [[Psylocke#Ultimate|Psylocke]]'s life was at risk, he woke up to defend her and revealed that she was his future wife.<ref name="uxm" />
+
+He killed both the Fenris twins with his abilities and went on to lead the New X-Men against the Sentinels.  At the end of the battle, it was revealed to the reader that he was in fact working with Cable, and that the entire "Cable" affair had been a ruse to make the X-Men a stronger team.  The team remains unaware of the deception and Wolverine stabbed Bishop at the end of issue #90, when Bishop stopped Storm and Dazzler from being able to save Angel from being killed by Sinister, before Bishop could reveal this. Bishop believes that it couldn't have happened any other way. Cable later reveals the ruse, but Wolverine shows no regret for killing Bishop.<ref>''Ultimate X-Men'' #90</ref> After the battle with [[Apocalypse (comics)|Apocalypse]] is undone by the [[Phoenix Force (comics)|Phoenix]], there is no evidence that Bishop has been returned to life, even though Angel was.<ref>''Ultimate X-Men'' #91</ref>
+
+His powers have been revealed as density control.<ref name="uxm75">''Ultimate X-Men'' #43</ref> For example, he destroyed a Sentinel robot by causing its shell to increase in density and crush its inner parts; Bishop then reduced his own density (or increased that of the air around him) and floated to the ground.<ref>''Ultimate X-Men'' #82</ref> He also has access to teleportation technology.
+
+[[Robert Kirkman]] later admitted that the Bishop mentioned earlier in the series,<ref name="uxm75" /> is the same as the one he introduced; faced with the fact that this Bishop was already introduced into continuity when he would have preferred the character to work with Cable, Kirkman simply introduced him as an older version of the previously-mentioned Bishop.<ref>{{cite web|url=http://marvel.com/news/comics.2171.Ultimate_Evolution:_He_Loves_the_90's|title=Kirby 100: Mark Waid|website=News - Marvel.com}}</ref>
+
+===X-Men Noir===
+In ''[[X-Men Noir]]'', Bishop is depicted as the muscle for [[Alternative versions of Gambit#X-Men Noir|Remy LeBeau]], the owner of a nightclub and casino called The Creole Club.<ref>''X-Men: Noir'' #1</ref>
+
+===X-Men: The End===
+In ''[[X-Men: The End]]'', the non-canon trilogy of miniseries by [[Chris Claremont]], Bishop learns he has a teenage daughter, [[Aliyah Bishop|Aliyah]], by [[Deathbird]].<ref>''X-Men: The End'' #1</ref> She becomes Majestrix of the [[Shi'ar]] with her father as her Imperial Chancellor.<ref>''X-Men: The End'' #2-3</ref>
+
+==In other media==
+
+===Television===
+[[Image:X-Men Ep11 DaysofFuturePast2.JPG|206px|thumb|Bishop in the ''[[X-Men (TV series)|X-Men Animated Series]]''.]]
+* Bishop was featured in several episodes of the ''[[X-Men (TV series)|X-Men]]'' [[List of animated television series|animated television series]] voiced by [[Philip Akin]]. In his first appearance, he travels back in time to stop the assassination of [[Robert Kelly (comics)|Senator Kelly]] and prevent the ''[[Days of Future Past]]'' timeline from occurring (with Bishop assuming [[Kitty Pryde]]'s role from the comic version of this tale). Bishop believes [[Gambit (comics)|Gambit]] to be the assassin, but it is later revealed that Mystique attempts the assassination in the guise of Gambit. Upon returning to his own time after saving Kelly, he finds the world infected with a deadly plague. He returns in a later episode to stop the spread of [[Apocalypse (comics)|Apocalypse]]'s [[techno-organic virus]], but he also faces resistance from [[Cable (comics)|Cable]], who knows the virus is necessary as it will create antibodies necessary to the stabilization of the mutant genetic code. Later, he appears in a set of episodes where he and his sister travel back in time to stop Trevor Fitzroy from killing a young Charles Xavier in the past, causing constant war between mutants and humans in the X-Men's time. The time travelers eventually manage to save Xavier, but Bishop is trapped in the Axis of Time during Apocalypse's attempt to control all of time in the "Beyond Good and Evil" episodes. After Apocalypse is defeated, Bishop manages to leave the Axis of Time.
+* Bishop appeared in the animated TV series ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'' episode "Future X" voiced by [[Kevin Michael Richardson]]. He appears as a member of [[Professor X]]'s future [[X-Men]] team in the Sentinel-dominated future and was trained by Wolverine at a young age.<ref>''Wolverine and the X-Men'' Episode 9 "Future X"</ref>
+
+===Film===
+* Bishop appears in the film ''[[X-Men: Days of Future Past]]'', played by French actor [[Omar Sy]].<ref>{{cite web | title = Comic-Con: New Character Portraits From X-Men: Days of Future Past | author = Spencer Perry | date = July 18, 2013  | url = http://www.superherohype.com/news/articles/178215-comic-con-new-character-portraits-from-x-men-days-of-future-past | archiveurl = https://web.archive.org/web/20130721152218/http://www.superherohype.com/news/articles/178215-comic-con-new-character-portraits-from-x-men-days-of-future-past | archivedate = July 21, 2013 }}</ref> The first video of Sy as Bishop appeared in the Oct. 29, 2013, trailer for the film.<ref>{{cite web|url=http://atlantablackstar.com/2013/10/30/x-men-days-future-past-trailer-omar-sys-american-introduction/|title='X-Men Days of Future Past' Trailer Introduces Omar Sy as Bishop|first=A. B. S.|last=Contributor|date=30 October 2013|publisher=}}</ref> He is seen among the mutants that have met up with Professor X and Magneto at an abandoned Chinese monastery. In the final stand against the Sentinels, Bishop is killed when the Sentinels overload his energy absorption abilities and he explodes. These events are later erased by the altering of the timeline.
+
+===Video games===
+* He is a [[player character|playable character]] in ''[[X-Men: Next Dimension]]''.<ref>{{cite web |url=http://uk.cheats.ign.com/ob2/068/480/480934.html |title=Archived copy |accessdate=2009-09-17 |deadurl=yes |archiveurl=https://web.archive.org/web/20071205002812/http://uk.cheats.ign.com/ob2/068/480/480934.html |archivedate=2007-12-05 |df= }}</ref>
+* He is a [[player character|playable character]] in ''[[X-Men 2: Game Master's Legacy]]''.
+* A younger version of Bishop makes a cameo in ''[[X-Men Legends]]'', voiced by [[Grey DeLisle]]. The X-Men encounter him while fighting Sentinels on the streets of New York.
+* [[Khary Payton]] voices Bishop who is a playable character in ''[[X-Men Legends II: Rise of Apocalypse]]''.
+* Bishop appears in ''[[Marvel: Ultimate Alliance 2]]'', voiced by Emerson Brooks. He appears as an [[non-player character|NPC]] for the Pro-Registration side and serves as a boss fight for the Anti-Registration Side. In [[n-Space]] versions ([[PlayStation 2]], [[PlayStation Portable]], [[Nintendo Wii]] and [[Nintendo DS]], he is not a boss character, but still an NPC. When the heroes are fighting Tinkerer in a Repeater Tower to broadcast a jamming signal, Black Panther mentions over the radio that Bishop has been taken over by The Fold.
+* Bishop appears in ''[[Marvel Heroes (video game)|Marvel Heroes]]'' as an NPC. The Bishop who is being used by [[Doctor Doom]] to empower himself with a [[Cosmic Cube]] on the mutant, is actually a clone created by [[Mister Sinister]].
+*Bishop appears as a playable character in the ''[[Facebook]]'' game ''[[Marvel: Avengers Alliance]]'', and was the PVP Reward for the 10th PVP tournament.
+
+===Books===
+* Bishop plays a small part in the ''[[X-Men: The Last Stand]]'' novelization by [[Chris Claremont]].
+* Bishop is a main character in the [[Spider-Man]] and X-Men novel trilogy ''Time's Arrow'' by [[Tom DeFalco]] with [[Jason Henderson]] (''The Past''), [[Adam-Troy Castro]] (''The Present''), and [[Rosemary Edghill|eluki bes shahar]] (''The Future''), in which he and Spider-Man travel through time and into parallel universes.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Marvelwiki|Bishop_(Lucas_Bishop)|Bishop (Lucas Bishop)}}
+* [http://worldofblackheroes.com/2011/07/13/lucas-bishop/ World of Black Heroes: Lucas Bishop Biography]
+* [http://uncannyxmen.net/characters/bishop UncannyXmen.net Spotlight on Bishop]
+* {{comicbookdb|type=character|id=247|title=Bishop}}
+* {{IMDb character|0001186|Bishop}}
+
+{{X-Men}}
+{{Ultimate X-Men}}
+
+{{DEFAULTSORT:Bishop (Comics)}}
+[[Category:Characters created by Whilce Portacio]]
+[[Category:Comics characters introduced in 1991]]
+[[Category:Fictional amputees]]
+[[Category:Fictional characters from parallel universes]]
+[[Category:Fictional bounty hunters]]
+[[Category:Fictional characters with energy manipulation powers]]
+[[Category:Fictional cyborgs]]
+[[Category:Fictional indigenous people of Australia]]
+[[Category:Fictional mass murderers]]
+[[Category:Fictional mercenaries]]
+[[Category:Fictional orphans]]
+[[Category:Fictional police officers]]
+[[Category:Male characters in comics]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Superhero film characters]]
+[[Category:Time travel comics]]
+[[Category:Time travelers]]
+[[Category:X-Men titles]]

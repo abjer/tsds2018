@@ -1,0 +1,72 @@
+{{for|other use of Titan in comics|Titan (comics)}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|character_name=Titan
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Men]]'' #107 (Oct 1977)
+|creators=[[Chris Claremont]] and [[Dave Cockrum]]
+|alliances=[[Imperial Guard (comics)|Imperial Guard]]
+|aliases=Onslaught
+|powers=Size-Shifting
+|}} 
+'''Titan''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Titan first appeared in ''[[X-Men]]'' #107-109 (October 1977-February 1978), and was created by [[Chris Claremont]] and [[Dave Cockrum]].
+
+The character subsequently appears in ''X-Men: Spotlight on Starjammers'' #2 (June 1990), ''Uncanny X-Men'' #275 (April 1991), ''Thor'' #446 (April 1992), ''Avengers West Coast'' #82 (May 1992), ''Starjammers'' #4 (January 1996), ''Inhumans'' Vol. 4 #4 (September 2000), ''JLA/Avengers'' #1 (September 2003), ''Uncanny X-Men'' #477 (October 2006), #480 (January 2007), and ''X-Men: Emperor Vulcan'' #2-5 (December 2007-March 2008).
+
+Titan appeared as part of the "Imperial Guard" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #6.
+
+==Fictional character biography==
+Titan is a warrior serving in the Royal Elite of the [[Shi'ar]] [[Imperial Guard (comics)|Imperial Guard]], a multi-ethnic group of super-powered alien beings who act as enforcers of the laws of the Shi'ar Empire. Titan was amongst the first of the Imperial Guard encountered by the team of superhuman mutants known as the [[X-Men]] who sought to rescue the [[Lilandra Neramani|Princess Lilandra]] from her insane brother emperor [[D'Ken]]. Following the orders of their emperor, the Guard clashed with the X-Men on a nameless Shi'ar Empire planet, and were on the verge of winning when the band of interstellar freebooters known as the [[Starjammers]] arrived to turn the tide of battle in the X-Men's favor.<ref>''X-Men'' Vol. 1 #107</ref>
+
+Some time later, when [[Deathbird]] was empress, Titan joined the other Imperial Guard members in battle against [[Excalibur (comics)|Excalibur]] and the Starjammers. Titan fought [[Captain Britain]].<ref>''X-Men Spotlight On: Starjammers'' #2</ref> Later, on Deathbird's behalf, Titan assisted the other Imperial Guardsmen in battle against the X-Men and Starjammers, but was defeated by them.<ref>''Uncanny X-Men'' #275</ref>
+
+Later after Lilandra became leader of the Shi'ar Empire, Titan was amongst a small group of Imperial Guard that defended their Empress Lilandra against the [[Kree]] super-team known as Starforce, during the war between the Shi'ar and Kree Empires.  Titan battled the [[Supremor]] android.<ref>''Thor'' #446</ref> Titan also joined in the Imperial Guard's battle with the [[Avengers (comics)|Avengers]] on the Shi'ar throne world of Chandilar during the Kree-Shi'ar War, but was defeated by the [[Scarlet Witch]].<ref>''Avengers West Coast'' #82</ref>
+
+In the battle against [[Vulcan (Marvel Comics)|Vulcan]], Titan seemed to have been killed,<ref>''Uncanny X-Men'' #480</ref> but was actually only seriously wounded and later reappeared.{{Issue|date=May 2009}}
+
+==Powers and abilities==
+Titan has the ability to increase his size and mass at will and decrease his size back to normal height. Titan's extra mass is drawn psionically from an extra-dimensional source, to which it returns as he decreases in size. His weight increases as a cube (factor multiplied by itself three times) as he grows in height. As Titan grows in height, his strength, stamina, and durability increase proportionately, even to superhuman levels at large enough sizes.  Titan's costume is made of Shi'ar fabrics mimicking the properties of unstable molecules, making them able to expand and contract as Titan changes size.
+
+Titan is a good hand-to-hand combatant, having been trained by the Imperial Guard.
+
+==Inspiration==
+Several of the members of the Imperial Guard are at least partly based on members of the [[DC Comics]] team [[Legion of Super-Heroes]]. [[Dave Cockrum]] (co-creator of the Guard) also had a long run as artist on the Legion. Titan is based on Legion of Super-Heroes member [[Gim Allon|Colossal Boy]].<ref>Moreels, Eric J. [http://www.marvunapp.com/Appendix4/titanimpguard.htm "Titan," Appendix to the Handbook of the Marvel Universe.] Accessed Apr. 22, 2009.</ref>
+
+==Other versions==
+===Age of Apocalypse===
+Titan appeared with the Imperial Guard in the ''[[Age of Apocalypse]]'' timeline.<ref>''Gambit and the X-Ternals'' #2 (April 1995)</ref>
+
+===''[[Star Trek]]''===
+Titan appears as part of a rogue group of Guardsmen, led by [[Deathbird]], that track and later battle the omnipotent [[Gary Mitchell (Star Trek)|Gary Mitchell]].<ref>''Star Trek/X-Men'' #1 (December 1996)</ref>
+
+===X-Men: The End===
+Titan also appears in the alternate future that takes place in ''[[X-Men: The End]]''.<ref>''X-Men: The End: Book 3: Men & X-Men'' #1-2 (March–April 2006)</ref>
+
+==In other media==
+===Television ===
+* Titan appears in the ''[[X-Men (TV series)|X-Men]]'' episodes "The Dark Phoenix" and "Fate of the Phoenix." He and the Imperial Guard had to fight the X-Men to determine the fate of Jean Grey after the [[Phoenix Force|Phoenix]] attacked some of the galaxies.
+
+==See also==
+* [[List of Imperial Guard members]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.com/universe/Titan_%28alien%29 Titan (alien)] at the Marvel Universe
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/titanimpguard.htm|Titan (Imperial Guard)}}
+
+{{Marvel Cosmic}}
+
+[[Category:Comics characters introduced in 1977]]
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by Dave Cockrum]]
+[[Category:Extraterrestrial superheroes]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics superheroes]]

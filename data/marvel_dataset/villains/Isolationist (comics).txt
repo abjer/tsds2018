@@ -1,0 +1,48 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|character_name=Isolationist
+|image=Isolationist.jpg
+|converted=y
+|caption=Cover art for ''X-Factor'' vol. 3, #21.<br>Art by Pablo Raimondi. 
+|real_name=Josef Huber
+|species=unknown<ref>[[Peter David]] said that Isolationist isn't a mutant but something else entirely: [http://www.comicbookresources.com/?page=article&id=11738 X-POSITION Week 21: Peter David], [[Comic Book Resources]], October 18, 2007</ref>
+|publisher=[[Marvel Comics]]
+|debut=''X-Factor'' vol. 1, #89 (April 1993)
+|creators=[[Peter David]]<br>Pablo Raimondi
+|alliances=[[X-Cell]]<br/>[[Damian Tryp|Singularity Investigations]]
+|aliases=
+|powers=Possesses the powers of all living [[Mutant (Marvel Comics)|mutants]].
+}}
+'''The Isolationist''' ('''Josef Huber''') is a [[Character (arts)|fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was created by [[Peter David]] and Pablo Raimondi. The character's first appearance was in ''[[X-Factor (comics)|X-Factor]]'' vol. 1, #89 on a single page, but his story wasn't continued until ''X-Factor'' vol. 3 #16, fifteen years later.
+
+==Fictional character biography==
+Isolationist is a German telepath who convinced [[Jamie Madrox]], [[Beast (comics)|Beast]], and [[Cyclops (Marvel Comics)|Cyclops]] to organize a "Million Mutant March" political rally to get mutants declared an endangered species by the United States government. However, [[Layla Miller]] told Madrox that one of Huber's agents had tried to kill her, and it was revealed that Huber's plan was a plot to get all the mutants in one place so they could be destroyed. Huber claimed that all the mutant voices in his head were driving him crazy and that had manipulated and arranged all of [[X-Factor Investigations]]' problems and adventures. Then he teleported the team to a frozen wasteland.{{issue|date=December 2012}}
+
+He also somehow arranged for a young French girl named Nicole (actually an android created by Huber) to be taken in by [[M (comics)|M]] and [[Siryn]] in [[Paris]], seemingly of their own free will, despite later stating that M and Siryn are immune to his telepathic suggestions.{{issue|date=December 2012}}
+
+When Layla Miller survived a murder attempt by Nicole (thanks to a mentally unstable [[Quicksilver (comics)|Quicksilver]]'s intervention), Huber's plans came undone. Layla warned Madrox about Huber, who then fought Madrox, [[Strong Guy]], and [[Wolfsbane (comics)|Wolfsbane]]. Huber teleported the three to the Antarctic. They were then out of communication range of M and Siryn, who were busy on a case, which had also been arranged by Huber, with the aid of a family of mutant haters. M became worried and flew back to X-Factor headquarters, arriving just in time to stop Huber from smashing [[Rictor]] with a car. Rictor had been more or less successfully fighting Huber; Rictor was immune to the direct applications of Huber's mutant powers because Rictor was using [[Terrigen Mist|Terrigen crystals]] he had left over from his time with Quicksilver. Huber had not foreseen this. Huber turned to sand and floated away, disdaining tedious fighting in favor of his planned genocide. He returned to his icy cave.<ref>X-Factor. Vol. 3, Issue 24</ref>
+
+==Powers and abilities==
+The Isolationist possesses the abilities of all living mutants on the planet or approximately two-hundred different mutant power sets. This would place him among the most powerful beings in the Marvel universe, although it is unclear how much he is hindered by his telepathy.
+
+He has displayed the use of [[Cyclops (Marvel Comics)|eye beams]], [[Iceman (comics)|ice beams]], [[Nightcrawler (comics)|teleportation]], [[Colossus (comics)|steel skin and superhuman strength]], and [[M (comics)|telepathy]].  
+
+His abilities weaken the further he is away from mutants, though his ability of telepathy remains strong enough to disturb him even when he is in isolation.  He has a weakness and inability to control his telepathy, and constantly hears the thoughts of people around the world. 
+
+Using a power he copied from [[Forge (comics)|Forge]]'s technological-knack mutation, the Isolationist has created advanced devices including a teleporter and a lifelike robot.{{issue|date=December 2012}}
+
+===Weaknesses===
+
+He is unable to shut off his overwhelming mind-reading powers, even with his isolation and the use of pills, thus causing him constant misery as he reads the minds of people simultaneously throughout the world, forcing him to ingest large amounts of painkillers and depressants to dull his senses. The addition of a telepath close to his proximity is particularly disturbing to him.
+
+His powers also create a mental block that prevents him from directly using his powers against mutants; as a result, while he can put them in situations that ''might'' kill them- such as when he created a portal to send X-Factor to the arctic regions where they would ''eventually'' freeze to death{{issue|date=December 2012}} - he cannot simply destroy a mutant's mind with his telepathy or tear them apart with his physical strength.
+
+==References==
+{{Reflist}}
+
+[[Category:Comics characters introduced in 1993]]
+[[Category:Characters created by Peter David]]
+[[Category:Fictional inventors]]
+[[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics telepaths]]

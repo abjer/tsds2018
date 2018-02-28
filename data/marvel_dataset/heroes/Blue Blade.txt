@@ -1,0 +1,38 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[image:Blue Blade.jpg|250px]]
+|caption=Blue Blade.<br>Art by [[Chris Weston]].
+|character_name=Blue Blade
+|real_name=Roy Chambers
+|species=
+|publisher=[[Timely Comics]]/[[Marvel Comics]]
+|debut= ''[[USA Comics]]'' #5 (Summer 1942)
+|creators=
+|alliances=[[The Twelve (comics)|The Twelve]]
+|aliases=
+|powers=Expert [[Fencing|fencer]]
+|}}
+
+The '''Blue Blade''' (real name '''Roy Chambers'''<ref>''The Twelve'' #2</ref>) is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by an unknown writer and unknown artist,<ref name=gcd-usacomics5>[http://www.comics.org/issue/2289/ ''USA Comics'' #5] at the [[Grand Comics Database]].</ref> only appearance was in ''[[USA Comics]]'' #5 ([[cover-date]]d Summer 1942), published by Marvel forerunner [[Timely Comics]] during the period known as the [[Golden Age of Comic Books]].
+
+After the 1940s the Blue Blade disappeared into obscurity until 2007, when he reappeared in the [[Limited series (comics)|limited series]], ''[[The Twelve (comics)|The Twelve]]''.<ref name="12days">[http://forum.newsarama.com/showthread.php?t=123751 12 Days of the Twelve: The Blue Blade] {{webarchive |url=https://web.archive.org/web/20070929122242/http://forum.newsarama.com/showthread.php?t=123751 |date=September 29, 2007 }}, August 2, 2007, [[Newsarama]]</ref>
+
+==Fictional character biography==
+Little is known about the origin of the Blue Blade. Although he has no powers, he still fought alongside the Invaders and many other heroes against the Nazis. He is described by ''The Twelve'' artist Chris Weston as "[[Errol Flynn]] turned up to eleven" and the guy who is "definitely wearing eye-liner."<ref name="12days"/> The [[Phantom Reporter]] describes him as "Roy Chambers, the Blue Blade".
+
+He was among the twelve who entered a Nazi base and was trapped and put into suspended animation. However, after the defeat of Hitler, he and the others weren't discovered until August 2, 2008, 60 years later. The US Government woke them and tried to conceal the fact that they had been asleep for decades, going so far as to mock up newspapers and buildings to give the impression that only a few days had passed. The Phantom Reporter noticed discrepancies, however, and government officials came clean with the truth. The Blue Blade immediately jumps to the conclusion that they are "famous! Excellent! All in the papers! We'll probably get our own radio show!"
+
+However, when he attempts to cash in on his experiences and make a career in showbiz, he only manages to create a vintage-style cabaret show in which he does stand-up comedy with the help of a few showgirls, the ''Bladettes''. The cabaret is a flop, too outdated for the modern television audience.
+
+Hoping to revitalize his show, he tries to convince [[Rockman (comics)|Rockman]] to join in his endeavor. Upon his refusal (in fact the unbalanced and mourning Rockman refuses even to answer), he contemplates the reactivation of the robot [[Electro (comics)#Electro (Timely Comics)|Electro]]. He finally approaches Miss Zogolowski, the last heir of Philo Zog's fortune and patents, proposing that she use Electro in showbusiness to raise the money she needs to sue the U.S. Government and reclaim its possession.
+
+Blue Blade learns that the robot, in trying to stave off loneliness during their decades of imprisonment, had bonded with the murderous Dynamic Man. Electro later murders a bar full of gay men. To cover up this incident, Electro murders the Blue Blade.<ref>''The Twelve'' #9-10</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.internationalhero.co.uk/b/blueblade.htm International Hero: The Blue Blade]
+
+[[Category:Comics characters introduced in 1942]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Timely Comics characters]]

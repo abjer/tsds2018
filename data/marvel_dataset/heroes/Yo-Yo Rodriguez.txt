@@ -1,0 +1,63 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| image          = Secret Warriors Vol 1 12.jpg
+| imagesize      = <!-- default 250 -->
+| caption        = Yo-Yo Rodriguez (center) and [[Stonewall (comics)|Stonewall]] (right) being attacked by [[Hive (comics)|Hive]] on the cover of ''[[Secret Warriors (comic book)|Secret Warriors]]'' Vol 1 #12.<br />Art by [[Jim Cheung]].
+| debut          = ''[[The Mighty Avengers]]'' #13 (July 2008)
+| creators       = [[Brian Michael Bendis]] (Writer)<br>[[Alex Maleev]] (Artist)
+| alter_ego      =
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = [[Secret Warriors (Team White)|Secret Warriors]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = Slingshot
+| powers         = Superhuman speed
+| cat            = super
+| subcat         = Marvel Comics
+| hero           = y
+| villain        =
+| sortkey        = Rodriguez, Yo-Yo
+| addcharcat#    =
+}}
+'''Yo-Yo Rodriguez''', also known as '''Slingshot''', is a fictional superhero  appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+In the TV series ''[[Agents of S.H.I.E.L.D.]]'', she is played by [[Natalia Cordova-Buckley]].
+
+==Publication history==
+{{expand section|date=March 2016}}
+Yo-Yo Rodriguez first appeared in ''[[The Mighty Avengers]]'' #13 and was created by writer [[Brian Michael Bendis]] and artist [[Alex Maleev]].
+
+==Fictional character biography==
+Yo-Yo Rodriguez is the Puerto-Rican daughter of the [[Griffin (Marvel Comics)|Griffin]]. She is recruited by [[Nick Fury]] to join his anti-[[Skrull]] task force.<ref>''Mighty Avengers'' #13</ref> This team becomes known as the [[Secret Warriors (Team White)|Secret Warriors]].<ref>''Secret Invasion'' #3</ref>
+
+Both of her arms are severed by the Gorgon, and she is temporarily unable to remain active with the team.<ref>''Secret Warriors'' #3</ref> However, both arms are later replaced with prosthetics,<ref>''Secret Warriors'' #8</ref> and she returns to active duty.<ref>''Secret Warriors'' #9</ref>
+
+Slingshot is believed killed in a confrontation with the Wrecking Crew.<ref>''Secret Warriors'' #1 (2017)</ref>
+
+==Powers and abilities==
+She can run at superhuman speed, then bounces back to the point where she began.
+
+==In other media==
+[[File:YoyoRodriguez.jpg|thumb|Yo-Yo Rodríguez, played by [[Natalia Cordova-Buckley]] in ''[[Agents of S.H.I.E.L.D.]]''.]]
+*A version of Yo-Yo Rodriguez appears in the TV series ''[[Marvel's Agents of S.H.I.E.L.D.]]'', portrayed by [[Natalia Cordova-Buckley]]. She first appeared in the episode "[[Bouncing Back]]".<ref name="Agents">{{cite web|url=http://marvel.com/news/tv/25737/marvels_agents_of_shield_recruits_natalia_cordova-buckley_to_the_secret_warriors|title='Marvel's Agents of S.H.I.E.L.D.' Recruits Natalia Cordova-Buckley to the Secret Warriors – News – Marvel.com|work=marvel.com}}</ref> Elena Rodriguez, nicknamed "Yo-Yo" due to her power, is a "street-wise Colombian woman given Inhuman abilities",<ref name="Agents"/> namely the ability to move at super speed for the duration of one heartbeat before returning to the point from which she started. She first comes into contact with S.H.I.E.L.D. in the episode "Bouncing Back" when they investigate her for stealing weapons from the corrupt members of the [[National Police of Colombia]] led by Victor Ramon and the Inhuman Lucio where the two of them later kill her cousin Francisco. She grows close to Mack, who nicknames her "Yo-Yo",<ref>{{cite episode|title=[[Bouncing Back]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Underwood, Ron (director); Monica Owusu-Breen (writer)|network=[[American Broadcasting Company|ABC]]|airdate=March 8, 2016|season=3|number=11}}</ref> and eventually agrees to join the Secret Warriors where she helps to fight the forces of Hive.<ref>{{cite episode|title=[[The Team (Agents of S.H.I.E.L.D.)|The Team]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Keene, Elodie (director); DJ Doyle (writer)|network=[[American Broadcasting Company|ABC]]|airdate=April 19, 2016|season=3|number=17}}</ref> After the signing of the Sokovia Accords, Rodriguez returns to her life with occasional monitoring by S.H.I.E.L.D.<ref>{{cite episode|title=[[Emancipation (Agents of S.H.I.E.L.D.)|Emancipation]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Misiano, Vincent (director); Craig Titley (writer)|network=[[American Broadcasting Company|ABC]]|airdate=May 10, 2016|season=3|number=20}}</ref> She returns to the team after encountering the [[Watchdogs (Marvel Comics)|Watchdogs]] and pursues a serious relationship with Mack.<ref>{{cite episode|title=[[Uprising (Agents of S.H.I.E.L.D.)|Uprising]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Martens, Magnus (director); Craig Titley (writer)|network=[[American Broadcasting Company|ABC]]|airdate=October 11, 2016|season=4|number=3}}</ref>
+**Cordova-Buckley reprises her role in a six-part online [[web series|digital series]] titled ''[[Agents of S.H.I.E.L.D.: Slingshot]]''.<ref>{{cite web|url=http://www.comingsoon.net/tv/trailers/792743-agents-of-shield-lmd-and-a-slingshot-digital-series-are-coming#/slide/1|title=Agents of SHIELD: LMD and a Slingshot Digital Series are Coming|author=CS|website=[[ComingSoon.net]]|date=December 6, 2016|accessdate=December 7, 2016}}</ref> The six-part series showed Elena on the hunt for her old enemy Victor Ramon who has allied with the Watchdogs.
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+* {{comicbookdb|type=character|id=20475|title=Yo-Yo Rodriguez}}
+* [http://marvel.wikia.com/wiki/Yo_Yo_Rodriguez_%28Earth-616%29 Yo-Yo Rodriguez] at Marvel Wiki
+
+{{DEFAULTSORT:Rodriguez, Yo-Yo}}
+[[Category:Characters created by Alex Maleev]]
+[[Category:Characters created by Brian Michael Bendis]]
+[[Category:Comics characters introduced in 2008]]
+[[Category:Fictional characters who can move at superhuman speeds]]
+[[Category:Fictional Colombian people]]
+[[Category:Fictional Puerto Rican people]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics television characters]]
+
+{{Marvel-hero-stub}}

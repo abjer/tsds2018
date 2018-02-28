@@ -1,0 +1,53 @@
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|image      = Pymgoliath.jpg
+|imagesize  = 
+|caption    = [[Hank Pym]] debuts in his first Goliath costume in ''[[The Avengers (comic book)|The Avengers]]'' #28 (May 1966).<br>Cover art by [[Jack Kirby]] and [[Frank Giacoia]].
+|publisher  = [[Marvel Comics]]
+|debut      = ''[[The Avengers (comic book)|Avengers]]'' #28 (May 1966)
+|debutyr1   =
+|creators   = [[Stan Lee]]<br/>[[Don Heck]]
+|real_name  = [[Hank Pym]]<br/>[[Hawkeye (comics)|Clint Barton]]<br/>[[Erik Josten]]<br />[[Bill Foster (comics)|Bill Foster]]<br />[[Goliath (Tom Foster)|Tom Foster]]
+|alliances  = [[Avengers (comics)|Avengers]]
+|powers     = Size-shifting from nearly microscopic to ~100 feet gigantic (both at extremes)<br/>Bio-Energy Projection, also known as a Bio-Sting<br/>Superhuman strength
+}}
+'''''Goliath''''' is a [[superhero]] [[comic book]] identity in [[Marvel Comics]].
+
+==Character history==
+The Goliath identity has been used by various [[superhero]]es.
+
+===Henry Pym===
+{{main|Hank Pym}}
+'''Hank Pym''' was the first to adopt the name Goliath.<ref>''Avengers'' #28 (May 1966). Marvel Comics.</ref>
+
+===Clint Barton===
+{{main|Hawkeye (comics)}}
+'''Clint Barton''' is better known as the superhero [[Hawkeye (comics)|Hawkeye]]; he used Henry Pym's size-changing gas to adopt the Goliath powers and identity shortly after Pym became Yellowjacket. He remained Goliath through the [[Kree-Skrull War]], and briefly resumed using the identity during "[[Operation: Galactic Storm]]".<ref>''The Avengers'' #63 (April 1969). Marvel Comics.</ref>
+
+===Bill Foster===
+{{main|Bill Foster (comics)}}
+'''Dr. Bill Foster''' was Pym's lab assistant, an [[African American]] who used the Giant-Man identity briefly. He had an equally brief career as the '''Black Goliath''' and '''Giant Man''' before retiring from superheroics.<ref>''Power Man'' #24 (April 1975). Marvel Comics.</ref>
+
+Recently, Bill Foster came out of retirement, donning a new costume and becoming known as simply '''Goliath'''. He was recently seen in the "[[Civil War (comics)|Civil War]]" storyline, siding with Captain America's faction of outlaw Anti-Registration heroes. Foster was killed by a [[Thor (Marvel Comics)|Thor]] [[Ragnarok (comics)|clone]] engineered by Pym, [[Iron Man|Tony Stark]], and [[Mister Fantastic|Reed Richards]].<ref>''Civil War'' #4. Marvel Comics.</ref>
+
+===Erik Josten===
+{{main|Erik Josten}}
+'''Erik Josten''' was originally known as the supervillain Power Man. After being soundly defeated by [[Luke Cage]] &ndash; who was also calling himself Power Man at the time &ndash; he changed his codename to the Smuggler, and later to '''Goliath'''.<ref>''Iron Man Annual'' #7 (Oct. 1984)</ref> He adopted the superheroic identity of '''Atlas''' upon joining the [[Thunderbolts (comics)|Thunderbolts]].
+
+===Tom Foster===
+{{main|Goliath (Tom Foster)}}
+Following his uncle's death, '''Tom Foster''', a student at MIT, worked to crack the Pym Particle code and become the new Goliath. He succeeded near the end of the ''[[World War Hulk]]'' storyline where he had a brief fight with Iron Man.<ref>''World War Hulk: Aftersmash'' #1. Marvel Comics.</ref>
+
+==References==
+{{reflist}}
+
+{{Hank Pym}}
+{{Hawkeye}}
+
+{{Marvel-Comics-stub}}
+[[Category:Marvel Comics superheroes]]
+[[Category:Set indices on comics]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Fictional characters who can change size]]
+[[Category:Fictional giants]]
+[[Category:Male characters in comics]]

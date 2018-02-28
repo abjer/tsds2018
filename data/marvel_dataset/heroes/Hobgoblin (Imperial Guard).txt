@@ -1,0 +1,52 @@
+{{distinguish|Hobgoblin (comics)}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|image=Hobgoblin_(Imperial_Guard).jpg
+|imagesize=175
+|caption=Hobgoblin from ''Uncanny X-Men'' #107.<br>Art by [[Dave Cockrum]].
+|character_name=Hobgoblin
+|real_name=
+|species=Chameleoid
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Men]]'' #107 (Oct 1977)
+|creators=[[Chris Claremont]] and [[Dave Cockrum]]
+|alliances=[[Imperial Guard (comics)|Imperial Guard]]
+|aliases=Shapeshifter, Shifter, Shift
+|powers=Shapeshifting
+}} 
+
+'''Hobgoblin''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Fictional character biography==
+Hobgoblin is a warrior, a long-time member of the Royal Elite of the [[Shi'ar]] [[Imperial Guard (comics)|Imperial Guard]]. He joined in the Imperial Guard's battle on behalf of Emperor [[D'Ken]] on a nameless Shi'ar Empire planet, and attacked the [[X-Men]].<ref>''X-Men'' Vol. 1 #107-180</ref> On [[Deathbird]]'s behalf, he later joined the Imperial Guard members in battle against [[Excalibur (comics)|Excalibur]] and the [[Starjammers]].<ref>''X-Men Spotlight On: Starjammers'' #2</ref>
+
+As '''Shapeshifter''', he later impersonated a Shi'ar Commander during the [[Operation: Galactic Storm|Kree-Shi'ar War]], and persuarded the Shi'ar praetor to attack the [[Avengers (comics)|Avengers]].<ref>''Avengers'' #345</ref> He then impersonated [[Doctor Minerva]] in order to capture [[Captain Atlas]].<ref>''Avengers West Coast'' #81</ref>
+
+He was killed by [[Vulcan (Marvel Comics)|Vulcan]] along with many other Imperial Guard members.{{Issue|date=April 2009}}
+
+==Powers and abilities==
+Hobgoblin's powers are the natural ability of his race, as a [[shapeshifter]] of the Chameleoid race. He has the ability to change his shape, size, and physical appearance at will. He can even change his mass by drawing additional mass from another dimension or dispatching unnecessary mass into the same dimension. Apparently he can take on the physical abilities of any living creature whose physical appearance he imitates. His ability to duplicate the physical abilities of creatures may involve psionic scanning of the beings he imitates. He can also alter the appearance of his costume at will, possibly through psionic means. The exact limitations of his shapeshifting ability are unknown, although he has been seen to transform into large, non-humanoid creatures. He is an excellent actor.
+
+==Inspiration==
+Several of the members of the Imperial Guard are at least partly based on members of the [[DC Comics]] team [[Legion of Super-Heroes]]. ([[Dave Cockrum]], co-creator of the Guard, also had a long run as artist on the ''Legion''). Hobgoblin is based on LSH member [[Chameleon Boy]].<ref>Degaton, Per. [http://www.marvunapp.com/Appendix4/hobgoblinimpguard.htm "Hobgoblin," Appendix to the Handbook of the Marvel Universe.] Accessed Apr. 22, 2009.</ref>
+
+==In other media==
+
+===Television===
+* Hobgoblin appears in the ''[[X-Men (TV series)|X-Men]]'' episode "The Dark Phoenix" and "Fate of the Phoenix." He and the Imperial Guard had to fight the X-Men to determine the fate of Jean Grey after the Phoenix Force's attack on some of the galaxies.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.marvel.com/universe/Hobgoblin_%28Shifter%29 Hobgoblin bio at Marvel.com]
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/hobgoblinimpguard.htm|Hobgoblin}}
+
+{{Marvel Cosmic}}
+
+[[Category:Comics characters introduced in 1977]]
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by Dave Cockrum]]
+[[Category:Extraterrestrial superheroes]]
+[[Category:Fictional shapeshifters]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics superheroes]]

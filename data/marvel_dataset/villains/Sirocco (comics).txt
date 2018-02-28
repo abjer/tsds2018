@@ -1,0 +1,35 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Sirocco
+|real_name=
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''New Mutants Annual'' vol. 1 #7
+|creators=[[Fabian Nicieza]]<br>[[Kirk Jarvinen]] 
+|alliances=[[Desert Sword]]
+|aliases=
+|powers=Create funnels of air that can be used to pick things up or strike enemies with concussive force.
+}}
+
+'''Sirocco''' is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] in the [[Marvel Comics]] Universe. His first appearance was in ''New Mutants Annual #7''.
+
+==Fictional character biography==
+Sirocco was part of the [[Iraq]]i mercenary team called [[Desert Sword]] when they fought [[Freedom Force (comics)|Freedom Force]], led by [[Crimson Commando]]. Desert Sword was to prevent Freedom Force from liberating a [[Germans|German]] scientist named Reinhold Kurtzmann in [[Kuwait]]. Desert Sword ambushed them and Aminedi decapitated [[Super Sabre]] and cut off Crimson Commando's right arm.<ref>''New Mutants Annual'' #7 (1991)</ref> Kurtzmann was captured by Freedom force but then recaptured by Desert Sword. [[Pyro (Marvel Comics)|Pyro]] still managed to kill Kurtzmann though.<ref>''X-Men Annual'' #15 (1991)</ref> Sirocco and [[Aminedi]] trapped [[Avalanche (comics)|Avalanche]] and Commando in a mine field and as Commando's condition worsened Avalanche trapped the two under a pile of rock, though they later escaped, and rode a wave of dirt to their designated extraction point and got him to safety, leaving both [[Blob (comics)|Blob]] and Pyro who were later captured by Desert Sword.<ref>''X-Factor Annual'' #6 (1991)</ref>
+
+It is unknown if Sirocco retained his powers after [[Decimation (comics)|M-Day]].
+
+==Powers and abilities==
+Sirocco can warp nearby weather patterns to create swirling air funnels that can strike with concussive impact or lift him into the air.
+
+==Citations and References==
+{{reflist}}
+
+[[Category:Fictional mercenaries]]
+[[Category:Fictional Iraqi people]]
+[[Category:Male characters in comics]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Comics characters introduced in 1991]]
+
+{{Marvel-villain-stub}}

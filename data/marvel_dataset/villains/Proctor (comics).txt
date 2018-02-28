@@ -1,0 +1,10 @@
+#REDIRECT [[List of Marvel Comics characters: P#Proctor]]
+
+{{Rcat shell|
+{{R from fictional character|Marvel Comics}}
+{{R comics to list entry}}
+}}
+
+[[Category:Characters created by Bob Harras]]
+[[Category:Characters created by Steve Epting]]
+[[Category:Marvel Comics supervillains]]

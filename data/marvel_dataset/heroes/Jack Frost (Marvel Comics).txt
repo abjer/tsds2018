@@ -1,0 +1,48 @@
+'''Jack Frost''' is the name of two unrelated [[Character (arts)|fictional]] characters appearing in [[American comic book]]s published by [[Marvel Comics]]. The first Jack Frost was published by Marvel's 1940s forerunner [[Timely Comics]] during the period fans and historians call the [[Golden Age of comic books]].
+
+==Publication history==
+Marvel Comics' first character named Jack Frost outwardly recalls the [[folklore|folklorish]] spirit of winter [[Jack Frost]]. [[First appearance|First appearing]] in ''[[U.S.A. Comics]]'' #1 ([[cover-date]]d August 1941), from Marvel predecessor [[Timely Comics]], he was one of the first creations of future Marvel editor-in-chief and publisher [[Stan Lee]],<ref name="lee">[http://www.lambiek.net/artists/l/lee_s.htm Stan Lee] at the [[Lambiek Comiclopedia]]</ref> who collaborated with [[penciler]] [[Charles Wojtkoski]].
+
+In ''[[Marvel Premiere]]'' #29 (April 1976), he was [[retconned]] to have been a member of the stateside [[World War II]]-era superhero team the [[Liberty Legion]].
+
+==Fictional character biography==
+===Jack Frost (Golden Age)===
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=JackFrost_Marvel.jpg
+|caption=Detail from cover of ''The Invaders'' #6 (May 1976).<br>Art by [[Jack Kirby]] and [[Joe Sinnott]].
+|character_name=Jack Frost
+|real_name=Unrevealed<br><small>(possibly Jack Frost)</small>
+|publisher=[[Marvel Comics]]
+|debut=''[[U.S.A. Comics]]'' #1 (August 1941)
+|creators=[[Stan Lee]]<br>[[Charles Wojtkoski]]
+|alliances=[[Liberty Legion]]
+|aliases=The God in the Ice
+|powers= [[List of comic book superpowers#Cold and ice manipulation|Cold and ice manipulation]]<br>Superhuman stamina and durability
+}}
+Jack Frost seemingly awoke wandering the [[Arctic]] wastes with no knowledge of his past or origins. He resembles a young man made of ice, and can create and withstand extremely cold temperatures and generate large amounts of ice. During [[World War II]], he joined with other superheroes to form the team [[Liberty Legion]] and protect the United States from [[Axis powers of World War II|Axis]] home-front infiltration. The Liberty Legion was initially assembled by [[Bucky Barnes|Bucky]] to rescue the [[Invaders (comics)|Invaders]] brainwashed by the [[Red Skull]]. With the Legion, Jack Frost battled [[Namor|Namor the Sub-Mariner]] and the original [[Human Torch (android)|Human Torch]], and protected bystanders from shrapnel with an ice umbrella.<ref>''Marvel Premiere'' #29; ''Invaders'' #6; ''Marvel Premiere'' #30</ref>
+
+Jack Frost appeared in the modern era, where it was explained he had sacrificed himself by melding with an Arctic "ice-worm" monster in order to neutralize it and keep it from possibly devastating humanity. Jack Frost was briefly freed during an encounter with [[Captain America]] before willingly being swallowed by and melding with the ice-worm once more.<ref>''Captain America'' #384 (April 1991)</ref> Marvel's [[mythological]] character [[Thor (Marvel Comics)|Thor]] in this issue speculated that this Jack Frost may be the diminutive child of a [[Norse mythology]] [[Giants (Marvel Comics)|Frost giant]].
+{{-}}
+
+==Powers and abilities==
+Jack Frost has the ability to generate sub-freezing temperatures.  Combined with ambient water vapor, he can create snow, sleet, and ice for various effects such as propelling snow flurries at hurricane wind-speeds or fashioning ice into various simple constructs such as spheres, bridges, or walls.  He also has superhuman stamina and durability. Jack Frost has bluish-white skin that glistens from the glaze of frost that covers it. His skin temperature is {{convert|32|°F|°C}}.
+
+==Related characters==
+* In modern Marvel continuity, an unrelated, human scientist, Professor Gregor Shapanka, using technological means to generate incapacitating ice which he first planned to use to prolong life, became the [[supervillain]] Jack Frost. He was introduced as an [[antagonist]] of the [[superhero]] [[Iron Man]], as he was a former Stark employee who was fired for attempted robbery.<ref>''[[Tales of Suspense]]'' #45 (Sept. 1963)</ref> He later took on the name [[Blizzard (comics)#Gregor Shapanka|Blizzard]].
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.internationalhero.co.uk/j/jackfrost.htm Golden Age Jack Frost at International Hero]
+
+{{Jack Frost}}
+{{GoldenAge}}
+
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1941]]
+[[Category:Fictional characters with ice or cold abilities]]
+[[Category:Golden Age superheroes]]
+[[Category:Jack Frost]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Timely Comics characters]]

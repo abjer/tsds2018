@@ -1,0 +1,43 @@
+{{Refimprove|date=December 2009}}
+
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=XMEN-Gargouille.jpg
+|caption= Panel from Uncanny X-Men 492 <br> Art by [[Billy Tan]]
+|character_name=Gargouille
+|real_name=Lavinia LeBlanc
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=Quicksilver #9
+|creators=[[John Ostrander]]<br>[[Joe Edkin]]<br>[[Ivan Reis]]
+|alliances=[[Acolytes (comics)|Acolytes]]
+|aliases=
+|powers=Superhuman strength, speed, reflexes, agility, coordination, balance, endurance, and senses,<br>Flight,<br>Talons
+}}
+
+'''Gargouille''' ('''Lavinia LeBlanc''') is a fictional [[Mutant (Marvel Comics)|mutant]] villain character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Fictional character biography==
+'''Gargouille''' was a member of a faction of [[Acolytes (comics)|Acolytes]] led by Exodus who participated in an assault on [[Wundagore|Wundagore Mountain]] in the European country of [[Transia]], home of the enigmatic scientist known as the [[High Evolutionary]]. The Evolutionary had developed a powerful mutagenic compound known as Isotope-E, which the Acolytes coveted for themselves.
+
+===After M-Day===
+Gargouille retained her mutant powers during the [[Decimation (comics)|M-Day]], and made her return in the event, ''[[X-Men: Messiah Complex]]''.  In it, she was a part of a group of [[Acolytes (comics)#Ex-Acolytes|former Acolytes]] who were tracked down by the X-Men looking for information on the whereabout of Exodus and his newest group of Acolytes.  She and the others fought back, but she was taken down by [[Nightcrawler (comics)|Nightcrawler's]] quick thinking. The X-Men seemed to get some kind of lead from this group, but what became of them after the interrogation was over is currently unknown.<ref>''Uncanny X-Men'' #492</ref>
+
+==Powers and abilities==
+Gargouille is a mutant who is possessed of a diminutive stature and a highly dense body. This combination gives her enhanced strength, speed, reflexes & reactions, agility, coordination, balance, and endurance. Gargouille also possesses hyper-keen senses, as well as razor-sharp talons on her hands and feet, horns on her head, and large leathery wings that grant her natural flight.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix6/gargouilleacolyte.htm|Gargouille}}
+* [http://marvel.wikia.com/Lavinia_LeBlanc_(Earth-616) Gargouille] at Marvel.com
+
+{{DEFAULTSORT:Gargouille (Comics)}}
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Female supervillains]]
+
+
+{{Marvel-villain-stub}}

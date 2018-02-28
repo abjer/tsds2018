@@ -1,0 +1,49 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=<!--  Commented out because image was deleted: [[Image:Styx and Stone.jpg|250px]] -->
+|caption=Styx and Stone.<br>Art by [[Todd McFarlane]].
+|character_name=Styx and Stone
+|real_name=Jacob Eishorn (Styx) and Gerald Stone
+|publisher=[[Marvel Comics]]
+|debut=''[[The Amazing Spider-Man]]'' #309 (November, 1988)
+|creators=[[David Michelinie]]<br>[[Todd McFarlane]]
+|alliances=
+|aliases=
+|powers='''(Styx)''':<br>Lethal touch<br>Claw-like hands that disintegrate all organic material within seconds<br>'''(Stone)''':<br>Wears two large weapons on his shoulders
+}}
+
+'''Styx and Stone''' ('''Jacob Eishorn''' and '''Gerald Stone''') are two [[fiction]]al [[comic book]] characters appearing in [[American comic book]]s published by [[Marvel Comics]]. They are a criminal duo that have crossed [[Spider-Man]]'s path on a number of occasions. They were created by [[David Michelinie]] and [[Todd McFarlane]] and first appeared in ''[[The Amazing Spider-Man]]'' #309. They reappeared in issues #332-333 and #376-377 of the same series.
+
+==Fictional character biography==
+Gerald Stone was an idealistic scientist who wanted to find a cure for cancer. He conducted an illegal experiment on a homeless person named Jacob Eishorn. The experiment failed and Eishorn became a living cancer, who needed to kill to survive. Now calling himself "Styx", Eishorn enjoyed the killing of innocents. Feeling responsible for Styx, Stone built high-tech weaponry for himself and turned the two of them into a mercenary duo. Stone hoped that as mercenaries, Styx wouldn't kill innocents, but by now Stone was willing to kill anybody to protect Styx. He planned on using the money they earned as mercenaries to find a cure for Styx.{{Issue|date=February 2011}}
+
+On their first outing, the duo was hired by Jonathan Caesar, a millionaire obsessed with [[Mary Jane Watson]] to kidnap her. This brought them into conflict with [[Spider-Man]], Mary Jane's husband, who defeated the duo. Styx and Stone returned to Caesar, who told them to try again. This time, the duo faced Spider-Man who was at the time in conflict with [[Venom (comics)|Venom]]. During the fight, Styx's touch nearly killed Venom and they were returned to prison.{{Issue|date=February 2011}}
+
+A third meeting with Spider-Man involved the vigilante [[Cardiac (comics)|Cardiac]]. Cardiac's alter-ego, Dr. Elias Wirtham, had been a good friend of Stone and offered to cure Styx. Cardiac was convinced that Styx couldn't be cured or redeemed and tried to kill Styx. Spider-Man stopped Cardiac and the two fought, while Styx and Stone attempted, in vain, to escape.{{Issue|date=February 2011}}
+
+After turning down a job offer from the [[Life Foundation]], Styx and Stone try to rob the [[New York Stock Exchange]], but are single-handedly subdued by Spider-Man.<ref>{{Cite comic|writer = Mike Lackey|penciller = Andrew Wildman|inker = Stephen Baskerville|colorist = Chia-Chi Wang|letterer = Jade Moede|editor = Eric Fein|story = The Arachnis Project, Part One: Ties That Bind!|title = Spider-Man: The Arachnis Project|volume = 1|issue = #1|date = August 1994|publisher = Marvel Comics|location = United States}}</ref>
+
+A heavily mutated Styx and Stone later appear as the leaders of a group violent [[Nihilism|nihilists]] called "the Cult of [[Entropy]]". The duo and their followers attack a drug lab in [[Bolivia]], but are forced into a retreat by Spider-Man, [[Deadpool]], and the [[Mercs for Money]].<ref name = "SD">{{Cite comic|writer = Joe Kelly|penciller = Ed McGuinness|inker = Mark Morales|colorist = Jason Keith|letterer = VC's Joe Sabino|editor = Nick Lowe and Jordan D. White|story = Isn't it Bromantic? Part Three|title = Spider-Man/Deadpool|volume = 1|issue = #3|date = 9 March 2016|publisher = Marvel Comics|location = United States}}</ref>
+
+==Powers and abilities==
+Styx's touch can kill anything organic and can disintegrate organic matter within seconds. His fingers can grow longer to increase his range. His touch has no effect on synthetic or inorganic material and Spider-Man's synthetic costume was enough to protect his body from Styx's touch.
+
+Stone wears two large weapons on his shoulders. These weapons can fire energy blasts, a blinding flash, a sticky resin to immobilize opponents and knockout gas. The duo often uses a flying platform of Stone's design.
+
+While a member of the Cult of Entropy, Stone was somehow transformed into a [[golem]]-like creature that can turn inorganic material, such as Deadpool's [[Kevlar]] armor, into a fragile, rock-like substance by coming into physical contact with it.<ref name = "SD"/>
+
+==Other versions==
+A teenage version of Styx and Stone appears in the [[Ultimate Marvel]] universe as a street punk and a member of the Serpent Skulls gang.<ref>{{cite web|url=http://marvel.com/news/comics/2014/1/13/21744/look_beyond_cataclysm_for_ultimate_marvel_now|title=Look Beyond Cataclysm for Ultimate Marvel NOW!|publisher=Marvel.com|last=Wheeler|first=Andrew|date=January 13, 2014}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*http://www.spiderfan.org/comics/reviews/spiderman_amazing/333.html
+{{Spider-Man characters}}
+{{Spider-Man}}
+{{Ultimate Spider-Man}}
+
+[[Category:Fictional assassins]]
+[[Category:Fictional characters introduced in 1988]]
+[[Category:Marvel Comics supervillain teams]]
+[[Category:Marvel Comics supervillains]]

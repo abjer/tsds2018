@@ -1,0 +1,37 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|character_name=Otomo
+|real_name=Otomo
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''X-51 #6''
+|creators=
+|alliances=
+|aliases=
+|relatives=
+|powers=requires drugs to survive. Has superhuman strength and flight. Skilled martial artist.
+}}
+
+'''Otomo''' is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] in the [[Marvel Comics]] Universe. He first appeared in ''[[Machine Man|X-51]]'' #6.
+
+==Fictional character biography==
+At the end of the [[Second World War]], an unknown scientist was developing a formula similar to the Super-Soldier Serum for the [[Empire of Japan]]. When the Allies came for him, the scientist drank the [[drug|serum]]. The serum had no immediately discernible effects, as the scientist exhibited no superhuman abilities. Eventually the scientist married and had a daughter. The daughter later died in childbirth and the Japanese authorities took her son, Otomo. The Japanese government made him into a hero, and he became renowned for his proficiency against cybernetic and robot opponents. However, Otomo was dying because of his powers, so the Japanese made an antidote to save him. The Japanese controlled him with it until [[Shinobi Shaw]] synthesized the drug, bringing Otomo into his service. When Shinobi Shaw was deposed by his father [[Sebastian Shaw (comics)|Sebastian Shaw]], Otomo transferred his allegiance to him.{{issue|date=January 2013}}
+
+Sebastian Shaw contacted Otomo in [[Japan]] and ordered that he destroy [[X-51 (Machine Man)|X-51]] for him. Otomo agreed, but noted that afterward, his debt would be considered paid in full.{{issue|date=January 2013}}
+
+Otomo captured X-51's friend Peter Spalding so that X-51 would come to him. Jill, Peter’s wife, called X-51, and he set off to rescue Peter. As Otomo waited for X-51's arrival, he narrated his origins to Spaulding, and Spaulding observed that Otomo was little more than a slave. Otomo, however, did not care, and was concerned only with destroying X-51. When X-51 arrived, he and Otomo fought, and Otomo managed to tear X-51 apart, but his nanotechnology rebuilt him. Otomo had to admit that X-51 was superior to him, but then he began to convulse, desperately needing more of Shaw's drug. X-51 helped administer some of the synthesized drug, deciding that because of Otomo’s honor he wouldn't attack him again.{{issue|date=January 2013}}
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{Marvunapp|http://www.marvunapp.com/Appendix/otomomac.htm|Otomo}}
+
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics characters with superhuman strength]]
+
+
+{{Marvel-villain-stub}}

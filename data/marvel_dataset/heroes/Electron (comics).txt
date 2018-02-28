@@ -1,0 +1,49 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|image=
+|caption=
+|character_name=Electron
+|real_name=
+|species=[[Shi'ar]]
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Men]]'' #107 (Oct 1977)
+|creators=[[Chris Claremont]] (writer)<br>[[Dave Cockrum]] (artist)
+|alliances=[[Imperial Guard (comics)|Imperial Guard]]
+|aliases=
+|powers=Generates and controls electromagnetism
+}}
+'''Electron''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+Electron is a warrior serving in the Royal Elite of the [[Shi'ar]] [[Imperial Guard (comics)|Imperial Guard]].  He is a [[Shi'ar]] with the ability to generate and control electromagnetism. He was born on Chandilar, the throne world of the Shi'ar Empire.
+
+==Fictional character biography==
+Electron joined in the Imperial Guard's battle on behalf of Emperor [[D'Ken]].  He battled the [[X-Men]] and [[Starjammers]], along with other Guard members, at the [[M'Kraan Crystal]], during a Shi'ar power struggle.<ref>''X-Men'' Vol. 1 #107-108</ref>  Alongside the Imperial Guard, he later battled [[Rom (comics)|Rom]] and his fellow [[Spaceknights]].<ref>''Rom Annual'' #4</ref>  On [[Deathbird]]'s behalf, Electron later joined the Imperial Guard members in battle against [[Excalibur (comics)|Excalibur]] and the Starjammers.<ref>''X-Men Spotlight On: Starjammers'' #2</ref>
+
+During [[Operation: Galactic Storm]], Electron joined [[Oracle (Marvel Comics)|Oracle]] and [[Flashfire (comics)|Tempest]] in capturing [[Rick Jones (comics)|Rick Jones]] while [[Warstar]] fought [[Captain America]]. The three Guardsmen battled a [[Kree]] [[Sentry (Kree)|Sentry]], and battled the [[Living Lightning]], but escaped with the Kree Psyche Magnetron device during the Kree-Shi'ar War.<ref>''Avengers West Coast'' #80</ref> Electron was also among the Imperial Guard members to later lay claim to the devastated Kree Empire after the war.<ref>''Avengers'' #347</ref>
+
+Electron was also later one of the Imperial Guard members stationed on Earth for a time.<ref>''Imperial Guard'' #1-4</ref>  He also battled [[Vulcan (Marvel Comics)|Vulcan]] and was one of the Guard members to survive the conflict.<ref>''Uncanny X-Men'' #480</ref>
+
+==Powers and abilities==
+Electron is a member of the alien race known as the Shi'ar, making his physical abilities higher than that of the average human. He is a good hand-to-hand combatant, trained in armed and unarmed combat by the Shi'ar Imperial Guard.
+
+Electron has the ability to project electromagnetic energy and move metallic objects.
+
+Electron's costume consists of Shi'ar fabrics and body armor mimicking the properties of unstable molecules, making them non-conductive.
+
+==Inspiration==
+Several of the members of the Imperial Guard are at least partly based on members of the [[DC Comics]] team [[Legion of Super-Heroes]]. ([[Dave Cockrum]], co-creator of the Guard, also had a long run as artist on the ''Legion''.) Electron is based on LSH member [[Cosmic Boy]].<ref>Kaminski, John. {{Marvunapp|http://www.marvunapp.com/Appendix4/electronimpguard.htm|Electron}} Accessed Apr. 22, 2009.</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix4/electronimpguard.htm|Electron}}
+*[http://www.marvel.com/universe/Electron_%28alien%29 Electron at Marvel.com]
+
+{{Marvel Cosmic}}
+
+[[Category:Comics characters introduced in 1977]]
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by Dave Cockrum]]
+[[Category:Extraterrestrial superheroes]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics superheroes]]

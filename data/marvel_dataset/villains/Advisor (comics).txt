@@ -1,0 +1,10 @@
+#REDIRECT [[List of Marvel Comics characters: A#Advisor]]
+
+{{Rcat shell|
+{{R from fictional character|Marvel Comics}}
+{{R from merge}}
+{{R comics to list entry}}
+}}
+
+[[Category:Comics characters introduced in 1994]]
+[[Category:Marvel Comics supervillains]]

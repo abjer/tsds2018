@@ -1,0 +1,43 @@
+'''Synapse''' is the name of two different fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Fictional character biography==
+===Max Mullins===
+{{Comics character list header
+|name = Synapse
+|Marvelwiki =
+|CBDBid = 64851
+|GCDid =
+}}
+'''Synapse (Max Mullins)''' is a [[supervillain]] in the [[Marvel Universe]]. The character, created by [[Scott Lobdell]] and [[Tom Morgan (comics)|Tom Morgan]], appeared in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #377-380 (July–October 1998).
+
+Within the context of the stories, Synapse, along with [[La Concierge]] and [[Stilt-Man]], was recruited by the [[Kingpin (character)|Kingpin]] to form the third incarnation of the [[Emissaries of Evil]]. Together, they battled Daredevil.<ref>''Daredevil'' #377-380</ref>
+
+===Emily Guerrero===
+{{expand section|date=January 2018}}
+{{Comics character list header
+|name = Synapse
+|Marvelwiki =
+|CBDBid = 83530
+|GCDid = Emily+Guerrero
+}}
+'''Synapse (Emily Guerrero)''' is a superhero in [[Marvel Comics]]. The character, created by Gerry Duggan and [[Ryan Stegman]], appeared in ''[[Uncanny Avengers]]'' Vol. 3 #1 (December 2015).
+
+Emily Guerrero lived with her younger brother and grandfather, Ivan, when the Terrigen Cloud affected their area. Emily emerged as an [[Inhumans|Inhuman]] while her grandfather also emerged where he took the name Shredded Man.<ref>''Uncanny Avengers'' Vol. 3 #4</ref> Later, she joined the Avengers Unity Division under [[Captain America]]'s leadership. Despite being new, Steve Rogers had faith in her even though she and teammate [[Rogue (comics)|Rogue]] did not get along very well. She fought [[Super-Adaptoid]] by getting a flock of pigeons to take it out.<ref>''Uncanny Avengers'' Vol. 3 #1</ref>
+
+==Powers and abilities==
+The Emily Guerrero version of Synapse possesses telepathy, animal control, enhanced speed, and super strength.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Max_Mullins_(Earth-616) Synapse (Max Mullins)] at Marvel Wiki
+* [http://marvel.wikia.com/wiki/Emily_Guerrero_(Earth-616) Synapse (Emily Guerrero)] at Marvel Wiki
+
+{{Inhumans}}
+
+[[Category:Comics characters introduced in 1998]]
+[[Category:Comics characters introduced in 2015]]
+[[Category:Inhumans]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]

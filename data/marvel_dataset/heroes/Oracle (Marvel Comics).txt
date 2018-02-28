@@ -1,0 +1,74 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:Oraclewiki.jpg]]
+|caption=Oracle by Clayton Henry
+|character_name=Oracle
+|real_name=Sybil
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Men]]'' #107 (Oct 1977)
+|creators=[[Chris Claremont]] and [[Dave Cockrum]]
+|alliances=[[Imperial Guard (comics)|Imperial Guard]]
+|aliases=
+|species= 
+|powers= High-level telepathy
+}} 
+'''Oracle''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Fictional character biography==
+Oracle is a long-time member and warrior serving in the Royal Elite of the [[Shi'ar]] [[Imperial Guard (comics)|Imperial Guard]]. She is the Empire's premiere telepath, capable of all the standard abilities demonstrated by other telepaths (mind-reading, psychic attacks, mental control of others, etc.). She has been romantically linked with both [[Gladiator (Kallark)|Gladiator]] and [[Starbolt]].  
+
+Oracle joined in the Imperial Guardsmen's battle against the [[X-Men]] on behalf of Emperor [[D'Ken]], and was defeated by [[Wolverine (character)|Wolverine]].<ref>''X-Men'' Vol. 1 #107</ref> She later fought [[Warren Worthington III|Angel]] during the Shi'ar trial by combat over the life of [[Phoenix (comics)|Phoenix]].<ref>''Uncanny X-Men'' #137</ref>
+
+Oracle was amongst those few Imperial Guard members who opposed the treacherous Shi'ar High Council member Lord Samédàr who was aiding an attempted coup of the Shi'ar throne by Deathbird. Even after many of the Guard chose to side with Samédàr, Oracle (a.k.a. Sybil) remained steadfast in her loyalty to then-Empress [[Lilandra Neramani|Lilandra]]. On a mission to find Lilandra, Oracle joined the other Imperial Guardsmen, [[Nightcrawler (comics)|Nightcrawler]], and [[Kitty Pryde]] in battling Lord Samédàr's renegade Imperial Guardsmen. Oracle was captured, but freed on Lilandra's command.<ref>''Uncanny X-Men'' #157-158</ref>
+
+Oracle battled the [[Spaceknights|Spaceknight]] Trapper, and then aided the other Imperial Guard members, [[Rom (comics)|Rom]], and the Spaceknights in combat against Tyreseus.<ref>''Rom Annual'' #4</ref> Oracle later joined in battle alongside the Imperial Guardsmen against the [[Starjammers]] and [[Excalibur (comics)|Excalibur]].<ref>''X-Men Spotlight On: Starjammers'' #2</ref> Some time later, on Deathbird's behalf, Oracle assisted the other Imperial Guardsmen in battle against the X-Men and Starjammers. She was defeated by them, and was captured by a [[Skrull|War Skrull]] posing as [[Professor X|Charles Xavier]].<ref>''Uncanny X-Men'' #275-276</ref>
+
+Oracle later took mental control of [[Rick Jones (comics)|Rick Jones]] during the [[Operation: Galactic Storm|Kree-Shi'ar War]].<ref>''Captain America'' #398</ref> With [[Electron (comics)|Electron]] and [[Flashfire (comics)|Tempest]], she found and captured a key part of the [[Kree]] psyche-magnetron.<ref>''Avengers West Coast'' #80</ref> She psychically drained the Kree [[Captain Atlas]] of strategic information, and then confronted but was unable to control [[Quasar (comics)|Quasar]].<ref>''Quasar'' #33</ref>
+
+Oracle was one of the Imperial Guard members stationed on Earth for a time.<ref>''Imperial Guard'' #1-4</ref>
+
+Oracle was injured in battle with [[Vulcan (Marvel Comics)|Vulcan]], but survived the battle and returned to active duty.{{Issue|date=April 2009}} Now serving Vulcan she seems to be the advisor of Vulcan, since she is by his side during battle decisions. When Vulcan decides to release five criminals captured by the Shi'ar over the years, she objects, to this decision, but that only seemed to motivate Vulcan more to use these five as an additional Imperial Guard, led by a female Strontian, the same species as Gladiator.<ref>''X-Men: Kingbreaker'' #2</ref>
+
+Oracle is seen working closely with Captain America and the Avengers to free worlds dominated by the genocidal 'Builders'.<ref>''Infinity'' #5 (2013)</ref>
+
+==Powers and abilities==
+Oracle has telepathic powers enabling her to read minds, to project her thoughts into others' minds, to control the minds of others, and to stun opponents with mental bolts.
+
+Oracle is a fair hand-to-hand combatant, trained by the Shi'ar Imperial Guard.
+
+Imperial Guardsmen all wear small anti-gravity "flight patches" that allow them to fly.
+
+==Inspiration==
+Several of the members of the Imperial Guard are at least partly based on members of the [[DC Comics]] team [[Legion of Super-Heroes]]. Dave Cockrum (co-creator of the Imperial Guard) also had a long run as artist on the Legion. Oracle is based on LSH member [[Saturn Girl]].{{Citation needed|date=June 2008}}
+
+==Other characters named Oracle==
+There are other characters who have also gone by the name Oracle:
+
+* A man calling himself Oracle is an astronomer who worked at a planetarium. He and his henchmen planned to rob the charity money only to be stopped by [[Jeffrey Mace]] and Fred Davis Jr. in their superhero identities of [[Captain America]] and [[Bucky]].<ref>''Marvel Mystery Comics'' #84 (October 1947). Marvel Comics.</ref>
+
+* Oracle is a telepathic member of the [[Inhumans]]. He would act as an interpreter for [[Black Bolt]] where he would relay his messages upon being touched by him.<ref>''Incredible Hulk Special'' #1 (October 1968). Marvel Comics.</ref>
+
+* Oracle is a member of the Enhanced who has also gone by the name Warbird.<ref>''Gun Runner'' #3 (December 1993). Marvel Comics.</ref>
+
+==In other media==
+* Oracle made an appearance in the ''[[X-Men (TV series)|X-Men]]'' episodes "The Dark Phoenix" and "Fate of the Phoenix". She and the Imperial Guard had to fight the X-Men in order to determine the fate of Jean Grey after what the Phoenix Force did to some of the galaxies. In the four-part episode "Beyond Good and Evil", Oracle was present when [[Deathbird]] attacked [[Lilandra Neramani|Lilandra]] alongside [[Apocalypse (comics)|Apocalypse]]. However, Apocalypse simply wanted a distraction so he could kidnap Oracle leaving Deathbird behind.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.com/universe/Oracle Oracle] at Marvel.com
+* [http://marvel.wikia.com/wiki/Oracle_(Sybil)_(Earth-616) Oracle] at Marvel Wiki
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/oracleimpguard.htm|Oracle}}
+
+{{Marvel Cosmic}}
+
+[[Category:Comics characters introduced in 1977]]
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by Dave Cockrum]]
+[[Category:Extraterrestrial superheroes]]
+[[Category:Fictional characters with precognition]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics telepaths]]
+
+[[fr:Liste des membres de la Garde impériale Shi'ar#Oracle]]

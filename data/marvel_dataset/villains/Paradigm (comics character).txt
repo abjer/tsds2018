@@ -1,0 +1,45 @@
+{{for|the Image Comics series|Paradigm (Image Comics)}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name=Paradigm
+image=
+|caption=
+|real_name=
+|species=[[Mutant (Marvel Comics)|Human Mutant]] / [[Phalanx (comics)|Phalanx]]
+|publisher=[[Marvel Comics]]
+|debut=''X-Force'' #87
+|creators=
+|alliances=[[Hellions (comics)#The New Hellions|New Hellions]]<br>[[Phalanx (comics)|Phalanx race]]
+|aliases=
+|powers=Ability to restructure techno-organic frame to various shapes,<br>Ability to communicate and interface with technology,<br>Ability to control the minds of people that are covered with techno-matter
+|cat=super
+|subcat=Marvel Comics
+|villain=y
+|sortkey=Paradigm
+}}
+'''Paradigm''' is a fictional [[Mutant (Marvel Comics)|mutant]] character in the [[Marvel Comics]] Universe, created for their comic book series ''[[X-Force]]''. His first appearance was in ''X-Force'' #87.
+
+==Fictional character biography==
+Ever since the earth learned of the existence of the techno-organic [[Extraterrestrial life in popular culture|extraterrestrial]] race known as the [[Phalanx (comics)|Phalanx]], governments began scrambling to find a way to utilize it to their advantage. One such attempt was conducted by the [[China|Chinese]] government on a young mutant boy who had ''technokinesis''—the manipulation of and communication with technological matter. The government scientists purposefully implanted the young boy with the [[Techno-Organic Virus]] to see what would happen and the T-O virus had an interesting reaction with the young boy. Both the boy and the part of the Phalanx became transformed into a new being calling himself Paradigm, who not only had the Phalanx's penchant for [[shapeshifting]] but was able to control the minds of people that he covered with his techno-matter. He was able to somehow escape from the facility and found himself allied with the man calling himself [[King Bedlam]].{{issue|date=January 2013}}
+
+Years later, he resurfaced as part of a group calling themselves the ''New Hellions'', who were led by King Bedlam. They hoped to [[ransom]] the [[United States government]] for a fortune by threatening to unleash the [[Armageddon Man]], who was in [[suspended animation]]. A member of [[X-Force]]—[[Bedlam (comics)|Jesse]]—had been searching for his long-lost brother and found him to be King Bedlam after years of searching, and was almost convinced into joining his cause. However, as the events began to unfold it became clear that King Bedlam would crush anyone, even family, who got in his way. He even devised a clever plan of switching the mind of [[Domino (comics)|Domino]] with one of his operatives in order to keep X-Force from discovering the devious nature of his plan. Once it was underway, King Bedlam had Paradigm cover the members of X-Force (sans Jesse) in his techno-matter to have them be mindless [[automaton]]s that would finish the final stages of his plan of reawakening the Armaggedon Man. However, Jesse—with the ability to scramble electronic devices much in the same way his brother scrambled minds—disrupted Paradigm and freed his teammates. Together with the help of [[Magma (comics)|Magma]] the team was able to avert disaster. Paradigm told the team that he was going to go adventuring in an attempt to further evolve himself.{{issue|date=January 2013}}
+
+Paradigm is seen once again in the pages of ''[[Astonishing X-Men]]'', or more accurately, his head is. Somewhere along the way, he was found by a mysterious villain called Kaga that killed him and took Paradigm's head to be used as computer interface system for a [[Brood (comics)|Brood]] ship. [[Cyclops (Marvel Comics)|Cyclops]] later destroys his head out of respect for the dead. Paradigm was part of Kaga's long-term plan to destroy the X-Men out of sheer jealousy.<ref>''Astonishing X-Men'' #31-35 (2010)</ref>
+
+==Powers and abilities==
+Paradigm shares the abilities of the Phalanx race: restructure of his body matter to form various objects, interface with technology, and absorb outside matter into his body. However, because of the unique nature of the combination of host and alien he is gifted with unique abilities. He is able to control the minds of people that he covers with his techno-matter.
+
+==See also==
+*'''[[Phalanx (comics)|Phalanx]]'''
+*'''[[Techno-organic virus]]'''
+*'''[[Hellions]]'''
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.uncannyxmen.net/db/characters/showquestion.asp?fldAuto=783 Uncannyxmen.net character bio on Paradigm]
+*[http://www.uncannyxmen.net/db/pov/showquestion.asp?faq=5&fldAuto=44 Uncannyxmen.net feature on the New Hellions]
+
+[[Category:Fictional shapeshifters]]
+[[Category:Fictional technopaths]]
+[[Category:Marvel Comics mutants]]

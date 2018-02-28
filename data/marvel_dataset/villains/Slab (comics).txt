@@ -1,0 +1,35 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=<!-- Deleted image removed: [[Image:SlabNB.jpg|175px]] -->
+|caption='''Slab'''
+|character_name=Slab
+|real_name=Christopher Anderson
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Factor (comics)|X-Factor]]'' #74 (Jan 1992)
+|creators=[[Peter David]]<br>[[Larry Stroman]]
+|alliances=[[Nasty Boys]]<br>[[Mutant Liberation Front]]
+|aliases=
+|powers=Ability to increase size, strength and resistance to injury}}
+
+'''Slab''' ('''Christopher Anderson'''), a fictional [[supervillain]] in the [[Marvel Comics]] Universe. His first appearance was in ''X-Factor''  #74.
+
+==Fictional character biography==
+Slab is a [[Mutant (Marvel Comics)|mutant]] villain who is recruited by [[Mister Sinister]] to be part of his [[Nasty Boys]] and was the first team member to attack their nemesis, the government sponsored [[X-Factor (comics)|X-Factor]] team.{{Issue|date=September 2011}} Slab climbs to the top of the [[Washington Monument]] and calls [[Strong Guy]] out to fight him, and they battle. When Slab shrinks to normal size to duck a punch, he causes Strong Guy to shatter and destroy the monument. Slab's battle is aided off-scenes by Senator Stephen Shaffran, who has the mutant power to manipulate probability, (including causing others to suffer bad luck while enjoying good luck himself).{{Issue|date=September 2011}}
+
+Slab was captured along with his teammate [[Hairbag]] and taken to a holding cell by X-Factor.{{Issue|date=September 2011}} While he waits for his lawyer to negotiate [[bail]], Slab and Hairbag are broken out of prison by the [[Mutant Liberation Front]] (of which Slab's sister [[Thumbelina (comics)|Thumbelina]] is a member).{{Issue|date=September 2011}} He is returned to the Nasty Boys shortly afterwards.{{Issue|date=September 2011}} Slab has not been seen since the group's subsequent breakup. It is unknown if Slab retained his mutant powers after the [[Decimation (comics)|M-Day]].
+
+==Powers and abilities==
+Slab can augment his size and mass to increase in strength and resistance to physical injury.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.uncannyxmen.net/db/characters/showquestion.asp?fldAuto=977 Uncannyxmen.net character bio on Slab]
+
+[[Category:Characters created by Peter David]]
+[[Category:Fictional mercenaries]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Comics characters introduced in 1992]]
+{{Marvel-villain-stub}}

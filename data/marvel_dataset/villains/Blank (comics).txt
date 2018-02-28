@@ -1,0 +1,31 @@
+{{about|the comic character||Blank (disambiguation)}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption =
+|alter_ego=Unknown
+|publisher=[[Marvel Comics]]
+|debut=''[[West Coast Avengers]]'' #2 (October 1984)
+|creators= [[Roger Stern]]<br>[[Bob Hall (comics)|Bob Hall]]
+|powers=Wears a personal force field which can protect him from most harm, allows him to slip through the grips of others, and rendered himself and anything he held in his hands "blurry," making him impossible to identify.}}
+
+The '''Blank''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appears in ''[[West Coast Avengers]]'' #2 (October 1984) and was created by [[Roger Stern]] and [[Bob Hall (comics)|Bob Hall]].
+
+==Fictional character biography==
+The man who would be known as the Blank was little more than a disgruntled, unlucky, and unemployed drifter who encountered a scientist while waiting for a bus. The scientist had just quit his job at the research labs of Stark International (as it had just been bought out by Stane International) and had taken his research with him. The scientist, too impatient to wait for the bus, was hit by a car, and the drifter stole the scientist's briefcase in the ensuing confusion. Discovering the force field generator, the man began a crime spree in the [[Los Angeles]] metropolitan area. Soon, however, he was interrupted by the Avenger [[Wonder Man]], and later, by one of the Avengers' initial outings as a west coast branch team. Spooked by these encounters, the Blank was on the verge of leaving town when the supervillain [[Graviton (comics)|Graviton]] emerged from the generator's charging device, using the device to escape from extra-dimensional exile. The Blank assumed a role as lieutenant in Graviton's attempt to unite the Los Angeles criminal underworld under the supervillain's control, but became caught up in Graviton's rage during an encounter with the Avengers and was swept out to sea along with the heroes.  The Blank went missing at this point, and was not seen again for some time.<ref>''West Coast Avengers'' #2-4 (October–December 1984)</ref>
+
+Years later, the Blank held up a Metrobank where [[May Parker]] was doing her banking. When a guard shot at him, the bullet ricocheted and hit the guard instead. May phoned her nephew Peter who arrived on the scene as [[Spider-Man]]. Spider-Man tried to catch the Blank with his webbing, but it couldn't stick to the Blank's body. Spider-Man punched the Blank into the path of a bus, but the Blank avoided being hit and slipped away, escaping the hero. In his hotel room, it is revealed that his incident with Graviton has damaged the nanotechnology of his force field belt and has fused with his [[central nervous system]], making it harder for the Blank to control his transformations.
+
+The next day the Blank attempted to rob an armored car. One of the guards was prepared with a gas bomb, but the Blank had brought a gas mask. Removing the guard's mask, the Blank knocked him out then took over the controls of the armored truck. However, FBI agents led by Ray Donovan had been monitoring the truck and began to pursue him. Spider-Man had been trailing the FBI and reached the Blank first, knocking over the truck. The Blank emerged from the vehicle for another fight, but Spider-Man dodged his bullets. The Blank knocked over a lamp post to slow Spider-Man down, but the hero saved the bystanders who had been imperiled. Catching up to the Blank, Spider-Man unleashed a torrent of webbing until it became so thick that the Blank was encased within a sphere of webbing. Spider-Man took some pictures and rolled the Blank into the FBI's hands.<ref>''Amazing Spider-Man'' #580 (February 2009)</ref>
+
+==Powers and abilities==
+The Blank's powers derive from his hi-tech field generator belt. The generator produces an obscuring force field which completely conceals his features and provides virtually total protection against all forms of damage. The force field also allows the Blank to easily escape entanglements, wrestling holds, and other forms of attack. The field must be recharged every 12 hours by the charger built specially for this purpose.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix2/blankwest.htm|The Blank}}
+
+[[Category:Comics characters introduced in 1984]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supervillains]]

@@ -1,0 +1,34 @@
+{{lead too short|date=February 2016}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|character_name=Victorius
+|real_name=Victor Conrad
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Astonishing Tales]]'' #18 (June 1973)
+|creators=[[Mike Friedrich]] and [[Dan Adkins]]
+|alliances=[[Advanced Idea Mechanics|A.I.M.]]<br/>Cult of Entropy
+|aliases=
+|powers=Peak physical abilities due to the super-soldier serum, trained various forms of combat
+}} 
+ 
+'''Victorius''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Fictional character biography==
+'''Victor Conrad''' was a researcher for [[Advanced Idea Mechanics|A.I.M.]] who was able to recreate the [[Super Soldier Serum]]. Victor consumed the formula when agents of [[S.H.I.E.L.D.]] infiltrated his lab. The lab erupted in a massive explosion and Victor emerged as a new man with the serum flowing through his body. He would change his name to Victorious and attempt to reunite the fragmented A.I.M. which led to conflict with Ka-Zar and he was defeated.<ref>''Astonishing Tales'' #18-20 (June-October 1973)</ref>
+
+Victorious would later reappear and get involved with the Cult of Entropy whose belief is that the way of the universe is ever moving towards atrophy and decay. He regrouped the cult and, with the [[Cosmic Cube]] in his possession, was able to reform the cult's former leader Yagzan's remains. He transformed the remains of Yagzan into [[Jude the Entropic Man]] and together they started their new world order. This led to a conflict with the [[Thing (comics)|Thing]], [[Captain America]] and the [[Man-Thing]] in the swamp. Victorious and Jude were transformed into some sort of radiant crystal when they touched the Cosmic Cube while the Man-Thing was holding it. The radiation from the crystal has been stimulating the plant growth in the swampy area and Victorious has not been seen ever since.<ref>''Marvel Two-In-One'' #42-43 (August-September 1978)</ref>
+
+Years later, [[Andrew Forson]] revealed that [[Mockingbird (Marvel Comics)|Mockingbird]] was secretly working for Forson at the time, and that Mockingbird was used to "get Victorious out of the way" so Forson could take over the Cult of Entropy.<ref>''Secret Avengers'' #14 (March 2014)</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/victoriu.htm|Victorius}}
+* [http://marvel.wikia.com/wiki/Victorius Victorius] at Marvel Wiki
+
+[[Category:Marvel Comics supervillains]]
+
+{{Marvel-villain-stub}}

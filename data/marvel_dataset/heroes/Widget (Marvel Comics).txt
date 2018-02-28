@@ -1,0 +1,40 @@
+{{Multiple issues|
+{{refimprove|date=August 2016}}
+{{cleanup rewrite|date=July 2012}}
+{{original research|date=July 2012}}
+}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=<!-- Deleted image removed: [[Image:Widget (comics).jpg|250px]] -->
+|caption=Widget, by [[Alan Davis]]
+|character_name=Widget
+|real_name=Katherine "Kate" Anne Pryde-Rasputin 
+|publisher=[[Marvel Comics]]
+|debut=(as Kate Pryde) ''Uncanny X-Men'' #141<br>(as Widget) ''[[Excalibur (comic book)|Excalibur]]'' #1 (Dec 1988)
+|creators=[[Chris Claremont]]<br>[[Alan Davis]] (Widget only)
+|alliances=[[Excalibur (comics)|Excalibur]]<br/>[[X-Men|X-Men (Earth-815)]]
+|aliases=Ariel
+|powers=(currently) Time travel (formerly) Inter-universal travel, Intangibility
+}}
+'''Widget''', alias '''Katherine "Kate" Anne Pryde-Rasputin''' is a [[fictional character]] in the [[Marvel Universe]]. The character was later revealed to be  an older, [[alternate future|alternate]] version of [[Shadowcat|'''Shadowcat''' ('''Katherine "Kitty" Anne Pryde''')]], from the [[Days of Future Past]] timeline. Before the revelation of Widget's true identity, she was consistently referred to with masculine pronouns (i.e. "he," "him," etc.).
+
+==Fictional character biography==
+In an alternative reality where the United States had been conquered and ruled by the robotic [[Sentinel (comics)|Sentinels]], [[Kitty Pryde|Katherine Pryde]] was [[Days of Future Past|sent back into the body of her younger self]] by [[Rachel Summers]] to try to avert their [[dystopian]] future.<ref>''Uncanny X-Men'' #141-#142.</ref> She failed; instead of changing her own past, she created an [[alternate timeline]] that diverged from her own when [[Senator Kelly]] was saved from the assassination attempt which created her [[Dystopia|dystopian]] world. When Kate arrived back in her own body, she found all of her friends, except Rachel, dead. While Rachel used her mental powers to investigate why their timeline had remained unaltered, the [[Phoenix (comics)|Phoenix Force]] appeared, having followed them out of curiosity. Kate persuaded it to physically transport Rachel to the timeline Kitty had just visited and to keep her from remembering the horrors she had experienced.<ref name="ExcV1-66">''Excalibur'' vol. 1 #66</ref>
+
+The next day, Kate and Rachel invaded the production facility of [[Nimrod (comics)|''Project Nimrod'']], which would create the most powerful Sentinel yet. When Kate's attempt to blow up the facility failed, she and Rachel found themselves trapped in a room which her phasing power could not penetrate. Anxious to change the future, Kate used the key words for a post-hypnotic command which activated the Phoenix Force in Rachel and warped her back in time. After Rachel was gone, Kate was captured and scanned using Sentinel technology in an attempt to reopen the time warp and retrieve Rachel. The time warp appeared at the same second that Kate phased out of her inhibitor collar. As a result, both Kate and the Sentinel scanning her fell into the time warp and merged.<ref name="ExcV1-66" /> (Nimrod would subsequently use the information gathered from the time warp to follow Rachel into the alternative reality himself.<ref>''Uncanny X-Men'' #193</ref>)
+
+Kitty reappeared in the timeline Rachel resided in and was rebuilt in a small, metal, off-spherical body built by Tweedledope of the [[Crazy Gang (Marvel Comics)|Crazy Gang]]. Her mind scrambled by the "interference" from other timelines she felt, she was [[amnesia]]c and went about everything with a childlike glee.<ref>''Excalibur'' vol.1 #1</ref> Her desire to eat metallic objects over-rode any sense of politeness. She was responsible for shunting [[Kylun]] into an alternate dimension,<ref>''Excalibur'' vol.1 #2</ref> where he would grow, mature and have adventures of his own. Another incident led to the switching of [[Moira MacTaggert]], [[Callisto (comics)|Callisto]] and the train they were on with a Nazi version of the two women and the train.<ref>''Excalibur'' vol.1 #4 and #6</ref>  Widget's interactions with the Phoenix power led her to inadvertently take the superhero team [[Excalibur (comics)|Excalibur]] (including Rachel) through a number of alternate timelines in a so-called "Cross-Time Caper". They soon learned a jolt of Phoenix power into Widget would send them into another dimension at random. After this was brought under control, [[Roma (comics)|Roma]] had her locked to the main [[Marvel Universe]], [[Earth-616]], preventing her from moving far from it. This began to clear her mind, and she reconstructed her body, using materials from the train the group had adventured so far in. After this, Rachel (who had recovered her memories), Widget and Excalibur returned to Rachel's original timeline and successfully reprogrammed the ruling Sentinels to protect all life, ending their tyranny.<ref>''Excalibur'' vol.1 #67.</ref>
+
+At the very end of the four-part [[Limited series (comics)|limited series]] ''Excalibur: Sword of Power'', Widget was seen with [[Kang the Conqueror]], observing events from space. Apparently, Kang had orchestrated the events shown in the limited series, but it is not revealed exactly why Widget was with him.
+
+==Catchphrase==
+During early appearances, Widget was known for the [[catchphrase]], learned from an excited, young Kylun: "Oh gosh, oh golly, oh wow!".
+
+==References==
+{{Reflist}}
+
+[[Category:Comics characters introduced in 1988]]
+[[Category:Female characters in comics]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics robots]]
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by Alan Davis]]

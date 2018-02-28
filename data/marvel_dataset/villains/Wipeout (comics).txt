@@ -1,0 +1,35 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Wipeout
+|real_name=
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''Uncanny X-Men'' #236 
+|creators=[[Chris Claremont]]<br>[[Marc Silvestri]]
+|alliances=[[Press Gang (comics)|Press Gang]]
+|aliases=
+|powers=remove powers from mutants or other superhumans.
+}}
+{{Unreferenced|date=April 2008}}
+'''Wipeout''' is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] appearing in [[American comic book]]s published by [[Marvel Comics]]. His first appearance was in ''Uncanny X-Men #236''.
+
+==Fictional character biography==
+Wipeout was an elderly member of the [[Press Gang (comics)|Press Gang]], otherwise known as Magistrates, super-powered enforcers of the law on the island-nation of [[Genosha]]. Being elderly, he usually stays behind in Genosha to neutralize the prisoners brought to him by [[Pipeline (comics)|Pipeline]]. In one of his rare field missions, he managed to disrupt the living, sentient vehicle called [[Ship (comics)|Ship]] that [[X-Factor (comics)|X-Factor]] used for their headquarters.{{Issue|date=February 2010}}
+
+When an amnesiac [[Havok (comics)|Havok]] was brainwashed into serving as a Genoshan magistrate, the insane [[Cameron Hodge]] killed Wipeout to frame Havok, who was slowly remembering his true loyalties to the [[X-Men]].{{Issue|date=February 2010}}
+
+==Powers and abilities==
+Wipeout was capable of creating a permanent energy block in people and objects, and could use this ability to remove [[superhuman]] powers.  He created self-perpetuating energy blockages in a person's system that prevented bio-genetic power from traveling from their "x-factor" [[gene]]. This power block lasted indefinitely and required no concentration to maintain -- "wiped" mutants stayed powerless after Wipeout fell [[Sleep|asleep]] and after he was killed.
+
+His ability was not limited to mutant powers.  He could block mutate abilities and technological systems and block the artificial intelligence of the Celestial spacecraft known as Ship.  
+
+He could mentally remove these blocks at will.
+
+[[Category:Characters created by Chris Claremont]]
+[[Category:Genoshans]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]
+
+
+{{Marvel-villain-stub}}

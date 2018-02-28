@@ -1,0 +1,13 @@
+#REDIRECT [[List of Marvel Comics characters: A#Armageddon]]
+
+{{Rcat shell|
+{{R from fictional character|Marvel Comics}}
+{{R comics from merge}}
+{{R comics to list entry}}
+}}
+
+[[Category:Characters created by Jim Calafiore]]
+[[Category:Comics characters introduced in 2000]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]

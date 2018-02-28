@@ -1,0 +1,71 @@
+{{Distinguish|Cipher (comics)|Cypher (comics)}}
+{{Refimprove|date=February 2016}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| image = [[Image:Shockfront2.jpg|250px]]
+| caption = Cover to ''newuniversal: shockfront'' #2, <BR>Marvel Publishing, circa 2008.
+| character_name = Cipher
+| real_name = Jennifer Swann
+| publisher = [[Marvel Comics]]
+| debut = ''newuniversal #1'' (February [[2007 in comics|2007]])
+| creators = [[Warren Ellis]], [[Salvador Larroca]]
+| alliances = [[Project Spitfire]]<br/>NSA
+| powers = The Cipher glyph grants its wielder advanced technological knowledge and perceptions that allow individuals to understand and construct advanced technology.
+}}
+
+'''Cipher''' ('''Jennifer Swann''') is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character appears in the [[newuniversal]] imprint of Marvel Comics, and is one of the four initial superhumans created by the [[White Event]] in 2006 (the others being [[Justice (newuniversal)|Justice]], [[Nightmask (newuniversal)|Nightmask]], and [[Star Brand (newuniversal)|Star Brand]]). ''newuniversal'', designated Earth-555 in the [[Multiverse (Marvel Comics)|Marvel Comics multiverse]], is a re-imagining of the [[New Universe]] imprint from the late 1980s. The name Cipher actually refers to two things: a powerful extra-dimensional glyph (tattoo) that confers superhuman powers on a sentient being, and the name of the being that wields the glyph. Cipher is a new superhuman created by [[Warren Ellis]] and [[Salvador Larroca]] who were inspired by the original [[Spitfire (New Universe)|Spitfire]] and the nature of the Star Brand itself (as an extra-dimensional tool of near-unlimited power), combined with strong conceptual ties to [[Iron Man]].
+
+==Fictional character biography==
+
+===Project Spitfire===
+Essentially nothing is known about Dr. Jennifer Swann’s early life, or where she earned her doctorate. Sometime in the late 1990s or early 2000s she was hired by the [[NSA]] to work on [[Project Spitfire]], taking her father’s previous position there. Jennifer continues the work her father, Dr. Joseph Swann, began in 1959 on the H.E.X. (Human Enhancement eXperimental) initiative, an [[Powered exoskeleton|armored exoskeleton]] that is intended to enable its wearer to combat superhumans with a wide variety of weapons.<ref name="nu2">{{Cite comic | Writer = [[Warren Ellis]] | Artist = [[Salvador Larroca]] | Story = Trauma | Title = newuniversal | Issue = 2 | Date =  2007| Publisher = [[Marvel Comics]] }}</ref> The original suit was created by Anthony Stark in 1959 who became Cipher in "[[White Event|The Fireworks]]" event in 1955, and is an alternate version of [[Tony Stark]] (Iron Man) from the mainstream [[Marvel Universe]]. Prior to the events in ''newuniversal #1'', neither Jennifer nor her father were able to perfect the design, both suffering broken bones during testing.<ref name="nu2"/>
+
+Swann herself was transformed by the [[White Event]] when the Cipher glyph bonded with her, acquiring similar superhuman abilities as Anthony Stark (the glyph appears as a tattoo on the back of her neck). The superhuman abilities granted by the Cipher glyph allowed her to swiftly complete the H.E.X. suit.<ref name="nu4">{{Cite comic | Writer = [[Warren Ellis]] | Artist = [[Salvador Larroca]] | Story = Tumble | Title = newuniversal | Issue = 6 | Date =  2007| Publisher = [[Marvel Comics]] }}</ref>
+
+==Powers and abilities==
+The Cipher glyph grants Jennifer enhanced technological knowledge and perceptions that allow her to understand current technology and command it, as well as construct advanced technology. The ideas for new technology hit her quickly, causing an insatiable desire to produce them.<ref name="nu3">{{Cite comic | Writer = [[Warren Ellis]] | Penciller = [[Steve Kurth]] | Colorist = [[Chris Chuckry]]  | Story = Breaks | Title = newuniversal: shockfront | Issue = 2 | Date =  2008| Publisher = [[Marvel Comics]] }}</ref> These ideas for new technology will fade soon after creating the devices, and it is not yet clear if she will be able to recall past designs, though she does seem able to build/invent technological devices for specific purposes.<ref name="nu3" /> Jennifer also has the ability to access and interact with devices and stored data through electrical outlets and devices, presumably gaining the data through electrical wiring and wireless signals.
+
+Jennifer is able to control and issue commands to existing devices through verbal commands, and while it is unclear if she can use mental commands, she can see the information of any given device as though she had a HUD ([[Head-up display|'''H'''eads-'''U'''p-'''D'''isplay]]) right in front of her eyes. Furthermore, her ability also allows her to manifest her own knowledge and superimpose it on whatever she sees. As of ''newuniversal: Shockfront #2'' it is unclear if her abilities are limited or blocked by passwords and/or other security features of existing technology (such as firewalls, disinformation, and viruses).
+
+==H.E.X. Armor==
+[[Image:Hex suit001.jpg|thumb| H.E.X. battle armor.  "Tumble" ''newuniversal'' #6 (2007). Writer [[Warren Ellis]], Artist [[Salvador Larroca]]]]
+
+The H.E.X. ('''H'''uman '''E'''nhancement e'''X'''perimental) armor has only one purpose: kill superhumans. The armor is reminiscent of mainstream Marvel’s [[Sentinel (comics)|Sentinels]], except that it is a battle suit which must be piloted by a human (though it is possible that in the future, unmanned versions could be developed). Anthony Stark created a suit of armor from spare parts in 1959 to escape a North Vietnamese prison, paralleling the origins of [[Iron Man]] in the mainstream Marvel universe ([[Earth-616]]). The armor he created appears almost exactly as the original suit of armor he created.<ref>{{Cite comic | Writer = [[Kieron Gillen]] | Artist = Greg Scott |Coartists= Kody Chamberlain | Title = newuniversal:1959 | Date =  September 2008 | Publisher = [[Marvel Comics]] }}</ref> However, after the murder of Anthony Stark by [[Philip Nolan Voigt#newuniversal|Philip Voight]], his armor was taken by Project Spitfire to be reverse-engineered by Jennifer's father.<ref name="nu4" />
+
+The H.E.X. suit has a wide variety of weapons designed to kill superhumans. It has machine guns, mini-guns, and possibly rocket launchers, all with built-in laser sighting technology and automated targeting systems. It also enables the pilot to lift extremely heavy objects and is also equipped with razor sharp talons for close-quarter combat. It is not yet known if the suit can allow its wearer to fly, but if it can then it stands to become a major threat to any superhuman it faces.
+
+The completion the H.E.X. battle-suit will help Philip Voight and Project Spitfire in hunting down and killing any and all superhumans. While Jennifer’s motives are not explicitly revealed as to why she would complete the H.E.X. battle-suit, it could be argued that she did so out of respect for her father’s memory (i.e., wanting to finish his life's work), combined with the fact that she is following the orders of her direct superior.  That said, it is unclear if the Cipher glyph forces her to complete tasks that she sets for herself.
+
+As of newuniversal: shockfront #2 it is not clear if Jennifer built-in any fail-safe(s) that would protect her from the suit.
+
+==Previous Ciphers==
+
+===Anthony Stark===
+
+Anthony Stark is an alternate version of [[Tony Stark]] from Marvel's mainstream universe Earth-616.<ref name="nu4" /> In 1953 Anthony Stark, son of a wealthy industrialist and heir to Stark Industries, becomes the Cipher during the failed [[White Event|Fireworks]] event. Prior to gaining the Cipher glyph, Anthony was a mediocre student and cared little for business or for technology, but after becoming Cipher he became a technological genius. His newfound paranormal abilities enabled him to turn the then failing Stark Industries into a cutting-edge company that began producing technology five years more advanced than anyone else.<ref name="nu4" /> By the age of 16 he was recruited to M.I.T. through the early-admission program, where he excelled without ever taking the time to study.<ref name="nu4" /> Interestingly, the Cipher glyph was not located on the back of his neck as it was with Jennifer Swann, and must have either been located somewhere else on his body or he had hidden it from view.
+
+In 1959 Stark’s plane was shot down over North Vietnam and he was imprisoned, though it is unknown if it was an official military prison or a prison operated by private interests (which is highly possible). There, using spare parts, he designed and built a suit of armor, though there is no evidence that he used the name “Iron Man” at any time. The government tracked his escape flight from North Vietnam and ordered him to Naval Base San Diego, San Diego, for debriefing.<ref name="nu4" /> There, he met Dr. Joseph Swan, Jennifer’s father, and [[Philip Nolan Voigt#newuniversal|Philip Voight]], who questioned him concerning his escape and armor under the guise of national security.
+
+It was there that Philip Voight murdered Anthony Stark as per the mandate of Project Spitfire.<ref name="nu4" />
+
+===Baneth===
+[[Image:Baneth.jpg|thumb|left|Cipher Baneth.  "'newuniversal: conqueror" (2008). Writer [[Simon Spurrier]], Artist [[Eric Nguyen]]]]
+
+In the ''newuniversal: conqueror'' one-shot, set in 2,689 [[BCE]], we are introduced to the Earth’s first Cipher. ''Conqueror'' takes place a few years after the Earth’s first failed [[White Event]], and details the twilight days of the city of Zardath. Zardath was a city Cipher helped to establish with that era’s [[Star Brand (newuniversal)#Previous Wielders of the Star Brand|Star Brand]], [[Justice (newuniversal)#Previous Wielders of the Justice Glyph|Justice]], and [[Nightmask (newuniversal)#Previous wielders of the nightmask glyph|Nightmask]], named [[Starr the Slayer]], Ukru, and Trull respectively.
+
+The Cipher glyph is located on Baneth’s right arm, which is a different location from Jennifer's, and supports the fact that Stark’s Cipher glyph was not visible. Baneth does not understand what she creates, and believes that the technological ideas she has are gifts from the “sky gods”, and that they compel her to invent. She refers to her ideas as “blue fire” and “making thoughts”, and the act of inventing/creating as “buildup”.<ref name="newuniversalconq">{{Cite comic | Writer = [[Simon Spurrier]] | Artist = [[Eric Nguyen]] | Title = newuniversal: conqueror | Issue = 1 | Date =  October 2008| Publisher = [[Marvel Comics]]}}</ref> As such, she believes that the gods use magic to communicate with her, and most likely believes that most of the machines she creates are magical in nature.
+
+Due to the nature of the age, Baneth is not a particularly educated person (nor is anyone else for that matter), and it is clear that the technology she creates is far more advanced than that era in history boasts. Because of this, Baneth is also called “Enginesmith”.<ref name="newuniversalconq" /> Some examples include electrical generators, [[Arc lamp|arc lights]], and even energy-based weapons that seemed to fire the same type of energy found in the [[Nightmask (newuniversal)#Powers and abilities|superflow]].<ref name="newuniversalconq" />
+
+Two facts were revealed in ''Conqueror'': first, the aliens within the superflow have the ability to communicate through the glyphs, and second, their universe of origin. Baneth creates a machine designed to allow the alien device within the superflow to communicate with Starr, in order to inform him that Trull had betrayed him.<ref name="newuniversalconq" /> When questioned by Starr and Trull where the “voices” were coming from, since the device didn’t have a mouth, Baneth answered that they came from the “timelight”. The aliens reveal that they belong to the “Divudian Queendom”, located in “''superattenuated reality 228 (reparadigmed)''”.<ref name="newuniversalconq" />
+
+By the end of ''Conqueror'' it is not revealed what happens to Baneth, but a comment made by Starr hints at her gradual descent to insanity. However, it is revealed that Trull’s actions were the direct cause of Baneth’s growing mental instability.
+
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Cipher (Newuniversal)}}
+[[Category:2007 comics debuts]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Characters created by Warren Ellis]]
+[[Category:Characters created by Salvador Larroca]]

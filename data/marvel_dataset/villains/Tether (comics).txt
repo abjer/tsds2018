@@ -1,0 +1,32 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Tether
+|real_name=
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''Uncanny X-Men Annual 1997''
+|creators=Jorge Gonzalez<br>[[Duncan Rouleau]]<br>Troy Hubbs
+|alliances=[[Morlocks (comics)|Morlocks]]<br/>[[Gene Nation]]
+|aliases=
+|powers= Depowered, formerly:<br>Reptilian appearance,<br>Electrified tail,<br>Razor-sharp fangs and claws
+}}
+'''Tether''' is a fictional [[Mutant (Marvel Comics)|mutant]] character appearing in [[American comic book]]s published by [[Marvel Comics]]. She first appeared in ''Uncanny X-Men Annual 1997'' and was created by Jorge Gonzalez, [[Duncan Rouleau]], and Troy Hubbs.
+
+==Fictional character biography==
+Tether was a member of [[Gene Nation]], the group of second generation [[Morlocks (comics)|Morlocks]] whom [[Storm (Marvel Comics)|Storm]] encountered and relocated to [[Africa]]. When [[Humanity's Last Stand]] attacked the Gene Nationals, Storm and the [[X-Men]] arrived to help. Unfortunately, so did [[Havok (comics)|Havok]]'s [[Brotherhood of Mutants]] who offered the Gene Nationals protection against Humanity's Last Stand. Humanity's Last Stand were eventually defeated, and Tether (along with fellow Gene National [[Boost (comics)|Boost]]) sought to leave, helping the Brotherhood escape in return. Though they don't have plans to join up with them.<ref>''Uncanny X-Men Annual 1997''</ref>
+
+==Powers and abilities==
+Tether is a mutant with a reptilian appearance. She possesses razor-sharp claws and fangs and an electrified tail.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix4/tethergnation.htm|Tether}}
+
+
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]
+
+{{Marvel-villain-stub}}

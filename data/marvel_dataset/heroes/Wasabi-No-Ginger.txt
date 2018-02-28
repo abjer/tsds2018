@@ -1,0 +1,61 @@
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|image          = [[File:Wasabi-No-Ginger (Marvel Comics).jpg|250px]]
+|caption        = Wasabi-No-Ginger by David Nakayama
+|character_name = Wasabi-No-Ginger
+|real_name      =
+|species=Human
+|publisher      = [[Marvel Comics]]
+|debut          = ''[[Big Hero 6 (comics)|Big Hero 6]]'' #1 (Sept. 2008)
+|creators       = [[Chris Claremont]] and [[David Nakayama]]
+|alliances      = [[Big Hero 6 (comics)|Big Hero 6]]
+|aliases=
+|powers         = Skilled marksman and swordsman<br>Ability to generate qi-energy blades
+}}
+
+'''Wasabi-No-Ginger''' is a fictional superhero appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by writer [[Chris Claremont]] and artist [[David Nakayama]], he first appeared in ''Big Hero 6'' #1 (September 2008), a book about a titular superhero team in which Wasabi is a member.
+
+==Fictional character biography==
+{{expand section|date=June 2014}}
+Wasabi-No-Ginger is a trained [[chef]] and a member of [[Big Hero 6 (comics)|Big Hero 6]].<ref>''Big Hero 6'' #1 (September 2008)</ref> His first mission with the six was taking on a villain named Badgal and her three minions; [[Whiplash (comics)#Construct|Whiplash]], [[Brute (Marvel Comics)|Brute]] and Gunsmith.<ref>''Big Hero 6'' #2-5 (October 2008-January 2009)</ref> He is once again with his teammates, this time helping [[Spider-Man]] take out [[Doctor Octopus]]' satellites. Wasabi and [[Baymax]] jump head on into battle, taking on Everwraith.<ref>''The Amazing Spider-Man'' Vol. 1 #685 (July 2012)</ref><ref>''Amazing Spider-Man: Ends of the Earth'' (July 2012)</ref>
+
+==Powers and abilities==
+Wasabi-No-Ginger uses various swords to fight. He can also give form to his Qi-Energy, usually materializing it as throwing knives that can paralyze opponents.
+
+==In other media==
+
+===Film===
+{{Infobox character
+|series = [[Big Hero 6 (film)|Big Hero 6]]
+|name = Wasabi
+|image = Wasabi from Disney's Big Hero 6.png
+|image_size =
+|creators = [[Don Hall]]<br/>[[Chris Williams (director)|Chris Williams]]
+|caption = [[Walt Disney Animation Studios]] re-imagining of Wasabi
+|first = ''[[Big Hero 6 (film)|Big Hero 6]]'' (2014)
+|last =
+|voice = [[Damon Wayans, Jr.]] (film) <br />[[Khary Payton]] (TV series)
+|gender = Male
+}}
+
+Wasabi-No-Ginger, renamed '''Wasabi''', appears in the 2014 animated film ''[[Big Hero 6 (film)|Big Hero 6]]'', voiced by [[Damon Wayans, Jr.]]. In the film, the character is black.<ref>{{cite news|title=Disney Gives Marvel Fans First Look at Big Hero 6 Animated Film|url=http://www.ign.com/articles/2013/08/10/disney-gives-marvel-fans-first-look-at-big-hero-6-animated-film|accessdate=9 August 2013|newspaper=IGN|date=9 August 2013}}</ref><ref name="USATodayTruitt">{{cite web|last=Truitt|first=Brian|title=Meet the saviors of San Fransokyo in 'Big Hero 6'|url=https://www.usatoday.com/story/life/movies/2014/07/13/big-hero-6-character-reveal-exclusive/12535005/|newspaper=USA Today|accessdate=July 14, 2014|date=July 13, 2014}}</ref> Wasabi is depicted as a smart, slightly neurotic, heavily built neat-freak and an expert on laser cutting at the San Fransokyo Institute of Technology. Also, he stated his name is a nickname that Fred gave him after he spilled wasabi on his shirt one time. On the character, co-director [[Chris Williams (director)|Chris Williams]] said "He's actually the most conservative, cautious—he [''sic''] the most normal among a group of brazen characters. So he really grounds the movie in the second act and becomes, in a way, the voice of the audience and points out that what they're doing is crazy."<ref name="USATodayTruitt" /><ref name="DeadlineMayaJames">{{cite web|last1=Yamato|first1=Jen|title=Maya Rudolph, James Cromwell, More Join Disney's Marvel Animation 'Big Hero 6′|url=http://deadline.com/2014/07/disney-big-hero-6-voice-cast-804122/|publisher=Deadline|accessdate=September 5, 2014|date=July 14, 2014}}</ref><ref>{{cite web|title=Wasabi|url=https://thismoment-a.akamaihd.net/other/1410708542-2030.pdf|publisher=xprizechallenge.org|accessdate=September 24, 2014}}</ref> This version wears a robotic suit that was built by Hiro that generates plasma blades from the wrists of the suit.
+
+===Television===
+Wasabi appears in ''[[Big Hero 6: The Series]]'', with the character voiced by [[Khary Payton]].<ref>{{cite news|title='Big Hero 6': Maya Rudolph & More Reprise Roles for Disney XD Animated Series|url=http://deadline.com/2016/11/big-hero-6-maya-rudolph-jamie-chung-reprise-roles-disney-xd-animated-series-1201847587/|work=Deadline|accessdate=November 3, 2016|date=November 3, 2016}}</ref> In the first episode, "Baymax Returns", Wasabi's sudden change from pessimistic to courageous during battle is explained by the fact that he gets a high off of adrenaline.<ref>{{cite episode|title=Baymax Returns|series=Big Hero 6: The Series|credits=Heneveld, Stephen and Ben Juwono (director); Sharon Flynn and Paiman Kalayen (writer)|network=[[Disney XD]]|airdate=November 20, 2017|season=1|number=1}}</ref>
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://marvel.wikia.com/Wasabi-No_Ginger_%28Earth-616%29 Wasabi-No-Ginger] at Marvel Wiki
+* [http://www.comicvine.com/wasabi-no-ginger/4005-57495/ Wasabi-No-Ginger] at Comic Vine
+{{Big Hero 6}}
+
+[[Category:Big Hero 6 characters]]
+[[Category:Fictional college students]]
+[[Category:Fictional kenjutsuka]]
+[[Category:Fictional taichi practitioners]]
+[[Category:Japanese superheroes]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Teenage characters in comics]]
+
+{{Marvel-hero-stub}}

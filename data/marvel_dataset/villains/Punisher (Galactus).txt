@@ -1,0 +1,42 @@
+{{For|Frank Castle|Punisher}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=[[File:Fantastic Four No. 74.jpg|200px]]
+|caption=The Punisher robot attacks the [[Silver Surfer]], with [[Galactus]] in background. ''[[Fantastic Four]]'' #74 (May 1968). Cover art by [[Jack Kirby]] & [[Joe Sinnott]].
+|character_name= Punisher
+|real_name=
+|species= 
+|publisher= [[Marvel Comics]]
+|debut= ''[[Fantastic Four]]'' #49 (April 1966)
+|creators= [[Stan Lee]] & [[Jack Kirby]]
+|alliances= [[Heralds of Galactus]]<br/>[[Frightful Four]]
+|aliases=
+|powers= Superhuman Strength, Speed and Durability <br> Self-Repair <br> Force Field Generation
+}}
+
+'''The Punisher''' is a [[fictional character|fictional]] character that appears in [[comic books]] published by [[Marvel Comics]]. The character first appeared in ''[[Fantastic Four]]'' #49 (April 1966), and was created by writer-editor [[Stan Lee]] and artist and co-plotter [[Jack Kirby]].
+
+==Publication history==
+A [[robot]] created by the [[Cosmic entities (Marvel Comics)|cosmic entity]] [[Galactus]], the Punisher debuted in ''[[Fantastic Four]]'' #49 (April 1966), by writer-editor [[Stan Lee]] and artist and co-plotter [[Jack Kirby]].  The Punisher fought the Fantastic Four [[superhero]] team and returned in issue #74 (May 1968) to battle Galactus' former [[Heralds of Galactus|herald]], the [[Silver Surfer]]. The robot was later reprogramed by the [[extraterrestrials in fiction|extraterrestrial]] [[Rigellians (Marvel Comics)|Colonizers of Rigel]] to fight the heroes [[Iron Man]] and [[Jack of Hearts]] in ''Iron Man'' #110 and 112. Galactus retrieved the Punisher and uses it to defend his vessel from an attack by the [[Elders of the Universe]] and the cosmic entity the [[In-Betweener]], who appeared to destroy the Punisher with a lethal blast, in ''Silver Surfer'' vol. 3, #17. The Punisher returned, however, to battle the Silver Surfer in issue #109. The [[supervillain]] the [[Wizard (Marvel Comics)|Wizard]] later found the Punisher adrift in space and reprogramed it to serve as part of the supervillain team the [[Frightful Four]] in ''Fantastic Four'' vol. 3, #29. Galactus used several dozen Punishers against the supervillain [[Thanos]] in ''Thanos'' #4-5 (2004).
+
+[[Stan Lee]] recalled in 2005 that he had suggested the character's name be repurposed for writer [[Gerry Conway]]'s new [[antihero]], the [[Punisher (comics)|Punisher]], who debuted in ''[[The Amazing Spider-Man]]'' #129 (Feb. 1974):
+{{quote|Gerry Conway was writing a script and he wanted a character that would turn out to be a hero later on, and he came up with the name the Assassin. And I mentioned that I didn't think we could ever have a comic book where the hero would be called the Assassin, because there's just too much of a negative connotation to that word. And I remembered that, some time ago, I had had a relatively unimportant character ... [who] was one of [the cosmic antagonist] [[Galactus]]' robots, and I had called him the Punisher, and it seemed to me that that was a good name for the character Gerry wanted to write — so I said, 'Why not call him the Punisher?' And, since I was the editor [sic; Lee had been named publisher in 1972], Gerry said, 'Okay.'<ref>{{cite journal | title = Stan Lee's Amazing Marvel Interview! | work = [[Alter Ego (magazine)|Alter Ego]] | volume=3 | issue = 104 | page = 32 |date = August 2011 | accessdate = August 20, 2012}}</ref>}}
+
+==In other media==
+
+===Video games===
+* The Punishers appear in the video game ''[[Marvel: Ultimate Alliance]]''. They are shown as foot soldiers to Galactus as he is attacking the Skrull planet, and try to stop the heroes' plan to steal the Muonic Inducer from their master.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix/punisherrob.htm|Punisher}}
+*[http://www.marvel.com/universe/Punisher_%28robot%29 Marvel.com wiki: Punisher (robot)]
+
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1966]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics supervillains]]

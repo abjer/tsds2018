@@ -1,0 +1,47 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Tazza
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Strange Tales]]'' #144 (1966)
+| creators       = [[Roy Thomas]] (writer)<br>[[Steve Ditko]] (artist)
+| alter_ego      = 
+| full_name      = Lord Tazza
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = <!-- optional -->
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = Sorcery, energy projection
+| cat            = 
+| subcat         = 
+| hero           = super
+| villain        = 
+| sortkey        = 
+| addcharcat#    = 
+}}
+'''Lord Tazza''', better known as '''Tazza''', is a fictional character, a super villain who appears in comics published by [[Marvel Comics]]. The character, a ruler of an alien dimension and predominantly a foe of [[Doctor Strange]], was created by editor [[Stan Lee]], writer-plotter [[Roy Thomas]] and artist [[Steve Ditko]]. He made his [[first appearance]] in ''[[Strange Tales]]'' #144 (May 1966).
+
+==Publication history==
+Tazza made his official debut in May 1966's ''[[Strange Tales]]'' #144, which was edited by [[Stan Lee]], written by [[Roy Thomas]], illustrated by [[Steve Ditko]], and lettered by [[Artie Simek]]. The issue was a [[double feature]]; it also included an entry on Nick Fury.<ref name="Handbook 1"/>
+
+==Fictional character biography==
+Lord Tazza is the undisputed ruler of a faraway dimension "on the edges of Infinity", the Kingdom of Tazza, which has a population if one; that is, Tazza is the sole inhabitant of the land. Trapped in his stronghold's "Hall of Heroes" are sorcerers like the Lords of the Netherworld. [[Doctor Strange]], in search of his sorceress friend [[Clea]], trespasses into Tazza's kingdom via the means of magic, thinking that Tazza is Clea's abductor, having been fooled by [[Dormammu]]'s associate Asti. A battle between Strange and Tazza ensues, with the Sorcerer Supreme emerging as champion. Strange frees all of the captured prisoners and with that, the mystic departs from the Kingdom of Tazza.<ref name="Zota 1">{{cite comic|writer=[[Roy Thomas]]|artist=[[Steve Ditko]]|title=[[Strange Tales]]|issue=144|date=May 1966|publisher=Marvel Comics|location=New York City|story=Where Man Hath Never Trod!}}</ref>
+
+==Powers and abilities==
+A learned exponent of magic, Tazza is capable of shape-shifting, and astral entity imprisonment, as well as energy projection. After getting struck by any magical spell once, he will become immune to it.<ref name="Handbook 1">{{cite book|page=54|title=Marvel Legacy: The 1960s–1990s Handbook|publisher=Marvel Comics|year=2007|isbn=9780785120827}}</ref>
+
+==See also==
+* {{Portal-inline|Comics}}
+
+==References==
+{{Reflist}}
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/tazzadoc.htm|Tazza}}
+{{Marvel-char-stub}}
+{{Doctor Strange}}
+{{Marvel Mystic}}
+[[Category:Marvel Comics supervillains]]

@@ -1,0 +1,47 @@
+{{For|the plant, red tiger lotus|Nymphaea zenkeri}}
+{{Infobox comics character|<!--Wikipedia:WikiProject Comics-->
+|image= [[File:Red Lotus (Paul Hark).jpg|180px]]
+|character_name= Red Lotus
+|real_name= Paul Hark
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut= ''[[X-Treme X-Men]]'' #5 (November, 2001)
+|creators=[[Chris Claremont]]<br>[[Salvador Larroca]]
+|alliances= [[X-Men]]<br/>[[X-Treme X-Men]]<br/>[[Hellfire Club (comics)|Hellfire Club]]<br/>Chinese [[Triad (underground society)|Triad]]
+|aliases=
+|powers= Superhuman strength, speed, reflexes, agility, dexterity, coordination, balance, and endurance.
+}}
+
+'''Red Lotus''' ('''Paul Hark''') is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] in the [[Marvel Comics]] Universe.
+
+==Fictional character biography==
+Though he has been affiliated with the [[X-Men]], in particular the [[X-Treme X-Men]] team, Red Lotus is not an official member.
+
+Red Lotus was born in Sydney, Australia, to an American parent, and is the heir apparent to the [[Sydney]] Chinese [[Triad (underground society)|Triad]], which was run by his grandfather, who was known as Father Gow. When Gow was murdered, Red Lotus was led to believe that the culprit was [[Gambit (comics)|Gambit]] by the Examiner, who wanted to gain control of the Triad for himself.<ref>''X-Treme X-Men'' #5-9</ref>
+
+Red Lotus assisted the X-Treme X-Men team against [[Sebastian Shaw (comics)|Sebastian Shaw]] and [[Lady Mastermind]] after the truth was revealed, and later helped them while they were trying to repel an interdimensional invasion in [[Madripoor]].<ref>''X-Treme X-Men'' #10-18</ref>
+
+After the invasion on Madripoor, Paul became an ally to [[Viper (Marvel Comics)|Viper]] and joined her undercover at the [[Hellfire Club (comics)|Hellfire Club]] hoping to shut down their mutant slave ring. He was almost murdered by [[Selene (comics)|Selene]], but Marvel Girl was able to save him.{{Issue|date=August 2009}}
+
+He was last seen still as an ally to Courtney Ross, Viper, Sunspot and their new Hellfire Club, however, what happened to him after M-Day still remains a mystery.{{Issue|date=August 2009}}
+
+==Powers and abilities==
+Red Lotus is a superhuman martial artist who possesses enhanced strength, speed, reflexes, agility, dexterity, coordination, balance, and endurance.
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Red Lotus (Comics)}}
+[[Category:Comics characters introduced in 2001]]
+[[Category:Fictional Australian people of American descent]]
+[[Category:Fictional Australian people of Chinese descent]]
+[[Category:Fictional people from New South Wales]]
+[[Category:Fictional triads]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by Salvador Larroca]]
+
+{{Marvel-hero-stub}}

@@ -1,0 +1,51 @@
+:''Geiger is not to be confused with "Count Geiger", the superhero title character of [[Michael Bishop (author)|Michael Bishop]]'s novel ''Count Geiger's Blues''.''
+
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|image=Geiger2.jpg
+|caption=Geiger.<br>Art by [[Stefano Caselli]].
+|character_name=Geiger
+|real_name=Delilah Dearborn
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Doc Samson]] #1'' (Jan 1996)
+|creators=[[Dan Slott]]<br>[[Ken Lashley]]
+|alliances=[[Empire State University]]<br>[[Avengers: The Initiative|The Initiative]]
+|aliases=
+|powers=Ability to mimic the powers of any gamma-powered beings in her immediate vicinity
+|}} 
+ 
+'''Geiger''' ('''Delilah "Dee Dee" Dearborn''') is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. She first appeared in ''[[Doc Samson]] #1'' (Jan 1996), and was created by [[Dan Slott]] and [[Ken Lashley]].
+
+==Fictional character biography==
+Delilah "Dee Dee" Dearborn was a student at [[Empire State University]] who gains superhuman powers from an accident with a gamma accelerator at the school.<ref>''Doc Samson'' #1</ref> [[Doc Samson]] mistakes her for a murderer and they fight.<ref>''Doc Samson'' #2</ref> She later helps him track and confront the real killer.<ref>''Doc Samson'' #3-4</ref>
+
+===Initiative===
+Geiger is seen at the military base [[Camp Hammond (comics)|Camp Hammond]], as an official recruit for the [[Avengers: The Initiative|Initiative]], which is a super-human military draft. She is introduced to Camp Hammond along with [[Ant-Man (Eric O'Grady)|Ant-Man]], [[Crusader (Marvel Comics)#Crusader (Skrull)|Crusader]], [[Melee (comics)|Melee]], [[Geldoff]], [[Dragon Lord (comics)#Tako Shamara|Dragon Lord]], [[Red Nine]], and [[Diamondback (Rachel Leighton)|Diamondback]].<ref>''Avengers: The Initiative'' #8</ref>
+
+She was one of the trainees that attacked [[Michael Van Patrick#KIA|KIA]] and was defeated.<ref>''Avengers: The Initiative'' #10</ref>
+
+===Dark Reign===
+During the ''[[Dark Reign (comics)|Dark Reign]]'' storyline, Geiger graduated from the Initiative<ref>''Avengers: The Initiative'' #21</ref> and was assigned to New Mexico's Initiative team the Mavericks.<ref name="Christos Gage Author Comments">{{cite web |url=http://forums.comicbookresources.com/showpost.php?p=8321510&postcount=46 |title= Christos Gage (author) Comments|accessdate=2009-01-30 |work=comicbookresources.com forums }}</ref>
+
+===Fear Itself===
+During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Geiger appears at a meeting held by [[Prodigy (Ritchie Gilmore)|Prodigy]] regarding magical hammers that have crashed into the earth.<ref>''Fear Itself: Youth In Revolt'' #1</ref> She saves [[Gravity (comics)|Gravity]] from a grenade thrown by [[Crossbones (comics)|Crossbones]], but is injured when it explodes.<ref>''Fear Itself: Youth In Revolt'' #2</ref>
+
+==Powers and abilities==
+Due to a Gamma radiation accident, Geiger has the ability to mimic the powers of any gamma-powered beings in her immediate vicinity, potentially making her as strong as the Hulk, as intelligent as the Leader, etc.  However, she has little control over these powers, a downside exacerbated by the fact that she also takes on personality aspects of whoever she is mimicking as well.
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/geigerpw.htm|Geiger}}
+
+{{Initiative}}
+
+{{DEFAULTSORT:Geiger (Comics)}}
+[[Category:Characters created by Dan Slott]]
+[[Category:Comic book sidekicks]]
+[[Category:Comics characters introduced in 1996]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]

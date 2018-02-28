@@ -1,0 +1,57 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=<!-- Deleted image removed: [[Image:PrismComics.jpg|110px]] -->
+|caption=Prism, art by [[Gurihiru Studios]].
+|character_name=Prism
+|real_name=Robbie
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''X-Factor'' #10 (November 1986)
+|creators=[[Chris Claremont]]<br>[[Louise Simonson]]
+|alliances=[[Marauders (comics)|Marauders]]
+|aliases=
+|powers=Crystalline body which enables him to absorb, reflect, and amplify beams of light and energy.
+}}
+
+'''Prism''' ('''Robbie''') is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].  He is a member of the [[Marauders (comics)|Marauders]].
+
+==Publication history==
+Prism first appeared in ''X-Factor'' vol. 1 #10 (November 1986), and was created by [[Chris Claremont]] and [[Louise Simonson]].
+
+The character subsequently appears in ''The Uncanny X-Men'' #240-241 (January-February 1989), #243 (April 1989), ''X-Man'' #13 (March 1996), ''Generation M'' #3 (March 2006), ''X-Men and Power Pack'' #4 (March 2006), ''X-Men: The 198 Files'' #1 (March 2006), ''X-Men'' #200-204 (August-December 2007), and ''X-Men: Messiah Complex'' #1 (December 2007).
+
+Prism appeared as part of the "Marauders" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #18.
+
+==Fictional character biography==
+As a member of the mercenary group, the [[Marauders (comics)|Marauders]], Prism has the ability to absorb, reflect, and amplify beams of light and other energy with his [[crystalline]] body.  Prism first appeared as part of a "search and destroy" mini-team of Marauders, consisting of himself, [[Arclight (comics)|Arclight]], and [[Scrambler (comics)|Scrambler]], that were sent to eliminate the members of [[X-Factor (comics)|X-Factor]], who were leading an evacuation mission to help [[Morlocks (comics)|Morlocks]] escape the Marauders. After using his powers to reflect Cyclops's optic blast back at him, X-Factor member [[Jean Grey]] used her telekinetic powers to slam Prism against a nearby wall. Much to everyone's surprise, the move killed Prism as his body was ultimately too fragile to survive being slammed against the wall.{{Issue|date=May 2010}}
+
+Prism, along with those fellow Marauders that also did not survive the [[Mutant Massacre]], was ultimately resurrected by [[Mr. Sinister]] using his cloning technology. However, Prism's lifespan was once again cut short when he was killed by a group of demonized police officers during the opening hours of the ''[[Inferno (Marvel Comics)|Inferno]]'', during a rematch between the Marauders and the [[X-Men]] (who had not battled Prism before).{{Issue|date=May 2010}}
+
+Prism is a member of the 198 Mutants left after [[Decimation (comics)|M-Day]], where he was institutionalized in a mental hospital, where he rose to power and exacted revenge on those who harassed him and lost their powers.{{Issue|date=May 2010}}
+
+Alongside the other Marauders, Prism ambushed the X-Men at [[Mystique (comics)|Mystique]]'s residence, and participated in the ensuing battle.  The Marauders quickly defeated the X-Men and kidnapped [[Rogue (comics)|Rogue]], returning to Mr. Sinister.  It has also been revealed that Prism, with several of his teammates, assassinated the [[Dark Mother]].{{Issue|date=May 2010}}
+
+Prism's body is found shattered by the X-Men when they arrive at an Alaskan town, trying to find the new mutant baby who has been born.<ref name="X-Men: Messiah Complex #1">''X-Men: Messiah Complex'' #1</ref>  Prism had been killed in a clash with the [[Purifiers]] and was eaten by [[Predator X (Marvel Comics)|Predator X]] after the X-Men left.<ref>''Uncanny X-Men'' #492</ref>
+
+Prism's clone was later tracked down and killed by Magneto.<ref>''Magneto'' #6 (2014)</ref> Magneto reprogrammed the cloned Marauders to serve under his command, and when they were reborn, Prism and the other mercenaries joined Magneto's side.<ref>''Magneto'' #15 (2015)</ref>
+
+==Powers and abilities==
+Able to refract most forms of energy directed at him, including ambient light. He is also capable of storing light within his body, using it as a form of illumination or as a means of blinding his opponents.
+
+===Death count===
+Prism has apparently died four times during his time as a Marauder.  The first was when Jean Grey used her [[telekinetic]] powers to throw Prism against a wall, smashing him to pieces.<ref>''X-Factor Vol. 1 #10''</ref>  The second was during ''[[Inferno (Marvel Comics)|Inferno]]'', where a group of policemen shot Prism and shattered him.{{issue|date=January 2013}} The third time was when [[Nate Grey|X-Man]] used his mental powers to slaughter all of the Marauders.{{issue|date=January 2013}}  His shattered body is found by the X-Men in an Alaskan town, where he and the Maurauders fought the Purifiers,<ref name="X-Men: Messiah Complex #1"/> and it was revealed he was killed and eaten by Predator X.{{issue|date=January 2013}}  It is unknown if Prism actually does die, or if he is able to piece his crystal body back together; Sinister regularly cloned members of the Marauders when they died, however, after M-Day it is unclear whether Sinister's samples of the Marauders survived and whether he can be cloned again.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.marvel.com/universe/Prism Prism] at Marvel.com
+* {{comicbookdb|type=character|id=7349|title=Prism (Marvel)}}
+
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by Louise Simonson]]
+[[Category:Comics characters introduced in 1986]]
+[[Category:Fictional clones]]
+[[Category:Fictional mercenaries]]
+[[Category:Fictional murderers]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]

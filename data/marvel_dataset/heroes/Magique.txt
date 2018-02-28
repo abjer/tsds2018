@@ -1,0 +1,56 @@
+{{about|the fictional character in the Marvel Universe|the Olympic mascot named Magique|Magique (mascot)|other uses}}
+{{Distinguish|Magik (comics)}}
+{{Refimprove|date=October 2010}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Magique
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Men]]'' #107 (Oct 1977)
+|creators=[[Chris Claremont]] and [[Dave Cockrum]]
+|alliances=[[Imperial Guard (comics)|Imperial Guard]]
+|aliases=Magic
+|powers=Magic user<br>Long lifespan
+}}
+'''Magique''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+The character first appeared in ''[[X-Men]]'' #107-109 (October 1977-February 1978), and was created by [[Chris Claremont]] and [[Dave Cockrum]]. She was not named on-panel initially.
+
+The character next appears as '''Magic''' in ''Rom Annual'' #4 (December 1985), and ''X-Men: Spotlight on Starjammers'' #2 (June 1990). The character subsequently appears as '''Magique''' in ''Quasar'' #32 (March 1992), ''JLA/Avengers'' #1 (September 2003), ''Uncanny X-Men'' #479 (December 2006), #485-486 (June-July 2007), and ''X-Men: Emperor Vulcan'' #5 (March 2008).
+
+Magic appeared as part of the "Imperial Guard" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #6.
+
+==Fictional character biography==
+Magique is a founding member of the [[Shi'ar]] [[Imperial Guard (comics)|Imperial Guard]]. She has been present in many of the team's appearances, but has often remained in the background throughout most of the Guard's long history. She was present at the Guard's first battle with the [[X-Men]].<ref>''X-Men'' #107-109</ref> She was also involved in the Guard's attack upon the [[Starjammers]] and [[Excalibur (comics)|Excalibur]].<ref>''X-Men Spotlight On: The Starjammers'' #2</ref> During the [[Operation Galactic Storm|Kree-Shi'ar War]], Magique and two of her teammates were sent to thwart the heroes [[Quasar (Wendell Vaughn)|Quasar]] and [[Starfox (comics)|Starfox]]. During this encounter, she used her power to create illusions of nearly every other member of the Imperial Guard.{{Issue|date=April 2009}}
+
+She appeared with the Imperial Guard during the crowning of Vulcan as emperor of the Shi'ar.{{Issue|date=April 2009}}
+
+===War of Kings===
+During ''[[War of Kings]]'', [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]] member [[Adam Warlock]] fights with Emperor Vulcan in ''Guardians of the Galaxy'' #15. Later some Imperial Guardsmen, including Magique, are seen helping Vulcan. Magique is ordered by Mentor to attack Adam Warlock and after a short but heavy fight Magique seemed to have lost the battle and Warlock escapes. However, not all was lost, as Magique was able to put a 'witchmark' on Adam, without him knowing. Adam was followed by the Imperial Guard (via Magique's 'witchmark'). The Imperial Guardsmen attacked the Guardians of the Galaxy while Magique follows Adam Warlock, who somehow is able to transport the 'witchmark' back on her and therefore the Shi'ar soldiers shoot her instead of Adam Warlock.{{Issue|date=June 2009}}
+
+==Powers and abilities==
+Originally described as a powerful [[magician (fantasy)|sorceress]], Magique's only confirmed superhuman ability is the creation of extremely realistic visual illusions. She can generate and maintain multiple animate illusions at once with no apparent strain, and can also use her power to render herself invisible at the same time. It is unknown if her illusions can affect senses other than sight, or if this power is but one facet of her supposed magical ability.
+
+Magique is apparently either [[Immortality|immortal]] or possesses an extremely long lifespan, as she was seen in a flashback as one of the founding members of the Imperial Guard formed over four hundred years ago.
+
+==Inspiration==
+Several of the members of the Imperial Guard are at least partly based on members of the [[DC Comics]] team [[Legion of Super-Heroes]] ([[Dave Cockrum]], co-creator of the Guard, also had a long run as artist on the Legion). Magique is based on LSH member [[Princess Projectra]].{{Citation needed|date=August 2011}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix4/magiqueimpguard.htm|Magique}}
+
+{{Marvel Cosmic}}
+
+[[Category:Comics characters introduced in 1977]]
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by Dave Cockrum]]
+[[Category:Extraterrestrial superheroes]]
+[[Category:Marvel Comics characters who use magic]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics superheroes]]

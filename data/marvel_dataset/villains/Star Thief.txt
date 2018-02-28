@@ -1,0 +1,34 @@
+{{one source|date=January 2018}}
+{{notability|date=January 2018}}
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = Star Thief
+| publisher = Marvel Comics
+| debut = ''New Warriors'' #5
+| creators = Fabian Nicieza<br/> Mark Bagley
+| alter_ego = Ditmal Pirval
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = <!-- optional -->
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = Flight<br/> Energy projection
+}}
+
+'''Star Thief''' ('''Ditmal Pirval''') is a [[fiction]]al [[Marvel Comics]] [[character (arts)|character]].  
+
+==Fictional character biography==
+While out driving with his wife and two kids outside New Delhi, Ditmal Pirval was struck by a bolt of energy from a malfunctioning satellite. This bolt kills his family and gives him extensive energy based [[Superpower (ability)|powers]].  This motivates him to adopt the costumed identity of Star Thief and attempt to end all [[human]] exploration of space <ref> New Warriors #5 </ref>.  He was dissuaded from this goal after a violent confrontation with the [[New Warriors]] and the [[Inhumans]]. In a more thoughtful mood, he lived with and learned from the Inhumans for a time,{{issue|date=May 2011}} but has not been seen during the Inhumans' last few years of activity.
+
+==References==
+{{reflist}}
+
+
+[[Category:Characters created by Fabian Nicieza]]
+[[Category:Fictional Indian people]]
+[[Category:Marvel Comics supervillains]]
+
+
+{{Marvel-villain-stub}}

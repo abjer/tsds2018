@@ -1,0 +1,60 @@
+{{In-universe|subject = comics|category = comics|date = October 2009}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = Charlie Weiderman
+| publisher = [[Marvel Comics]]
+| debut = ''[[The Amazing Spider-Man]]'' #515 (December [[2004 in comics|2004]])
+| creators = [[J. Michael Straczynski]]<br />[[Mike Deodato]]
+| real_name = Charles Weiderman
+| alliances =
+| species = Human 
+| aliases = "Weinerman", "Whiney-Man", 
+| powers =<br>
+* Superhuman speed and stamina derived [[Vibranium]] skinsuit, which grants superhuman speed and strength.
+}}
+
+'''Charles Weiderman''' is a fictional character in ''[[The Amazing Spider-Man]]''
+
+==Fictional character biography==
+Charlie was the one student at Midtown High School more bullied than [[Peter Parker]] as Charlie was bullied by a group of students led by a teen named Rich, a football player on the school team. Even Peter took advantage of Charlie once to score some points with the in-crowd before guilt led him to make friends with his scorned classmate, but Charlie (beaten by his father at home and humiliated at school) only sought revenge. First, he ingested a homemade version of [[Captain America]]'s super-soldier program formula, which only landed him in the hospital.<ref name="ASM515">''The Amazing Spider-Man'' #515</ref>
+
+Later, he tried to pull a knife on his tormentors only for the coach to catch him. Peter covered it up by stating that the knife belonged to his [[Uncle Ben]] (Ben would later support Peter for defusing a potentially violent situation). When Charlie slashed his tormentors' tires, he fled to the Parker house for protection. Charlie declared innocence and was backed up by Peter's Uncle Ben. After the bullies left, Ben asked Charlie if he actually slashed their tires. When Charlie was afraid to tell the truth, Ben Parker told him never to see Peter again and stated he would've respected Charlie if he admitted to the action.<ref>''The Amazing Spider-Man'' #516</ref>
+
+When Charlie encountered Sheila, a Midtown High cheerleader and girlfriend of Rich and was introduced to her, Rich humiliated Charlie again by ripping off his shorts.<ref>''The Amazing Spider-Man'' #517</ref>
+
+Charlie's dad got a new job in a different town. Peter appeared to see Charlie off, reassuring that things will be different at the school that he will go to.<ref name="ASM518">''The Amazing Spider-Man'' #518</ref>
+
+As an adult, Charlie still searched for vindication. His father died and left him enough money to help fund the creation of a porous polymer compound that could completely cover a soldier and protect him from harm. Charlie eventually realized that his "skinsuit" would have to be composed of the energy-absorbing metal [[vibranium]] to protect the wearer from any impacts. Charlie talked Peter into a letter of recommendation that swayed industrialist [[Iron Man|Tony Stark]], aware of Spider-Man's true identity and led to believe that Peter was an active partner on the project, into authorizing a large grant. When Peter saw Charlie's hasty shortcuts involving the volatile vibranium however, he wanted to pull the plug on the project. Frantic, Charlie rushed the procedure and only moments too late realized Peter had been right; the vibranium blew up, encasing him in a skinsuit that bestowed the metal's properties on him.<ref name="ASM515"/>
+
+Attempting to duck responsibility, maddened by the chemicals in his suit and by Peter's insistence that he turn himself in, Charlie went on a rampage, locating and killing the now married Rich and Sheila, fighting Spider-Man, and, believing that Peter had betrayed him to Spider-Man, planned to kill [[Aunt May]] and [[Mary Jane Watson|Mary Jane]]. Unable to track down the Parkers, Charlie settled for destroying Peter's apartment and the family home in [[Forest Hills, Queens|Forest Hills]]. Recalling that the fluid vibranium could be made solid by the use of extreme pressure, Spider-Man forced Charlie into an atmospheric chamber at [[Stark Industries|Stark International]], causing the skinsuit to harden, immobilizing him inside. Charlie was wheeled away by the doctors who assured Peter Parker and Tony Stark that they would get through the suit enough to keep Charlie alive. As Tony and a disheartened Peter discuss finding a way to remove the skinsuit, tears fell from Charlie's frozen eyes.<ref name="ASM518"/>
+
+Charlie did regain some degree of speech and movement when he volunteered for [[Harry Osborn]]'s Promethean Trials as a test subject for a chemical that will cure Harry's ex-brother-in-law [[Molten Man|Mark Raxton]]. The experiment is a success and Charlie is freed from the skinsuit.<ref>''The Amazing Spider-Man'' #582</ref>
+
+==Powers and abilities==
+Through his Vibranium skinsuit, Charlie was endowed with superhuman strength sufficient to lift an SUV and go toe-to-toe with Spider-Man. His skinsuit is fireproof, can absorb impact rendering him virtually invulnerable, and can vibrate at frequencies that allow him to split diamonds and slough off Spider-Man's webbing. A major side effect is that the skinsuit was too early to even be prototyped, and its chemical composition actively and severely affected Charlie's mind, driving him into a murderous rage.
+
+Charlie possesses an intelligent, scientific mind, able to come up with ideas that Peter considered brilliant. Unfortunately, Charlie also had a desire to prove himself to others, resulting in him often rushing through his experiments. Peter states that at that time, Charlie did not have the patience that a scientist requires.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://marvel.com/universe/Weiderman,_Charlie Charlie Weiderman] at Marvel.com
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/weidermanc.htm|Charlie Weiderman}}
+* [http://marvel.wikia.com/wiki/Charles_Weiderman_(Earth-616) Charlie Weiderman] at Marvel Wiki
+* [http://www.comicvine.com/charlie-weiderman/29-41413/ Charlie Weiderman] at Comic Vine
+
+{{Spider-Man}}
+
+{{DEFAULTSORT:Weiderman, Charles}}
+[[Category:Characters created by J. Michael Straczynski]]
+[[Category:Characters created by Mike Deodato]]
+[[Category:Comics characters introduced in 2005]]
+[[Category:Fictional characters from New York (state)]]
+[[Category:Fictional murderers]]
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supervillains]]

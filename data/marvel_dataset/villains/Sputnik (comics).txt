@@ -1,0 +1,52 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=[[File:Sputnik - captain america 353.png]]
+|caption=
+|character_name=Sputnik
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Captain America]]'' #352 (Apr 1989)
+|creators=[[Mark Gruenwald]]<br>[[Kieron Dwyer]]
+|alliances=[[Supreme Soviets]]<br>[[Winter Guard]]
+|aliases=Vostok
+|powers=Ability to manipulate mechanical systems
+}}
+
+'''Sputnik''' is a fictional character in the [[Marvel Universe]].
+
+==Publication history==
+Sputnik first appeared in ''Captain America'' #352-353 (April-May 1989), and was created by [[Mark Gruenwald]] and [[Kieron Dwyer]].
+
+The character subsequently appears as '''Vostok''' in ''Avengers'' #319-324 (July-October 1990), ''Incredible Hulk'' #393 (May 1992), ''Soviet Super-Soldiers'' #1 (November 1992), ''Quasar'' #54 (January 1994), ''Iron Man'' #9-10 (October-November 1998), ''Maximum Security'' 33 (January 2001), and ''Thunderbolts'' #57 (December 2001).
+
+Sputnik appeared as part of the "Supreme Soviets" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Update '89]]'' #7.
+
+Sputnik appears as Vostok in ''[[X-Men '92]]''.
+
+==Fictional character biography==
+The synthezoid originally known as '''Sputnik''' was a member of the [[Supreme Soviets]]. The team had been sent by the Soviet government to capture the [[Soviet Super-Soldiers]], who were attempting to defect to the United States.  Sputnik had been disguised by an illusion to appear as the [[Vision (Marvel Comics)|Vision]]. Eventually, [[Captain America]] defeated the Supreme Soviets and freed the badly wounded Soviet Super-Soldiers.{{Issue|date=January 2011}}
+
+Sputnik later changed his name to '''Vostok''' when the team became known as the People's Protectorate.{{Issue|date=January 2011}} Eventually the team broke up and merged with the Soviet Super-Soldiers to form the [[Winter Guard]].{{Issue|date=January 2011}}
+
+He accompanies his team mates to Limbo to serve [[Immortus]] in return for reviving [[Darkstar (comics)|Darkstar]].<ref>''Darkstar and the Winter Guard'' #2</ref> When his teammates return to earth, he is not among them.<ref>''Darkstar and the Winter Guard'' #1</ref>
+
+A person calling himself Sputnik appears as a member of the Supreme Soviets. He is a human hacker, wearing a costume similar to Vostok's and possessing technology that mimics his powers.<ref>''Widowmaker'' #1-2</ref>
+
+==Powers and abilities==
+Sputnik has the ability to manipulate mechanical systems.
+
+==References==
+{{Reflist}}
+
+{{Winter Guard}}
+
+
+[[Category:Characters created by Mark Gruenwald]]
+[[Category:Comics characters introduced in 1989]]
+[[Category:Fictional technopaths]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Russian superheroes]]
+[[Category:Soviet Union-themed superheroes]]
+
+{{Marvel-villain-stub}}

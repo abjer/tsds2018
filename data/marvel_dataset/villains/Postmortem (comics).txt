@@ -1,0 +1,34 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+| image = [[File:Postmortem (comics).png|200px]]
+| caption = Postmortem in ''Blade the Vampire Hunter'' #9 (Mar 1995). Pencils by [[Doug Wheatley|Douglas H. Wheatley]], inks by [[Steve Moncuse]].
+| character_name = Postmortem
+| publisher = [[Marvel Comics]]
+| debut = ''[[Blade (comics)|Blade the Vampire Hunter]]'' #9 (March, 1995)
+| creators = [[Terry Kavanagh]], [[Doug Wheatley|Douglas H. Wheatley]], [[Steve Moncuse]]
+| real_name =
+| alliances = [[Dracula (Marvel Comics)|Dracula]]
+| aliases = Project: Postmortem
+| powers = Cybernetic body that grants him immortality, and superhuman strength and endurance. One arm is a chainsaw, the other a collection of scalpels and knives.
+}}
+'''Postmortem''' is a fictional cyborg supervillain in the [[Marvel Universe]]. He was an ally of [[Dracula (Marvel Comics)|Dracula]], and an enemy of [[Blade (comics)|Blade]]. He first appeared in ''Blade the Vampire Hunter'' #9 (March 1995).
+
+==Fictional character biography==
+Postmortem was a scientist who for decades had maintained a secret laboratory in the 13th floor of the [[Chrysler Building]] in [[Manhattan]], largely paid for with funding by [[Dracula (Marvel Comics)|Dracula]].<ref name="mnyc">{{cite book | last = Sanderson | first = Peter | authorlink = | coauthors = | title = The Marvel Comics Guide to New York City | publisher = [[Pocket Books]] | year = 2007 | location = New York City | pages = 49–51 | url = | doi = | id = | isbn = 1-4165-3141-6}}</ref> He developed a kind of [[Nanorobotics|nanite]] that could rewrite a subject's genetic code, ostensibly to create a "next generation" of [[vampire]]. The scientist tested the nanites out on himself and was transformed into Postmortem.
+
+Postmortem was confronted in his laboratory by the vampire hunter [[Blade (comics)|Blade]], and mistook him for an agent of [[Dracula (Marvel Comics)|Dracula]], coming to cancel the project's funding. They fought, and Blade succeeded in killing Postmortem.{{Issue|date=May 2010}}
+
+==Notes==
+{{Reflist}}
+
+==References==
+* [http://www.marvunapp.com/Appendix3/postmortemblade.htm Postmortem] at the Appendix to the Handbook of the Marvel universe
+
+{{Dracula}}
+
+{{DEFAULTSORT:Postmortem (Comics)}}
+[[Category:Comics characters introduced in 1995]]
+[[Category:Fictional cyborgs]]
+[[Category:Marvel Comics supervillains]]
+
+
+{{Marvel-villain-stub}}

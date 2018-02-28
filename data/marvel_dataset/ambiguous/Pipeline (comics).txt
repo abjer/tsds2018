@@ -1,0 +1,43 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Pipeline
+|real_name=Cormick Grimshaw
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''Uncanny X-Men'' #235 (1988)
+|creators=[[Chris Claremont]]<br>[[Rick Leonardi]]
+|alliances=[[Press Gang (comics)|Press Gang]]<br/>Genoshan Cabinet<br/>[[Magistrates (comics)|Genoshan Magistrates]]
+|aliases=
+|powers= '''Cybernetic Travel''', also called ''Cybernetic/Digital Conversion'' (ability to transport matter, organic or inorganic, through cybernetic media)
+}}
+'''Pipeline''' ('''Cormick Grimshaw''') is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] appearing in [[American comic book]]s published by [[Marvel Comics]]. His first appearance was in ''Uncanny X-Men #235'' (1988).
+
+==Fictional character biography==
+As a member of the [[Genosha]]n [[Press Gang (comics)|Press Gang]], Pipeline was exempt from the mutate process that his fellow mutants were subjected to, and served his country faithfully. He participates in the raid that captures four of the X-Men's charges. This takes place on the grounds of the X-Men mansion, in Salem Center, New York, a violation of American sovereignty. One of the prisoners, Warlock, did not survive subsequent imprisonment.{{Issue|date=April 2010}} He also participates in a second raid on US soil, attacking an airport in an attempt to get at Rene Majcomb.{{Issue|date=April 2010}}
+
+After the fall of the Genoshan government, Pipeline fought in the resulting civil war on the side of the Magistrates. According to claims he made, he lost his home and family in this war.{{Issue|date=April 2010}}
+
+===Cable===
+During a raid on a mutate camp, he was captured by [[Cable (comics)|Cable]] and telepathically forced to help. He, Cable, [[Domino (comics)|Domino]], Jenny Ransome and Phillip Moreau investigated clues to a new mutate facility, eventually discovering that the otherdimensional [[Sugar Man]] was behind the mutate process. He soon changed his loyalty, agreeing to work with the rebels to bring peace to Genosha.{{Issue|date=April 2010}}
+
+Later, when [[Magneto (comics)|Magneto]] was ceded control of the island by the United Nations, Pipeline was invited to stay and help his new ruler consolidate his power. He accepted, but only so as to ensure that his country flourishes once more.<ref>''X-Men'' vol. 2 #87 (Apr 1999)</ref>
+
+With the genocide of the Genoshan population at the hands of [[Sentinel (comics)|Sentinels]] commanded by [[Cassandra Nova]],{{Issue|date=April 2010}} the twin sister of [[Professor Xavier]], Pipeline's fate is unknown. It is unknown if he retained or lost his mutant powers during the [[Decimation (comics)|M-Day]].
+
+==Other versions==
+The alternate universe detailed in the series [[X-Men Forever]] diverges from known history when Pipeline participates in a coup action against Cameron Hodge.{{Issue|date=February 2012}} The Genegineer, desiring Storm as a weapon against Hodge, has Pipeline replace her with a clone.{{Issue|date=February 2012}} This transfer is hidden during the outpouring of energy when she grants Cyclops her powers back.{{Issue|date=February 2012}} Pipeline is killed shortly thereafter but his equipment, still containing vital energies, is stolen.{{Issue|date=February 2012}}
+
+==Powers and abilities==
+Digitize matter and transmit it through electronic systems as data transmissions, teleporting the matter, and attach additional files to the packages, teleporting a person and sedating them or paralyzing them on arrival.
+
+==References==
+<references/>
+
+[[Category:Comics characters introduced in 1988]]
+[[Category:Characters created by Chris Claremont]]
+[[Category:Genoshans]]
+[[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]

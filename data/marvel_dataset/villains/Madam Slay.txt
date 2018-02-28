@@ -1,0 +1,13 @@
+#Redirect [[List of Marvel Comics characters: M#Madam Slay]]
+
+{{Rcat shell|
+{{R from fictional character|Marvel Comics}}
+{{R comics from merge}}
+{{R comics to section}}
+}}
+
+[[Category:Characters created by Don McGregor]]
+[[Category:Comics characters introduced in 1975]]
+[[Category:Female supervillains]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Wakandans]]

@@ -1,0 +1,54 @@
+{{refimprove|date=August 2016}}
+
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+  image = 
+| caption =  
+| character_name =Tyrak
+| publisher =[[Marvel Comics]]
+| debut=''[[Avengers (comics)|Avengers]]'' #154<br> (December 1976)
+| creators = [[Gerry Conway]] (writer)<br> [[George Pérez]] (artist)
+| real_name = Tyrak
+| alliances = Servant of [[Attuma]]
+| species = ''[[Homo mermanus]]''
+| homeworld = [[Atlantis (Marvel Comics)|Atlantis]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports= <!--optional-->
+| powers = Size-Shifting
+|}}
+'''Tyrak''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+{{expand section|date=February 2016}}
+Tyrak first appeared in ''[[Avengers (comics)|Avengers]]'' #154 (December 1976) and was created by [[Gerry Conway]] (writer) and [[George Pérez]] (artist).
+
+==Fictional character biography==
+He is an [[Homo mermanus|Atlantean]] warrior, serving in the army of the conqueror [[Attuma]]. He has served in a number of missions for Attuma, and has fought the [[Avengers (comics)|Avengers]] on more than one occasion.
+
+He posed as the [[Inhumans|Inhuman]] [[Triton (comics)|Triton]] to capture the Avengers for Attuma.<ref>''Avengers'' #154</ref> Tyrak battled the Avengers when they arrived to battle Attuma.<ref>''Avengers'' #156</ref> He later fought the Avengers again, attempting to regain his lost honor.<ref>''Avengers'' #172</ref>
+
+Some time later, Tyrak returned to try to defeat [[Namor]] to regain Attuma's favor, but was defeated by the Avengers.<ref>''Avengers'' #278</ref> Attuma later dispatched Tyrak during the [[Atlantis Attacks]] storyline, but he was again defeated by the Avengers and their allies.<ref>''Avengers Annual'' #18</ref> Tyrak later fought the Avengers and the [[People's Protectorate]].<ref>''Avengers'' #319-323</ref>
+
+During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Tyrak helps Attuma (in the form of Nerkodd: Breaker of Oceans), Attuma' sister Aradnea, and [[Tiger Shark (Marvel Comics)|Tiger Shark]] take over New Atlantis and launch an attack on the surface world.<ref>''Fear Itself: The Deep'' #1</ref>
+
+==Powers and abilities==
+He rivals Attuma's strength and is able to enhance it further by increasing his height to a maximum of {{convert|40|ft|m}}.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Tyrak_%28Earth-616%29 Tyrak] at Marvel Wiki
+* [http://comicvine.gamespot.com/tyrak/4005-28674/ Tyrak] at Comic Vine
+* {{Marvunapp|http://www.marvunapp.com/Appendix2/tyrakatlan.htm|Tyrak}}
+
+{{Namor}}
+
+[[Category:Characters created by George Pérez]]
+[[Category:Characters created by Gerry Conway]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Marvel Comics Atlanteans (Homo mermanus)]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics supervillains]]
+
+
+{{Marvel-villain-stub}}

@@ -1,0 +1,47 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+  image = [[Image:windshear.jpg]]
+| caption =  Art By Pat Broderick
+| character_name =Windshear 
+| real_name =Colin Ashworth Hume
+| species=[[Mutant (Marvel Comics)|Human Mutant]]
+| publisher =[[Marvel Comics]]
+| debut = [[Alpha Flight (comic book)|Alpha Flight]] vol. 1 #87
+| creators = [[Fabian Nicieza]]<br>[[Michael Bair]]
+| alliances =[[Alpha Flight]]<br/>[[Beta Flight]]<br>[[Roxxon Oil]]
+| aliases =  
+| powers =Depowered, formerly:<br>Hard Air Manipulation,<br>Flight}}
+
+'''Windshear''' ('''Colin Ashworth Hume''') is a [[fictional character]], a [[superhero]] in the [[Marvel Comics]] [[Marvel Universe|universe]]. 
+
+==Fictional character biography==
+Colin Ashworth Hume was born in [[Toronto]], [[Ontario]], [[Canada]]; he moved with his family to Great Britain when he was five years old, and grew up in England as a Canadian expatriate. He found work as a special operative, using his mutant powers for the superhuman division of [[Roxxon]] Oil Corp's United Kingdom branch, where he was given a suit of armor.
+
+When Hume was unable to defeat a machine-creature at Roxxon's Denver Energy Research station, Roxxon called in [[Madison Jeffries]], at the time known as [[Box (comics)|Box]] who was aided by [[Diamond Lil (comics)|Diamond Lil]].<ref>''Alpha Flight'' #87</ref> Windshear, Box, and Diamond Lil encountered the "[[Muir Island]] [[X-Men]]", and recruited [[Forge (comics)|Forge]] to help battle the machine-creature; with Forge, Windshear discovered [[Guardian (Marvel Comics)|James MacDonald Hudson]] at the core of the machine-creature.<ref>''Alpha Flight'' #88</ref>  Hume, upset over the truth of Roxxon's practices, quit Roxxon Oil and returned to Canada with the members of [[Alpha Flight]], and he was soon accepted onto the team of adventurers as a probationary member.<ref>''Alpha Flight'' #90</ref>
+
+Alongside Alpha Flight, the [[Thing (comics)|Thing]], and [[Human Torch]], Windshear battled the [[Fantastic Four]] and Alpha Flight members controlled by [[Headlok]].<ref>''Alpha Flight'' #94</ref> Before long, his background as a Canadian citizen was revealed, and he was elected to full membership in Alpha Flight.<ref>''Alpha Flight'' #95</ref> He and Alpha Flight battled an oil spill and tanker fire.<ref>''Alpha Flight'' #96</ref> He and the team defended [[Kismet (Marvel Comics)|Kismet]] against the Consortium; this was his first encounter with the [[Avengers (comics)|Avengers]], [[Nova (Frankie Raye)]], and [[Galactus]].<ref>''Alpha Flight'' #98-100</ref> Windshear was then appointed the Chief Administrator of Alpha Flight.<ref>''Alpha Flight'' #102</ref> He even becomes a mentor for [[Beta Flight]].{{Issue|date=July 2009}} Windshear is one of the many superheroes who travels to alternate dimensions in the ''[[Infinity War]]'' crossover.{{Issue|date=July 2009}} He also participates in the ''[[Infinity Crusade]]''. He is one of the mind-controlled lackeys of the ''[[Goddess (comics)|Goddess]]''.<ref>''The Infinity Crusade'' #1 (Jun 1993)</ref> He and his brainwashed allies travel out to confront his former friends when their escape pods land all around the Goddess' citadel.{{Issue|date=July 2009}} He is defeated by the [[Vision (Marvel Comics)|Vision]], who phases his hand partway through his body. This causes intense pain and Windshear blacks out.{{Issue|date=July 2009}}
+
+Eventually, the Canadian government disbanded Department H and the Flight programs, and Hume returned to England.{{Issue|date=July 2009}} Hume set up a curio shop to sell objects created with "hard air," and his objects command a high price. When the [[Thunderbolts (comics)|Thunderbolts]] were investigating a series of murders committed with bullets created out of hard air, they investigated Hume and learned of Roxxon's connection.{{Issue|date=July 2009}}
+
+He was shown to be depowered<ref>''New Avengers'' #18</ref> and in the wake of M-Day, he has opened up a gallery in England, displaying many of the sculptures he has created with 'hard air' before the loss of his powers.{{Issue|date=July 2009}} A depowered Hume took up the secret identity of Chinook and continues fighting crime in Toronto.<ref>''Death of Wolverine: The Logan Legacy'' #2</ref>
+
+==Powers and abilities==
+Windshear is a [[Mutant (Marvel Comics)|mutant]] with the ability to project "hard-air" molecules that can be used for various effects. He has the ability to create constructs of "hard-air" molecules, to project streams of "hard-air" molecules from his hands as concussive force, and to utilize "hard-air" molecules for propulsion in flight.
+
+Windshear's armor was developed for him by Roxxon Oil technicians to fully harness his power. Turbojets built into the armor enable Windshear to better control his projection of "hard-air" molecules from his gauntlets and propulsive force from his boots. The battle-suit also grants him superhuman strength and durability, and the ability to fly at subsonic speeds via electrically powered turbines in the boots and jetpack in conjunction with his "hard-air" molecule projection. Later, his armor was modified by [[Alpha Flight]] when they all wore identical red costumes as a team. The armor also has a retractable protective tinted [[acrylic glass]]/plexiglass faceplate and a radio communicator built into the helmet.
+
+===Mutant or mutate===
+In his appearances in ''Alpha Flight'' it was stated that Windshear was not a mutant but in fact gained his powers when he was tested on by [[Roxxon]] while an agent for them.{{Issue|date=June 2009}}  It was later confirmed that Windshear first showed signs of his abilities when he was a teenager, explaining that he already possessed his powers before he worked for Roxxon.<ref>''Alpha Flight'' #124</ref>  Adding support to this claim, he appears in the list of mutants depowered by the [[Scarlet Witch]] on [[Decimation (comics)|M-Day]].{{Issue|date=June 2009}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://worldofblackheroes.com/2011/08/01/windshear%E2%80%93colin-ashworth-hume/ World of Black Heroes: Windshear Biography]
+*http://marvel.com/universe/Windshear
+*[http://alphaflight.net/alphanex/index.php?title=Windshear'''AlphaFlight.Net''' Alphanex Entry on Windshear]
+
+{{Flight Program}}
+
+{{DEFAULTSORT:Windshear (Comics)}}
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]

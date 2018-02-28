@@ -1,0 +1,70 @@
+{{For|the Marvel Comics superhero|Frog-Man}}
+{{refimprove|date=August 2016}}
+'''Frog-Man''' is the name of two fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]]. Both have been members of the [[Ani-Men]].
+
+==Publication history==
+Frog-Man first appeared in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #10-11 (October, December 1965), and was created by [[Stan Lee]], [[Bob Powell (comics)|Bob Powell]], and [[Wally Wood]]. The character subsequently appears in ''Daredevil Annual'' #2 (1971), ''X-Men'' #94-95 (August–October 1975), and ''Iron Man'' #115-116 (October–November 1978), in which he dies. The character appears posthumously in ''Iron Man'' #139 (October 1980) and ''Classic X-Men'' #3 (November 1986). Frog-Man appeared as part of the "Ani-Men" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #16, and in the ''Official Handbook of the Marvel Universe Master Edition'' #34.
+
+==Fictional character biography==
+
+===François LeBlanc===
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|image=
+|caption=
+|character_name=Frog-Man
+|real_name=Francois LeBlanc
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Daredevil (Marvel Comics series)|Daredevil]]'' #10 (Oct 1965) 
+|creators=[[Stan Lee]]<br>[[Wally Wood]]<br>[[Bob Powell (comics)|Bob Powell]]
+|status=
+|alliances=[[Ani-Men]]
+|previous_alliances=
+|aliases="Frog" LeBlanc, Croaker
+|relatives=
+|powers=Excellent hand-to-hand combatant<br>Expert French kickboxer<br>Olympic-level leaping ability<br>'''(Briefly)''':<br>Superhuman strength, agility, stamina and leaping<br>Frog-like legs
+|}}
+
+François LeBlanc was born in France, and later became a professional criminal.
+
+Along with [[Ape-Man#Monk Keefer|Ape-Man]], [[Bird-Man#Henry Hawk|Bird-Man]], and [[Cat-Man (Marvel Comics)#Towshend Horgan|Cat-Man]], François "Frog" LeBlanc was recruited for his leaping ability by a man named the Organizer to form the [[Ani-Men]]. The Organizer was secretly Abner Jonas, a candidate for mayor of New York City, who sent the Ani-Men on missions to undermine the current administration. Daredevil defeated them, and the Ani-Men and Organizer all went to prison.<ref>''Iron Man'' #10-11</ref>
+
+Later, the Ani-Men went to work for [[Count Nefaria]]. Nefaria's scientists submitted the unwitting Ani-Men to processes that gave them superhuman powers and animal-like forms. The Ani-Men invaded the Cheyenne Mountain missile base for Count Nefaria, and fought the [[X-Men]].<ref>''X-Men'' #94-95</ref>
+
+The Ani-Men lost their superhuman powers and reverted to normal. Nefaria sent the four original Ani-Men to kill [[Iron Man|Tony Stark]]. However, the [[Spymaster (comics)#Spymaster I|Spymaster]] detonated a bomb,which was intended to kill Stark, and the resulting explosion killed the Ani-Men instead.<ref>''Iron Man'' #115-116</ref>
+{{clear}}
+
+===Frog-Man II===
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|image=
+|caption=
+|character_name=Frog-Man II
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=Code of Honor #3 
+|creators=
+|status=
+|alliances=[[Ani-Men]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+}}
+
+During the ''[[Secret Wars]]'' storyline, a second Frog-Man, alongside a third Ape-Man and a third Cat-Man, went on a crime spree when the heroes were on Battleworld. They somehow got the equipment of the original Ani-Men and used it to rob a vault wagon only to be opposed by the NYPD.<ref>Code of Honor #3</ref>
+{{clear}}
+
+==Powers and abilities==
+Originally, LeBlanc had no superhuman powers. He was an athletic man with an Olympic-level leaping ability. He was an excellent hand-to-hand combatant, and an expert in ''[[savate]]'' (French kickboxing). LeBlanc was later subjected to an unknown mutagenic process administered by [[Count Nefaria]]'s scientists which temporarily gave him frog-like legs that gave him superhuman leaping, as well as superhuman strength, stamina and agility.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix5/frogmanleblanc.htm|Frog-Man}}
+
+[[Category:Characters created by Stan Lee]]
+[[Category:Characters created by Wally Wood]]
+[[Category:Comics characters introduced in 1965]]
+[[Category:Marvel Comics supervillains]]

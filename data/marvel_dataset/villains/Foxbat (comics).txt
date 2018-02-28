@@ -1,0 +1,45 @@
+{{about|the [[Marvel Comics]] character|the [[League of Champions]] villain|Foxbat (RPG character)}}
+{{Infobox comics character <!--Wikipedia|WikiProject Comics-->
+| image = [[Image:Foxbat.JPG|150px]]
+| caption =
+| character_name = Foxbat
+| publisher = [[Marvel Comics]]
+| debut = X-Factor #65
+| creators = [[Chris Claremont]], [[Jim Lee]] and Whilce Portacio
+| alter ego =
+| alliances = [[Dark Riders]]<br/>[[Inhumans|Inhuman]]s
+| partners =
+| aliases =
+| supports =
+| powers =
+}}
+'''Foxbat''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was created by [[Chris Claremont]].
+
+==Publication history==
+'''Foxbat''' first appearance was in X-Factor #65.
+
+==Fictional character biography==
+Like other members of the [[Dark Riders (comics)|Riders of the Storm]], he originally came from [[Attilan]] and joined the team unwillingly when [[Apocalypse]] captured half of the city. After the city was liberated by the [[X-Men]] and Black Bolt, he retained membership in the team as he, like the others, was a deep believer in Apocalypse's [[Social Darwinism]] and wanted to rid the world of those unworthy.
+
+The Riders of the Storm, now going by the name Dark Riders, came under the leadership of [[Genesis (Marvel comics)|Genesis]]. Genesis judged Foxbat unworthy of living. Chastised by his own teammates, Foxbat fled but was recaptured, and Genesis drained his lifeforce. Any hope of resurrecting him was lost when his remains were destroyed during the conflict between Genesis and his father, [[Cable (comics)|Cable]].<ref>http://www.comicvine.com/foxbat/29-26892/</ref>
+
+==Powers and abilities==
+Foxbat exhibited enhanced strength, speed, and reflexes, and the ability to see in the dark and to use his fangs and claws as weapons.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{comicbookdb|type=character|id=8259|title=Foxbat}}
+
+[[Category:Animated series villains]]
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by Jim Lee]]
+[[Category:Comics characters introduced in 1991]]
+[[Category:Inhumans]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics supervillains]]
+
+
+{{Marvel-villain-stub}}

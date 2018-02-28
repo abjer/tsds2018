@@ -1,0 +1,42 @@
+{{refimprove|date=June 2009}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:xmen-195.jpg|250px]]
+|caption=Cover art for ''X-Men #195''.<br> Art by Humberto Ramos
+|character_name= Pandemic
+|real_name=Richard Palance
+|species=[[Mutate (comics)|Human Mutate]]
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Men: Legacy|X-Men]]'' vol. 2 #188 (2006) <small>'''(mentioned)'''</small><br> ''X-Men'' vol. 2 #194 (2007)
+|creators= [[Mike Carey (British writer)|Mike Carey]]<br>[[Humberto Ramos]]
+|alliances=Plague Dogs
+|aliases=
+|powers= The ability to copy other mutants' powers
+}}
+'''Pandemic''' ('''Richard Palance''') is a fictional supervillan in [[Marvel Comics]] who was first mentioned in ''X-Men'' vol. 2 #188 (2006) and appeared in ''X-Men'' vol. 2 #194 (2007). He was created by [[Mike Carey (British writer)|Mike Carey]] and [[Humberto Ramos]].
+
+==Fictional character biography==
+Pandemic was a geneticist named Dr. Richard Palance. A colleague of [[Professor X|Professor Charles Xavier]], Dr. Palance was consulted by Xavier when the latter requested his aid in helping [[Rogue (comics)|Rogue]] (who, at the time, Xavier had admitted as a member of his X-Men) control her absorbing ability. Obtaining a DNA sample from Rogue and mutating it into a viral strain called Strain 87, Dr. Palance theorized that he would gain immortality with Rogue's ability to absorb a person's powers, skills, memories, and personality upon physical contact. Injecting Strain 87 into himself proved to be only a partial success as he only gained the ability to copy the mutant powers of others upon contact.{{issue|date=January 2013}}
+
+After establishing a hospital called the Fordyce Clinic, Dr. Palance used the hospital to lure mutants so as to absorb more powers and secretly experiment with splicing mutant DNA into viruses and then infecting baseline human subjects, with the intent of discerning if mutation can be contracted like a disease. While continuing to amass several abilities, Dr. Palance began calling himself Pandemic and sought to create Strain 88 to replicate Rogue's power to the point where it can be used to permanently absorb a person's entire personality, leaving the victim summarily erased.{{issue|date=January 2013}}
+
+He easily defeated Rogue's team of X-Men and then infected Rogue with Strain 88, hoping to gain her powers for himself as well. But he was eventually defeated when [[Sabretooth (comics)|Sabretooth]] tricked Pandemic into coming in contact with him, thus resulting in Pandemic absorbing Sabretooth's healing factor into his body. This automatically cured the Strain 87, transforming him back to human form and removing all of his acquired abilities. Shortly after that Lady Mastermind uses her abilities to trap him in a psychic maze.{{issue|date=January 2013}}
+
+He later recovers from this and is later seen during the ''[[X-Men: Endangered Species|Endangered Species]]'' storyline as one of the scientists Beast requests help from in reversing the effects of [[Decimation (comics)|Decimation]].<ref>''X-Men: Endangered Species #1''</ref>
+
+==Powers and abilities==
+Pandemic obtained a DNA sample from Rogue and synthesized her power into a [[virus]] called Strain 87 and injected himself with it. This gave him the ability to copy and permanently retain the powers of any mutant he came into contact with. Unlike Rogue, he wasn't absorbing powers, only copying. Moreover, he couldn't absorb memories and personalities and could activate his power through contact with a mere DNA or tissue sample.
+
+Although he claimed to have copied over 300 super-powers, the ones he demonstrated were readily identifiable as those of Rogue (power absorption), [[Jean Grey]] ([[telepathy]] and [[telekinesis]]), [[Nightcrawler (comics)|Nightcrawler]] ([[teleportation]]), [[Lady Mastermind (comics)|Lady Mastermind]] (illusion casting), [[Chamber (comics)|Chamber]] (bio blasts), [[Cyclops (Marvel Comics)|Cyclops]] (optic blasts), [[Havok (comics)|Havok]] (plasma blasts), [[Storm (Marvel Comics)|Storm]] (weather control), [[Bishop (comics)|Bishop]] (energy absorption/redirection), [[Alchemy (comics)|Alchemy]] (elemental [[Chrysopoeia|transmutation]]), [[Sunfire (comics)|Sunfire]] ([[pyrokinesis]]), [[Husk (comics)|Husk]] (omnimorphing), [[Iceman (comics)|Iceman]] ([[List of comic book superpowers#Cold and ice manipulation|cold and ice manipulation]]), [[Kitty Pryde|Shadowcat]] (phasing), [[Cannonball (comics)|Cannonball]] (thermochemical energy generation) and 17 types of invulnerability until he absorbed [[Sabretooth (comics)|Sabretooth]]'s [[healing factor]], which ironically cured the virus in his veins.
+
+==Other versions==
+===Age of X===
+In the ''[[Age of X]]'' reality, Dr. Richard Palance works with Kavita Rao to make a cure for the mutant gene. However, he is killed by Kavita Rao during a battle with Wolverine.<ref>''Age of X: Alpha'' #1</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Pandemic (Comics)}}
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Characters created by Mike Carey]]

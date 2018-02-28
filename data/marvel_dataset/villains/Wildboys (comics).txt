@@ -1,0 +1,34 @@
+{{Unreferenced|date=December 2006}}
+{{Infobox comics organization| <!--Wikipedia:WikiProject Comics-->
+|image=
+|imagesize=
+|caption=
+|name=Wildboys
+|publisher=[[Marvel Comics]]
+|debut=''[[Daredevil (Marvel Comics series)|Daredevil]]'' #253 (Apr 1988)
+|creators=[[Ann Nocenti]]<br>[[John Romita, Jr.]]
+|base=
+|members=Jet<br>Spit
+|subcat=Marvel Comics
+|hero=
+|villain=y
+}}
+
+The '''Wildboys''' are fictional characters in the [[Marvel Universe]].
+
+==Fictional character biography==
+The Wildboys are an unruly pair of street-dwellers that enjoy committing violent acts of vandalism.  They are highly formidable street-fighters and are greatly skilled in the use of knives and other conventional street hardware.
+
+When the [[Horsemen of Apocalypse]] attacked Manhattan during the events of the ''[[Fall of the Mutants]]'' and caused a blackout, a [[Vietnam War|Vietnam]] veteran named [[Ammo (comics)|Ammo]] organized a gang including the Wildboys, who looted the city.{{Issue|date=September 2009}}  Sometime later, [[Typhoid Mary (comics)|Typhoid Mary]] gathered the Wildboys together with Ammo, [[Bullet (comics)|Bullet]], and [[Bushwacker (comics)|Bushwacker]] to attack [[Daredevil (Marvel Comics character)|Daredevil]]; the criminals beat Daredevil so badly that they nearly killed him.{{Issue|date=September 2009}}
+
+==References==
+{{reflist}}
+
+{{Daredevil}}
+
+{{DEFAULTSORT:Wildboys (Comics)}}
+
+[[Category:Characters created by Ann Nocenti]]
+[[Category:Marvel Comics supervillains]]
+
+{{Marvel-villain-stub}}

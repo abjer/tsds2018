@@ -1,0 +1,50 @@
+{{Lead too short|date=February 2017}}
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|image=[[Image:Mantawiki.jpg]]
+|caption=Manta, by Dave Cockrum
+|character_name=Manta
+|publisher=[[Marvel Comics]]
+|debut=''[[Uncanny X-Men]]'' #137 (Sep 1980)
+|creators=[[Chris Claremont]] and [[John Byrne (comics)|John Byrne]]
+|alliances=[[Imperial Guard (comics)|Imperial Guard]]
+|powers=Flight<br>Infrared vision<br>Generates flashes of blinding light
+}}
+
+'''Manta''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Manta first appeared in ''[[Uncanny X-Men]]'' #137 (September 1980), and was created by [[Chris Claremont]] and [[John Byrne (comics)|John Byrne]].
+
+The character subsequently appears in ''Phoenix: The Untold Story'' #1 (April 1984), ''Rom Annual'' #4 (December 1985), ''Classic X-Men'' #43 (January 1990), ''X-Men: Spotlight on Starjammers'' #2 (June 1990), ''Quasar'' #32-33 (March-April 1992), ''Starblast'' #2 (February 1994), ''Quasar'' #55 (February 1994), ''New X-Men'' #124-126 (May-July 2002), ''Marvel Universe: The End'' #5-6 (August-September 2003), ''JLA/Avengers'' #1 (September 2003), and ''Uncanny X-Men'' #477 (October 2006), and #480 (January 2007), and ''X-Men: Emperor Vulcan'' #2-5 (December 2007-March 2008).
+
+Manta appeared as part of the "Imperial Guard" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #6.
+
+==Fictional character biography==
+Manta is a member of the [[Shi'ar]] [[Imperial Guard (comics)|Imperial Guard]]. She has fought the X-Men on multiple occasions.  She first fought the X-Men in the Shi'ar Empire's attempt to police the Phoenix Force.<ref>''Uncanny X-Men'' #137, ''Phoenix: The Untold Story'' #1</ref>
+
+Later during ''New X-Men'', she fought them under the manipulation of [[Cassandra Nova]].  In the latter, Manta seeks out [[Jean Grey]], confident she could defeat Phoenix while armed with psychic armor, but Grey easily bested her in hand-to-hand combat.{{issue|date=January 2011}} Manta was one of the survivors of the battle with [[Vulcan (Marvel Comics)|Vulcan]].{{Issue|date=April 2009}}
+
+==Powers and abilities==
+Manta possesses the power of [[flight]].  Manta's eyes only perceive heat (as in infrared radiation), allowing her to see in the dark. She can generate blinding flashes of white or blue light. Her species experiences memory in a manner different from that of most other species.
+
+==Other versions==
+===Exiles===
+At least two alternate versions of Manta have been seen in ''[[Exiles (Marvel Comics)|Exiles]]''. The first was during an approximation of the [[Dark Phoenix Saga]],{{issue|date=March 2013}} and the second was in a reality where an evil [[Silver Surfer]] had killed everyone in the Imperial Guard save Manta while trying to kill that reality's [[Galactus]].{{issue|date=March 2013}}
+
+==In other media==
+===Television===
+* Manta appears in the ''[[X-Men (TV series)|X-Men]]'' episodes "The Dark Phoenix" and "Fate of the Phoenix." She and the Imperial Guard had to fight the X-Men to determine the fate of Jean Grey after the Phoenix Force attacked some of the galaxies.
+
+== References ==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/mantaimpguard.htm|Manta}}
+
+[[Category:Comics characters introduced in 1980]]
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by John Byrne]]
+[[Category:Extraterrestrial superheroes]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]

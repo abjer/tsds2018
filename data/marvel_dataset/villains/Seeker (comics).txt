@@ -1,0 +1,66 @@
+{{mergeto|List of Marvel Comics characters: S|date=January 2017}}
+
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Seeker
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Fantastic Four]]'' #46 (Jan 1966)
+|creators=[[Stan Lee]]<br>[[Jack Kirby]]<br>[[Joe Sinnott]]
+|alliances=[[Inhumans]]
+|aliases=
+|powers=
+}}
+'''Seeker''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+The Seeker first appeared in ''[[Fantastic Four]]'' #46-48 (January–March 1966), and was created by [[Stan Lee]], [[Jack Kirby]], and [[Joe Sinnott]]. The character's death was revealed in ''Inhumans: The Untold Saga'' #1 (April 1990), and the character appeared in flashbacks in ''Fantastic Four: Fireworks'' #1-2 (January–February 1999). 
+
+The Seeker alias was also taken up by [[Ralphie Hutchins]] in ''Savage She-Hulk'' #21 (Oct. 1981).
+
+A twin brother of the original Seeker appeared in ''Fantastic Four Unlimited'' #2 (June 1993) and was created by [[Roy Thomas]], [[Dann Thomas]], [[Herb Trimpe]], Steve Montano, and [[Ralph Macchio (comics)|Ralph Macchio]].
+
+The Seeker appeared as part of the "Inhumans" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #6.
+
+==Fictional character biography==
+
+===Kadlec===
+When [[Maximus (comics)|Maximus the Mad]] took the throne of [[Attilan]], he appointed the Seeker to find and retrieve the exiled [[Inhumans|Inhuman]] Royal Family, so that Maximus could marry [[Medusa (comics)|Medusa]] and keep the others under observation.<ref>''Fantastic Four'' #46</ref>
+
+It is later revealed that he was the one who killed [[Gorgon (Inhuman)|Gorgon]]'s father. When it came to a cave in that buried him and Gorgon, Seeker was found dead.<ref>''Inhumans: Untold Stories'' #6</ref>
+
+===Ralphie Hutchins===
+{{main|Ralphie Hutchins}}
+
+===Uys===
+Years later, Kadlec's twin brother Uys also took up the mantle of the Seeker and fought the group [[Fantastic Force]].<ref>''Fantastic Four Unlimited'' #2 (June 1993)</ref>
+
+The Seeker was part of a group of Inhumans, including Kaliban, Asmodeus, Avius, [[Falcona]], [[Leonus]], Pinyon, and [[Timberius]], that assaulted the [[Fantastic Four]] during a public appearance in the Bronx, New York. The Inhumans sought to recover [[Ahura (comics)|Ahura]], the son of Black Bolt and Medusa, for the Genetics Council. Ahura was convinced to return to Attilan peaceably, but the Chief Justice of the Genetics Council betrayed the rest of the Inhumans to usurp Ahura's power for himself. The "evil" Inhumans continued to defend the Genetics Council, but when the Chief Justice was defeated, they vanished into the shadows.<ref>''Fantastic Four Unlimited'' #2 (June 1993)</ref>
+
+==In other media==
+
+===Television===
+* The Kadlec version of Seeker appears in the ''[[Fantastic Four (1994 TV series)|Fantastic Four]]'' episode "Inhumans Saga: Beware the Hidden Land," voiced by [[Kerrigan Mahan]]. He was sent by Maximus the Mad to retrieve the Inhuman Royal Family. After saving the Fantastic Four from the explosion, Seeker briefly shared the history of the Inhumans to them before dropping them off somewhere.
+* A version of Seeker appears in the ''[[Avengers Assemble (TV series)|Avengers: Ultron Revolution]]'' episode "Inhumans Among Us", voiced by Mark C. Hanson.<ref>{{cite episode|title=Inhumans Among Us|series=Avengers Assemble|network=Disney XD|season=3|number=9|airdate=July 24, 2016}}</ref> He was on an Inhuman ship that was carrying the Alpha Primitives when it suddenly crashes into the mountains of Maple Falls dispensing the Terrigen Fog onto the town which drove the Alpha Primitives crazy. When the Avengers and the Inhumans arrived, Seeker apologized to Black Bolt for what happened to the Inhuman ship. While the Avengers were fighting the Inhumans, Seeker monitored a Terrigen cocoon that was inside a building until [[Inferno (Dante Pertuz)|Inferno]] hatched from it. He was present when the Avengers and the Inhumans used a device to disperse the Terrigen Fog where the Alpha Primitives and Inferno were back to acting like themselves. It was later revealed that Seeker was in collaboration with Ultron to have the Inhuman ship crash. Seeker tells Ultron that the device he has built for him is almost complete. In the episode "The Inhuman Condition," Seeker was with Black Bolt when Lockjaw brings the Avengers to Attilan during Ultron's invasion. While in an underground lab, Seeker revealed that Inferno's Terrigenesis is the result of him being an Inhuman descendant. He has also invented a device that would dispense the Terrigen Mist to Earth where those who are Inhuman descendants of Inhumans would go through their Terrigenesis. When Ultron arrives, Seeker learns too late that he was tricked into helping Ultron. Ultron then hooks up to Seeker's device and uses it to phase-shift Seeker away.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.com/universe/Seeker Seeker] at Marvel.com
+* {{Marvunapp|http://www.marvunapp.com/Appendix2/seekerinhumani.htm|Seeker I}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix6/seekerff.html|Seeker II}}
+
+{{Inhumans}}
+
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1966]]
+[[Category:Comics characters introduced in 1993]]
+[[Category:Inhumans]]
+[[Category:Marvel Comics supervillains]]
+
+
+{{Marvel-villain-stub}}

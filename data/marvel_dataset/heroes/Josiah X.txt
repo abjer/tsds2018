@@ -1,0 +1,75 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Josiahx.png|250px]]
+|caption=Josiah X, art by [[Joe Bennett (penciller)|Joe Bennett]]
+|character_name=Josiah X
+|publisher=[[Marvel Comics]]
+|debut=''[[The Crew (comics)|The Crew]]'' #1 (July [[2003 in comics|2003]]) 
+|creators=[[Christopher Priest (comic book writer)|Christopher Priest]]<br>[[Joe Bennett (penciller)|Joe Bennett]]
+|real_name=Josiah al hajj Saddiq
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances=[[The Crew (comics)|The Crew]]<br/>[[United States Army|U.S. Army]]
+|aliases=Josiah Bradley, Josiah X, Justice, Josiah Smith
+|supports=<!--optional-->
+|powers=Artificially enhanced physiology at the absolute peak of human strength, speed, agility, dexterity, reflexes/reactions, coordination, balance, and endurance.
+|}}
+
+'''Josiah X''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is the son of [[Isaiah Bradley]], the black Captain America, and the uncle of [[Elijah Bradley]], the Patriot.<ref>''Young Avengers'' #8.</ref> The character was created by [[Christopher Priest (comic book writer)|Christopher Priest]] and [[Joe Bennett (penciller)|Joe Bennett]], and debuted in ''[[The Crew (comics)|The Crew]]'' #1.
+
+==Publication history==
+As depicted in the series ''[[Truth: Red, White & Black]]'', the World War II [[Weapon Plus|Super Soldier program]] of 1942, operated by "Reinstein", used [[African American]] test subjects in a beta phase. The clandestine experimentation that empowered Josiah's father [[Isaiah Bradley]] held similarities with the [[Tuskegee Syphilis Study|Tuskegee Experiments]].
+
+After a failed suicide mission to destroy the Super-Soldier efforts of the Nazis, Isaiah was court-martialed and imprisoned at [[United States Disciplinary Barracks|Leavenworth]] in 1943. In 1960, Bradley was pardoned by President [[Dwight D. Eisenhower]], and released.
+
+While Isaiah was in prison, the government attempted to use his altered DNA to create another Super-Soldier. After 39 attempts they had a single success, which was Josiah. He was more or less Isaiah and Faith's genetic son, but born to a surrogate mother. His surrogate mother smuggled him out from under the government's watchful eye.
+
+==Fictional character biography==
+Josiah is a [[Muslim]] minister. He replaced his last name Bradley with the letter “X”. He has had many names including "Justice", the one he used as a hero. The "X" apparently symbolizes his allegiance to the [[Tribe of Shabazz|Lost Tribe of Shabazz]]. Josiah runs a Muslim Mission in the "Mog" (Little Mogadishu) in [[Brooklyn, New York]].{{issue|date=April 2013}}
+
+Josiah grew up alone in a Catholic orphanage outside of Boston. His powers revealed themselves when he lashed out at one of the orphanage nuns while in his early teens. Believing he had accidentally killed Sister Irenia, he fled. Under the assumed name of Josiah Smith he entered the U.S. Army.{{issue|date=April 2013}}
+
+[[Image:Josiahrescue.png|thumb|130px|left|Josiah to the rescue<br>Art by [[Joe Bennett (penciller)|Joe Bennett]]]]
+Josiah served several tours in the [[Vietnam War]], becoming a seasoned and experienced veteran. His unit, made up of primarily black soldiers, were nearly killed on a mission by an inconsiderate and racist officer's order to bomb the area while they were still on patrol. His assault on the heartless officer was rewarded with a court martial. Josiah was sent back to the States to serve out his sentence in [[Fort Leavenworth]], a stateside [[military prison]].{{issue|date=April 2013}}
+
+Blood tests at a secret research facility in [[Berkeley, California]] proved he was the missing Super-Soldier baby. His [[surrogate mother]] was brought in to confirm a genetic match, and she again helped him to escape. She also told him the truth about his past and the real first names of his genetic parents.{{issue|date=April 2013}}
+
+It was a long four years later before he could act on this knowledge. He came across a list of African-American individuals abused by the Super-Soldier project, and used it to find his parents' full names and their location.{{issue|date=April 2013}}
+
+After meeting his real parents, Josiah left the US and traveled abroad as a [[private military contractor]] and adventurer; he eventually ended up on the continent of [[Africa]]. It was in Africa that Josiah discovered the [[Islam|Islamic faith]] and decided to use it to find a purpose for his life.{{issue|date=April 2013}}
+
+===The Crew===
+Josiah became involved with [[War Machine|James Rhodes']] clandestine "[[The Crew (comics)|Crew]]" after they were tricked into believing he was a criminal. After the usual superhero fight, Josiah joined them in order to seek out those who had not only framed him, but had also turned his neighborhood into a war zone.{{issue|date=April 2013}}<ref>{{cite web |url=http://phonogram.us/comics/crew/start.htm |title=digital-priest.com: The Crew |publisher=Phonogram.us |date= |accessdate=2011-01-11 |deadurl=yes |archiveurl=https://web.archive.org/web/20110525134513/http://phonogram.us/comics/crew/start.htm |archivedate=2011-05-25 |df= }}</ref>
+
+When [[Iron Lad]] was trying to recruit [[Young Avengers|the next generation of Avengers]], Josiah was one of the people he tried recruiting. Since Josiah was gone at the time, his nephew [[Patriot (comics)|Elijah Bradley]] went in his place, taking the name '''Patriot'''.{{issue|date=April 2013}}
+
+==Powers and abilities==
+Due to his unique genetic makeup, Josiah has aged very slowly. Although he is well over fifty years, he appears to be a perpetual 25 years old. Due to the gene manipulation process that eventually led to his creation and birth, Josiah's genetic code was manipulated with great precision to compensate for the side effects of unrefined Super Soldier serum. 
+
+Scientists were able to synthesize a more balanced replica of the peak human abilities in his genes. Josiah is extremely strong (able to bench press over 1100 pounds) and his body possesses phenomenal endurance. 
+
+Because of his many years on the run from the US government Josiah has gained experience and training as both a soldier and mercenary. He also has decades of experience with a variety of martial arts styles, languages and weapons. He is a highly skilled combatant.
+
+===Equipment===
+
+*Josiah carries the scarred battle shield belonging to his father and predecessor [[Isaiah Bradley|Isaiah]], similar to one used by Steve Rogers before receiving his vibranium-steel shield. It is an unpainted concave triangular metal shield with the Double V for Victory design, useful for either defense or offense.
+*For protection he wears a loose chain mesh shirt over light padding. This mesh shirt is capable of blunting the impact of most small arms fire.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://worldofblackheroes.com/2010/07/07/josiah-x/ World of Black Heroes: Josiah-X Biography]
+*[http://www.marvel.com/universe/Josiah_X Marvel Universe: Josiah X]
+*[https://web.archive.org/web/20050921062338/http://www.phonogram.us/comics/crew/josiah.htm Christopher Priest's profile on Josiah X]
+
+[[Category:Characters created by Christopher Priest]]
+[[Category:Comics characters introduced in 2003]]
+[[Category:Fictional African-American people]]
+[[Category:Fictional genetically engineered characters]]
+[[Category:Fictional religious workers]]
+[[Category:Fictional soldiers]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics superheroes]]
+[[Category:United States-themed superheroes]]
+[[Category:Islam in fiction]]

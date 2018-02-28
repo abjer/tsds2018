@@ -1,0 +1,60 @@
+{{distinguish|Tarot: Witch of the Black Rose}}
+
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+  image = [[Image:TarotXM.jpg]]
+|caption = Tarot. X-Force issue #87.
+|character_name = Tarot
+|real_name = Marie-Ange Colbert
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher = [[Marvel Comics]]
+|debut = ''[[New Mutants]] #16'' (Jun 1984)
+|creators = [[Chris Claremont]]<br>[[Sal Buscema]]
+|alliances =[[Hellions (comics)|Hellions]]
+|aliases =  
+|powers = Materialize tangible representations of 2D images into 3D objects; Psychometric precognition. 
+}}
+
+'''Tarot''' ('''Marie-Ange Colbert''') is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Tarot first appeared in ''New Mutants'' #16-17 (June–July 1984), and was created by [[Chris Claremont]] and [[Sal Buscema]].
+
+The character subsequently appears in ''The Uncanny X-Men'' #193 (May 1985), ''[[Firestar]]'' #2-4 (April–June 1986), ''The New Mutants'' #39 (May 1986), #43 (September 1986), #53-54 (July–August 1987), #56 (October 1987), #62 (April 1988), ''The New Warriors'' #9-10 (March–April 1991), and apparently died in ''The Uncanny X-Men'' #281-282 (October–November 1991). The character made posthumous appearances in ''The New Warriors Annual'' #1 (1991) and #2 (1992). Tarot mysteriously appeared alive again in ''X-Force'' #87-90 (February–May 1999).
+
+Tarot appeared as part of the "Hellions" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #5.
+
+==Fictional character biography==
+Marie-Ange Colbert was born in [[Lyon]], [[France]].  As Tarot, she joins the original [[Hellions]]. Tarot is generally of a kind and sympathetic nature. [[Danielle Moonstar|Mirage]]'s psychic abilities reveal that Tarot is in love with one of the [[New Mutants]].{{Issue|date=January 2010}} It is later strongly hinted that the New Mutant in question was [[Cypher (comics)|Cypher]],{{Issue|date=January 2010}} but nothing ever comes of her supposed infatuation with him, and she instead falls in love with one of her teammates, [[Empath (comics)|Empath]].<ref name="NM56">''New Mutants'' #56</ref> He does not return her feelings, and leaves the Hellions in order to pursue his seduction of [[Magma (comics)|Magma]], leaving Tarot heartbroken.<ref>''New Mutants'' #62</ref> Tarot's flying constructs sometimes serve as transportation for the Hellions.<ref name="NM56"/>
+
+Tarot and her team battle the [[New Warriors]] inside their penthouse headquarters over the fate of ex-Hellion Firestar.<ref>''New Warriors'' #10</ref>
+
+[[Image:TarotBedlam.jpg|thumb|left|250px|Tarot faces [[King Bedlam]]'s anger in X-Force, issue #89.]] She is ostensibly killed by [[Trevor Fitzroy]] and his [[Sentinels (comics)|Sentinels]], who uses her life force to fuel one of his temporal displacement portals.<ref>''Uncanny X-Men'' #281 (1991)</ref> She reappears years later as a member of the second Hellions team.<ref>''X-Force'' #87 (1997)</ref> Tarot's life force is now somehow bound to [[King Bedlam]], who was apparently the key to her resurrection, though this has never been fully explained. After her resurrection, Tarot displays greater control over her powers, being able to assume the likeness of specific tarot cards herself. During the Hellions' conflict with [[X-Force]], in which she confronts her former teammate [[Warpath (comics)|James Proudstar]], Tarot aids them, incurring Bedlam's wrath. In the end, however, she leaves with him and her new teammates for whereabouts unknown.{{Issue|date=January 2010}}
+
+===M-Day and Necrosha===
+Tarot is one of the many mutants depowered as a result of [[Decimation (comics)|M-Day]].<ref>''New Avengers'' #18</ref> King Bedlam was also amongst the depowered, and the loss of his powers apparently returns Tarot to her former state.{{Issue|date=October 2009}}
+
+She is resurrected yet again, this time alongside her fallen teammates, by means of the Transmode Virus to serve as part of [[Selene (comics)|Selene]]'s army of resurrected mutants.<ref>''X-Necrosha'' #1</ref> It is not explained how Tarot's mutant abilities returned. Tarot, alongside her fellow Hellions are dispatched by Eli Bard to collect and reprogram Cypher.{{issue|date=September 2013}} They are intercepted by the New Mutants and Warlock knocks them away with an explosion.{{Issue|date=December 2009}}
+
+==Powers and abilities==
+[[Image:TarotRebirth.jpg|thumb|right|300px|Tarot explains her new powers in ''X-Force'' #90.]]
+Tarot is a [[Mutant (Marvel Comics)|mutant]] who formerly possessed the ability to generate animated constructs composed of tangible psionic energy based on the two-dimensional figures on the [[tarot cards]] she carried. It is unknown if Tarot was actually limited to the use of her tarot images for her power to operate, or if this was merely a personal preference. She could create several (up to five, at least) human-sized figures and even massive flying constructs without any apparent strain. Tarot's psionic constructs were superhumanly strong and durable, being resistant to physical damage, temperature extremes, and certain forms of energy. Tarot's constructs were completely under her mental control, and would dissipate on her command. They could only be destroyed by a force that dispersed the majority of their psionic mass, or if Tarot herself was rendered unconscious. Tarot was vulnerable to her psionic constructs being destroyed, as the psionic feedback left her disoriented.
+
+Tarot also possessed a fair degree of [[precognitive]] ability, being able to accurately predict events that would occur years in the future. This power, however, was largely (if not completely) dependent on the use of her tarot cards.
+
+After her resurrection, Tarot had somehow either gained or learned the ability to manifest characteristics of certain tarot cards upon herself, such as weapons and armor, increasing her effectiveness in physical combat.{{issue|date=February 2014}}
+
+==Other versions==
+
+===Age of Apocalypse===
+Tarot, along with several other members of the original [[Hellions (comics)|Hellions]], appear briefly in the [[Age of Apocalypse]] universe as former agents of [[Apocalypse (comics)|Apocalypse]]. After his death, they became renegades and were hunted down and captured by the X-Men for the United States government. Their fates after being remanded into government custody are unknown.
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Tarot (Comics)}}
+[[Category:Characters created by Chris Claremont]]
+[[Category:Female supervillains]]
+[[Category:Fictional characters with precognition]]
+[[Category:Fictional French people]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]

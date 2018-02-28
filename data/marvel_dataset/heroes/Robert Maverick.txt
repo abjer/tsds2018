@@ -1,0 +1,61 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Robert Maverick
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| alt            = 
+| publisher      = [[Marvel Comics]]
+| debut          = '''As Robert Maverick''':<br>''New Avengers'' Vol. 4 #9<br>'''As Red Hulk''':<br>''[[U.S.Avengers]]'' Vol. 1 #1 (January 2017)
+| creators       = [[Al Ewing]]<br>Gerardo Sandoval
+| based_on       = 
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = United States Army<br>[[U.S.Avengers]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = [[Red Hulk]]
+| powers         = Military tactician<br>'''As Red Hulk''':<br>Superhuman strength, stamina and durability<br>Great leaping<br>Resistance to fire 
+| cat            = 
+| subcat         = 
+| hero           = y
+| villain        = 
+| sortkey        = Robert Maverick
+| addcharcat#    = 
+}}
+'''General Robert L. Maverick''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. He is the second character to use the '''[[Red Hulk]]''' identity.<ref>http://io9.gizmodo.com/u-s-avengers-introduces-a-whole-new-red-hulk-1790761500</ref>
+
+==Publication history==
+{{expand section|date=May 2017}}
+The character, created by [[Al Ewing]] and Gerardo Sandoval, first appeared in ''New Avengers'' Vol. 4 #9.
+
+==Fictional character biography==
+In his debut during the 2016 "[[Avengers: Standoff!]]" storyline, Robert Maverick oversaw Project: Troubleshooter and saw the transformation of Todd Ziller into American Kaiju.<ref>''New Avengers'' Vol. 4 #9</ref> He sends American Kaiju after the [[Avengers (comics)|Avengers]] when they illegally break into [[S.H.I.E.L.D.]] to rescue [[Rick Jones (comics)|Rick Jones]], but he was defeated.<ref>''New Avengers'' Vol. 4 #8. Marvel Comics.</ref><ref>''New Avengers'' Vol. 4 #10. Marvel Comics.</ref>
+
+After [[Sunspot (comics)|Roberto da Costa]] defeated [[Maker (Reed Richards)|Maker]], Maverick invites him to join the government, hoping that they could cooperate.<ref>''New Avengers'' Vol. 4 #17. Marvel Comics.</ref>
+
+He joins the [[U.S.Avengers]] where it's revealed that he has become the new [[Red Hulk]] upon being provided with an improved version of the [[Hulk (comics)|Hulk]] Plug-In. Unlike the Red Hulk form of [[Thunderbolt Ross]], Robert Maverick maintains his moustache and wears his sunglasses. In the team's first mission against the [[Secret Empire (organization)|Secret Empire]], Red Hulk was able to level the Secret Empire's volcano island base upon crash-landing onto it. They're later approached by a future version of [[Danielle Cage]] as Captain America when her nemesis, the Golden Skull, came to their timeline to take all the wealth in the world. In [[Miami, Florida]], the team crashes a charity gala only to discover that the wealthy CEOs were kidnapped and replaced by robots. During the battle, the team manages to defeat and capture the Golden Skull, who was wearing a golden armored suit. Danielle then goes back to her timeline with the Golden Skull as her prisoner.<ref>''U.S.Avengers'' #1-3. Marvel Comics.</ref>
+
+Red Hulk is later sent to confront and defeat an out of control American Kaiju who was attacking [[Europe]]. During the hunt, he encounters [[Deadpool]] who was turned into a monster by a mad scientist named Dr. Vandoom. He later appears in an underground lair where he encounters [[Gorilla-Man]], just after he transforms back to normal. When Gorilla-Man attempts to pull his head off in order to build his Gorilla-Men army, Robert is rescued by [[Squirrel Girl]] who unleashes [[flying squirrel]]s on the Gorilla-Men while she defeats Gorilla-Man.<ref>''U.S.Avengers'' #4-5. Marvel Comics.</ref>
+
+During the 2017 "[[Secret Empire (comic book)|Secret Empire]]" storyline, Robert receives an injection of nanites by Agent Kyle to improve the Hulk Plug-In, so he could remain as Red Hulk longer. When the team arrives in [[Washington D.C.]], Red Hulk begins to attack his teammates due to the nanites controlling him where Agent Kyle is revealed to be a [[Hydra (comics)|Hydra]] double agent. Red Hulk and [[Iron Patriot]] are captured and imprisoned when they see a nearly dead Sunspot in one of the cells. While in prison, Red Hulk is kept in a cell until he's brought out to battle Sunspot, who had recovered from his injuries thanks to Toni Ho. Sunspot manages to use his powers to free him by burning the nanites inside him, enabling Red Hulk to defeat the guards. They later take control of the prison. In the aftermath of the event, Robert is able to return to normal after Toni Ho deactivated the Hydra nanites in his blood. Unfortunately, due to his extended time as Red Hulk, Robert can't risk to transform anymore due to his health being weakened and his skin remains red.<ref>''U.S.Avengers'' #6-10. Marvel Comics.</ref>
+
+Robert Maverick assists [[Smasher]] and the U.S.Avengers when they managed to help [[Cannonball (comics)|Cannonball]] and Kral X's rebels in overthrowing Ritchie. After restoring order to the planet, the heroes head home.<ref>''U.S.Avengers'' #11-12</ref>
+
+==Powers and abilities==
+Using an improved variation of the Hulk Plug-In, Robert Maverick can transform into a variation of Red Hulk for an hour where he sports superhuman strength, stamina and durability that is supposedly on the same level as Hulk's. He can also leap great distances<ref>''U.S.Avengers'' #1</ref> and is resistant to fire.<ref>''U.S.Avengers'' #9</ref>
+
+Robert Maverick is a military tactician.{{citation needed|date=August 2017}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Robert_Maverick_(Earth-616) Robert Maverick] at Marvel Wiki
+* [https://comicvine.gamespot.com/robert-l-maverick/4005-127864/ Robert Maverick] at Comic Vine
+
+{{Hulk}}
+
+[[Category:Marvel Comics superheroes]]
+[[Category:Fictional generals]]

@@ -1,0 +1,155 @@
+{{Infobox comics set and title
+<!--Wikipedia:WikiProject Comics-->
+<!--Character section-->
+|code_name = Quasar
+|image = Quasars.jpg
+|imagesize =
+|caption = Wendell Vaughn and Phyla-Vell, both versions of Quasar
+|publisher = [[Marvel Comics]]
+|debut = ''[[Captain America]]'' #217 <!-- this is where the code name is coined -->
+|debutmo = January
+|debutyr = 1978
+|writer1 = [[Don Glut]]
+|writer2 = [[Roy Thomas]]
+|artist1 = [[John Buscema]]
+|characters = [[Neutron (Marvel Comics)|Sh'iar imperial guardsman]]<br>[[Quasar (Wendell Vaughn)|Wendell Elvis Vaughn]]<br>[[Phyla-Vell]]<br>[[Nova (Richard Rider)|Richard Rider]]<br>Avril Kincaid
+|seealso =
+
+<!--Series section-->
+|title = Quasar
+|cvr_image = Quasar 1.jpg
+|cvr_caption = ''Quasar'' #1 (Oct, 1989).<br>Featuring the Wendell Vaughn version of the character.<br>Art by Paul Ryan.
+|schedule = Monthly
+|ongoing = Y
+|Superhero = y
+|pub_series = Marvel Comics
+|1stishyr = 1989
+|1stishmo = October
+|endishyr = 1994
+|endishmo = July
+|issues = 60
+|main_char_team = Wendell Vaughn
+|writers =
+|artists =
+|pencillers =
+|inkers =
+|letterers =
+|colorists =
+|editors =
+|creative_team_month =
+|creative_team_year =
+|creators_series =
+|TPB =
+|ISBN =
+|nonUS =
+|cat = super
+|subcat = Marvel Comics
+|altcat =
+|hero = y
+|villain =
+|sortkey = Quasar
+|sort_title = Quasar
+}}
+'''Quasar''' is the name of several [[fiction]]al [[superhero]]es in the [[Marvel Comics]] [[Marvel Universe|universe]].
+
+==Fictional character biography==
+
+===Neutron===
+{{main article|Neutron (Marvel Comics)}}
+
+===Wendell Vaughn===
+{{main article|Quasar (Wendell Vaughn)}}
+
+===Phyla-Vell===
+{{main article|Phyla-Vell}}
+
+===Richard Rider===
+{{main article|Nova (Richard Rider)}}
+
+===Avril Kincaid===
+Avril Kincaid is a S.H.I.E.L.D. Agent who debuted during the ''[[Avengers: Standoff!]]'' storyline. While working at Pleasant Hill, a gated community holding super villains brainwashed by Kobik, Avril ran a daycare center as her cover. When [[Baron Zemo|Baron Helmut Zemo]] and [[Fixer (comics)|Fixer]] started a riot after regaining their memories, Kincaid was attacked by the [[Blood Brothers (comics)|Blood Brothers]], but was saved by [[Falcon (comics)|Captain America]] and [[Bucky Barnes|Winter Soldier]]. After Captain America shuts down the security system at the Pleasant Hill Museum, Kincaid enters it in order to obtain a specific item, and encounters the curator, a retired Wendell Vaughn.<ref>''Captain America: Sam Wilson'' #7</ref> As part of a contingency plan if S.H.I.E.L.D. ever lost control of Kobik, Vaughn gives the Quantum Bands to Kincaid. In the aftermath of the events that transpired at Pleasant Hill, Kincaid becomes the new Quasar with Vaughn acting as her mentor. <ref>''Avengers Standoff: Assault on Pleasant Hill Omega'' #1</ref> She is shown to be gay in another scene when she discovers Kobik for Steve Rogers.
+
+She's later seen trying to prevent an attack made by the [[Chitauri]], but is apparently killed in action. Her apparent death allows Captain America to take over as the United States Government gives him control of the military and law enforcement as Steve Rogers also assumes control of Hydra.<ref>''Secret Empire'' #0</ref> It's later revealed that Quasar is in a comatose state.<ref>''Secret Empire'' #3</ref> When she awakens, she destroys the planetary shield that the Hydra Steve Rogers was using to keep some of Earth's most powerful heroes off-planet, showing Kincaid's power level being far beyond the likes of Blue Marvel, Captain Marvel, and Spectrum.<ref>''Secret Empire'' #8</ref>
+
+==Powers and abilities==
+
+===Quantum Bands===
+[[File:Annihilation Nova 3 art.jpg|thumb|left|Quantum Bands used in the promotional art for ''[[Annihilation (comics)|Annihilation]]: [[Nova (Richard Rider)|Nova]]'' #3 (Aug. 2006), by [[Gabriele Dell'Otto]]]]
+
+Quasar's powers are derived from the pair of Quantum Bands fused to his wrists (or more specifically, from the seven gems on each of the bands). Quasar's Quantum Bands are permanently affixed to his wrists; while he can make light bend around them so they appear to be invisible, they are still tangible. They are linked to their wearer's nervous system and grant tremendous powers of energy manipulation. The wrist-bands were originally created by [[Eon (comics)|Eon]] to be worn by his designated Protector of the Universe. These alien artifacts are composed of unknown materials.
+The Quantum Bands were discovered by the [[Uranian (comics)|Uranian]] [[Eternal (comics)|Eternals]] in a weapons depot left by the alien [[Kree]] and brought to Earth by the deluded Crusader that believed himself to be the 1950s Marvel Boy.
+
+Foremost amongst these powers is the ability to tap into a limitless energy source called the '''Quantum Zone'''. Quasar can project [[quantum]] energy in the form of devastating beams of force or heat, but Vaughn more commonly employed them to fashion incredibly durable constructs of solid energy, such as containment spheres or pincers. He protected himself with a personal force field of quantum energy.
+
+Vaughn learned that the Quantum Bands can also exert control over many other types of energy that are part of the [[electromagnetic spectrum]]. For example, he once tapped into a sun and caused it to emit an enormous solar flare. He could also absorb and redirect the cosmic energy wielded by such powerful beings as the [[Silver Surfer]], [[Jack of Hearts]], [[Adam Warlock]], [[Thanos]], [[Phoenix Force (comics)|Jean Grey]] and the [[Watcher (comics)|Watchers]], siphoning their power and using it to augment his quantum energy. Forms of energy the Quantum Bands cannot control include magic and the [[Darkforce]].
+
+Although he could not overtly affect [[psionic]] energy, Vaughn had programmed his bands to render him impervious to psionic mental control. Even such powerful psionicists as [[Moondragon]] and the [[Overmind (comics)|Overmind]] proved unable to overcome this defense. He does not appear to be protected from magical forms of compulsion.
+
+Vaughn could create apertures into and out of the Quantum Zone, thus allowing passage through its infinite, featureless expanse. He mainly used this ability to traverse interstellar distances in a manner similar to [[Hyperspace (science fiction)|hyperspace]] travel. The effect is essentially a form of teleportation, which Quasar referred to as a '''Quantum Jump'''. A Quantum Jump has a destructive side effect on the local environment, violently upheaving gravity and tearing holes in the atmosphere (on Earth, it would damage the [[ozone layer]]), so Quasar initially refrained from using it except when in space or in dire circumstances. However, he eventually discovered that he could prevent this effect by surrounding himself with a barrier of solid energy before jumping. Quasar could also shunt other matter into the Quantum Zone provided that he's in physical contact with it.
+
+The Quantum Bands enable their wearer to fly by manipulating [[gravitons]]. The maximum flight speed Vaughn could attain is unknown, but he made a trip from Earth to [[Uranus]] in approximately four years flying non-stop (this was before he learned how to quantum jump). That would require a constant speed of roughly {{convert|50000|mi/h|km/h}}. This doesn't take into account the velocity he can achieve in a short burst of acceleration.
+
+The Quantum Bands' gems possess some capability for analyzing and processing information as if they were extremely advanced computers. This allowed Vaughn to navigate the Quantum Zone and the depths of space. The gems are able to detect, analyze, and track energy emissions across vast distances. They can also "program" his quantum energy to register and react to certain preset conditions. For instance, at one time Quasar had the Earth surrounded with an invisible lattice-work of energy that was designed to act as a global alert system against potential [[Extraterrestrial life in popular culture|extraterrestrial]] threats. The energy field could detect any surges of exotic energy emanating from the planet's surface as well as if any object larger than a [[micrometeorite]] passed through it; in either case, the field would react by transmitting an alert signal to the Quantum Bands.
+
+Vaughn had a direct link to [[Eon (comics)|Eon]] and later [[Epoch (Marvel comics)|Epoch]] through his bands, which gave him ready access to their omniscience.
+
+[[Annihilus]] killed Vaughn and gained the Quantum Bands, adding to his already considerable power,<ref>''Annihilation: Nova'' #4 (Sept. 2006)</ref> though the bands subsequently came into the possession of Phyla-Vell following Annihilus' apparent death. She has since discovered that the Bands contain a finite amount of energy which will drain away if they are isolated from their power source (as yet unexplained) and that they also remain linked in some way to their former users. Vaughn has since been sighted as a "spirit," and it has been indicated that his link to the bands enabled him to "pull himself together again" following his physical death.
+
+Quasar later appears resurrected while government scientists help an Earthbound Nova reboot his Worldmind AI. After successfully helping Richard Rider defeat the Worldmind/Ego the Living Planet by letting Richard use the Bands, Richard returns the bands to Wendell.
+
+===Star Brand===
+While he possessed the power of the [[Star Brand#Reintroduction|Star Brand]], Quasar gained the abilities of flight, superhuman strength, and resilience. He also was able to regenerate his entire body from minute remains and did not need to eat, drink or breathe. However, virtually all of the energy derived from the Star Brand was depleted not long after he gave it away. The [[Living Tribunal]] later stated that Quasar's body retains only an insignificant trace amount of energy.
+
+===Cosmic awareness===
+Quasar also briefly possessed the same powers of cosmic awareness that Eon granted to Kree soldier Mar-Vell (later known as the original [[Mar-Vell|Captain Marvel]]). By simply concentrating for a moment, he could gain complete knowledge about virtually anything in the universe. It is unclear why Eon did not bestow cosmic awareness on Quasar permanently, but being nigh-omniscient himself, he likely determined that it would have been detrimental to Quasar's psyche (as it was to that of [[Genis-Vell]]). The fact that he received the awareness while his mind was inhabiting an energy construct, and he did not demonstrate it upon returning to his body, may also have something to do with it.
+
+==Other versions==
+
+===Captain Universe Quasar===
+After a failed war with the Elder God Set and the death of every hero on Earth except The Silver Surfer, Quasar was merged with [[Captain Universe]] to form a super-being that was capable of capturing and defeating Set. Using the Eye of Agamotto, Quasar trapped himself and Set within its pocket dimension.<ref>''[[What If (comics)|What If]]'' vol. 2 #25</ref>
+
+Once, during a trip through alternate realities, the Earth-616 version of Quasar viewed his Captain Universe-enhanced counterpart and Set battling each other.<ref>''Quasar'' #30</ref>
+
+===Guardians of the Galaxy===
+Tricked by Eon's evil "child" Era, Quasar jumps to a sentient nexus of energy and is killed. He ends up in the 'White Room', where all Quantum-Band wielders go after death. Eon is entrapped with him, in the form of a centerpiece on the Room's table.
+
+Her, now called [[Kismet (Marvel Comics)|Kismet]], teams up with the long-lost son she had with Quasar, [[Starhawk (comics)|Starhawk]]. They visit Quasar's grave and learn what Era has done. With the aid of the Hawk-God Starhawk worships, the two vow to stop Era.
+
+==="House of M"===
+Wendell Vaughn briefly appeared for one panel in the 2005 storyline "[[House of M]]" as a scientist during the alternate timeline caused by Wanda Maximoff. There is no indication that he possesses the Quantum-Bands in this universe.<ref>''House of M'', Marvel Comics.</ref>{{issue|date=January 2017}}
+
+===''The Last Avengers Story''===
+Quasar is briefly mentioned in ''[[The Last Avengers Story]]'' #1 as having been driven insane, but he does not appear.
+
+===''Marvel Zombies Return''===
+In ''[[Marvel Zombies Return]]'', Quasar is shown as a member of The Sentry's Robert Reynolds undead team of Avengers. They had taken over and consumed much of their earth. According to Logan, he and Namor the Submariner killed Kitty Pryde; Quasar held her underwater until she became tangible, and it was implied that Namor ate her, although Logan cannot bring himself to say it. He is killed at the end of the series by the nanite-infused Sandman (Flint Marko).<ref>"Marvel Zombies Return" #2 (2009)</ref>
+
+===Ultimate Marvel===
+Although Quasar has not appeared as a superhero in the [[Ultimate Marvel]] setting, [[S.H.I.E.L.D.#Ultimate S.H.I.E.L.D.|S.H.I.E.L.D]] agent Wendell Vaughn is the head of security for the top secret [[Project Pegasus]] in Devil's Point, Wyoming. He first appears in ''[[Ultimate Power]]'' #1, when Project Pegasus is attacked by the [[Serpent Squad#Ultimate Serpent Squad|Serpent Squad]].
+
+==In other media==
+===Television===
+* Quasar appeared on Avengers Earth's Mightiest Heroes in Season 2 Episode 6 as a member of Guardians of the Galaxy voiced by Moira Quirk.
+
+===Video games===
+* A version of Quasar appears in the 2016 video game ''[[Lego Marvel's Avengers]]''.<ref>{{Cite web|url=http://www.cosmicbooknews.com/content/quasar-comes-lego-marvel-avengers#axzz41Xox8VHJ|title=Quasar Comes To Lego Marvel Avengers|publisher=Cosmic Book News|first=Matt|last=McGloin|date=January 25, 2016}}</ref>
+*Quasar (Avril Kincaid) is a playable character in the game Marvel Future Fight.
+
+==Footnotes==
+{{Reflist}}
+
+==References==
+* [http://www.comics.org Grand Comics Database]
+* [http://www.maelmill-insi.de/UHBMCC/index.htm Unofficial Handbook of Marvel Comics Creators]
+* [https://web.archive.org/web/20080411134915/http://www.comicvine.com/quasar/3319/ Comics Vine]
+
+==External links==
+* [http://www.marvel.com/universe/Quasar_(disambiguation) Quasar (disambiguation)] at the Marvel Universe
+* [[MarvelDatabase:Quasar|Quasar]] at the Marvel Database Project
+{{Marvel Cosmic}}
+
+{{DEFAULTSORT:Quasar (Comics)}}
+[[Category:Fictional characters with density control abilities]]
+[[Category:Marvel Comics characters who can teleport]]
+[[Category:S.H.I.E.L.D. agents]]
+[[Category:LGBT superheroes]]

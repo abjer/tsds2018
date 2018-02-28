@@ -1,0 +1,47 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+|image=[[File:IronMan-145.jpg|250px]]
+|caption= The Raiders battle ''[[Iron Man]]'' on the cover of ''Iron Man'' #145 (Apr. 1981). Art by [[Bob Layton]].
+|character_name=Mauler
+|real_name=Unknown
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Iron Man]] #145'' (Apr. 1981)
+|creators=[[David Michelinie]] and [[Bob Layton]]
+|status=
+|alliances=Cord Conglomerate
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+}}
+
+The '''Raiders''' are a team of three [[fictional characters]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The Raiders first appear in ''[[Iron Man]]'' #145 (Apr. 1981) and was created by [[David Michelinie]] and [[Bob Layton]].
+
+== Publication history ==
+The Raiders first feature in the title ''[[Iron Man]]'',<ref>''Iron Man'' #145 (Apr. 1981)</ref> when they suddenly appear during a [[technology]] [[trade show]] and cause property damage until the arrival of the hero Iron Man. The trio skirmish with Iron Man for a moment, with one of the Raiders using [[acid]] to damage the hero's armor. During a second battle at a live [[boxing match]], Iron Man defeats all three Raiders. The trio are revealed to be the employees of [[Edwin Cord]], a [[corporate]] rival of [[Iron Man|Tony Stark]] (Iron Man's alter ego). Cord knew that Iron Man, as Stark's [[bodyguard]], would follow him to the trade show, and used this opportunity to demonstrate the capabilities of the Raider suits for covert organisation [[S.H.I.E.L.D.]] The character, however, is [[arrested]] by S.H.I.E.L.D agents for his irresponsible actions.
+
+The Raiders reappear, with upgraded suits, during the [[Armor Wars]] storyline in the title ''Iron Man''. Tony Stark discovers his armor designs have been stolen and decides to retrieve or neutralize the technology, leading to a brief confrontation with the Raiders, in which their suits are rendered [[wikt:Defunct|defunct]].<ref>''Iron Man'' #225 (Jan. 1988)</ref>
+
+The Raiders were later part of an army of armor-wearing mercenaries hired to attack Stark Enterprises.<ref>''Avengers West Coast'' annual #7 (1992)</ref>
+
+The characters reappear in the second volume of ''The Invincible Iron Man'' and confront Iron Man once again.<ref>''The Invincible Iron Man'' vol. 2, #3 (Sep. 2008)</ref>
+
+==Powers and abilities==
+Each of the Raider suits provide the wearer with greater durability and [[flight]], and offer varying weapons systems. "Raider 1" is equipped with wristbands that can generate [[bullet]]s; [[acid]] and [[laser]]s; "Raider 2" is equipped with a [[net (device)|net]] capable of [[syphon]]ing energy and a protective shield that absorbs energy attacks and "Raider 3" has two wrist weapons that project and amplify [[sonic wave]]s in concentrated form.
+
+==Other media==
+===Film===
+* The Raiders make an appearance in the [[anime]] film ''[[Iron Man: Rise of Technovore]]'', as thugs hired by [[Ezekiel Stane]]. Unlike the comics, the Raiders do not have individualized weapons in their armors
+
+===Miscellaneous===
+* The Raiders appeared in an official comic taking place just prior to the events of ''[[The Avengers (2012 film)|The Avengers]]''. The [[Marvel Cinematic Universe]] version of the Raiders were hired by a Saudi businessman to defeat Iron Man in a race around [[Dubai]]. Their armors were stated to be high-tech gliders provided by the Global Incorporated company, but Iron Man dismissed them as cheap knock-offs of his armor.<ref>''Avengers - The Avengers Initiative'' #1</ref>
+ 
+==References==
+{{reflist}}
+{{Iron Man}}
+
+[[Category:Comics characters introduced in 1981]]
+[[Category:Characters created by David Michelinie]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Characters created by Bob Layton]]
+[[Category:Marvel Comics supervillain teams]]

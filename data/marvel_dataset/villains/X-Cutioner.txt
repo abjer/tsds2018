@@ -1,0 +1,45 @@
+:''This article is about the Marvel Comics supervillain X-Cutioner.  For the [[fictional crossover|crossover]] series, see ''[[X-Cutioner's Song]]''.''
+{{Superherobox|
+image=
+|caption=
+|character_name=X-Cutioner
+|alter_ego=Carl Denti
+|species=[[Human]]
+|publisher=[[Marvel Comics]]
+|debut=''Uncanny X-Men Annual'' (vol. 1) #17 (1993)
+|creators=[[Scott Lobdell]]
+|alliances=[[FBI]]
+|aliases=
+|powers=used to have an exoskeleton that gave him enhanced strength and various other weapons
+|}}
+
+The '''X-Cutioner''' ('''Carl Denti''') is a [[fictional character]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]].  He is a former [[FBI]] agent obsessed with stalking [[Mutant (Marvel Comics)|Mutants]] who kill humans, and uses an array of both [[Extraterrestrial life|alien]] technology (such as [[Shi'ar]] [[power armor]] and [[List of Marvel Comics alien races#Z|Z'nox]] sensors) and Earthly technology (such as [[Sentinel (comics)|Sentinel]] propulsion units) in his quest. He first appeared in ''Uncanny X-Men Annual'' #17, in 1993.
+
+==Fictional character biography==
+Carl Denti's father was an army officer murdered for following an illegal order, which would later interfere with his crusade against mutants. Eventually ending up as an F.B.I. officer, Denti partnered with a contact of [[Professor X|Charles Xavier]]'s, [[Fred Duncan (comics)|Fred Duncan]], who was a member of the Xavier Underground, a network of mutant supporters. Duncan maintained mutant criminal records and stockpiled weapons and technology from X-Men foes. Denti, an aspiring agent, takes the files, weapons, and technology for himself and assumes the name X-Cutioner, with the proclaimed mission of killing any mutant that has killed other people first. Denti is so "dedicated" to his mission that he will use lethal force to stop anyone from obstructing his lethal justice.
+
+His first successful target was the mutant [[Tower (comics)|Tower]],<ref>''Uncanny X-Men Annual'' #17</ref> followed by an unsuccessful attempt on [[Mastermind (comics)|Mastermind]], who was detained on [[Muir Island]]. Mastermind survived only to die of natural causes because the X-Cutioner was delayed when he encountered the X-Men.  He next targeted the [[Emma Frost|White Queen]], only to be stopped by the father and son team of [[Cable (comics)|Cable]] and [[Cyclops (Marvel Comics)|Cyclops]].  Later, he tracked down [[Skin (Marvel Comics)|Skin]] for the murder of Angelo Espinosa, not knowing that the two boys were the same person. Working through the ranks of X-Men characters, he next encountered the [[Punisher (comics)|Punisher]], [[Rogue (comics)|Rogue]], [[X-Man]], and [[Gambit (comics)|Gambit]]. After teaming up with Gambit, Denti encountered a new X-Cutioner with similar technology.
+
+===The Initiative===
+Denti was considered as a "potential recruit" for the [[Fifty State Initiative|Initiative]] program, according to ''Civil War: Battle Damage Report''.<ref name="civilwarbattledamage">{{Comic book reference | Writer = [[Anthony Flamini]] & Ronald Byrd | Penciller =  [[Scott Kolins]] | Inker = [[Scott Kolins]] | Story =  | Title = Civil War: Battle Damage Report | Issue = 1 | Date = March 2007 | Publisher = [[Marvel Comics]] | }}</ref>
+
+==Powers and abilities==
+A normal human with specialized training, X-Cutioner's weapons and technology include alien [[List of Marvel Comics alien races#Z|Z'nox]] sensors, Sentinel propulsion units for flight, [[Shi'ar]] body armor, a personal force field, a teleportation unit and various other weapons from alien races and groups.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.marveldirectory.com/individuals/x/xcutioner.htm X-Cutioner at MarvelDirectory.com]
+*[http://uncannyxmen.net/characters/x-cutioner UncannyXmen.net Character Profile on X-Cutioner]
+
+{{X-Men}}
+
+[[Category:Characters created by Scott Lobdell]]
+[[Category:Comics characters introduced in 1993]]
+[[Category:Fictional characters of the Federal Bureau of Investigation]]
+[[Category:Fictional murderers]]
+[[Category:Fictional police officers]]
+[[Category:Male characters in comics]]
+[[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel Comics supervillains]]

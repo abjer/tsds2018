@@ -1,0 +1,42 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Aminedi 001.jpg]]
+|caption=Aminedi, The Invisible One
+|character_name=Aminedi
+|real_name=
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''New Mutants Annual'' #7
+|creators=[[Fabian Nicieza]]<br>[[Kirk Jarvinen]]
+|alliances=[[Desert Sword]]
+|aliases=
+|powers=can transform himself into air particles, superhuman speed.
+}}
+
+'''Aminedi''' (also known as '''Aminedi, The Invisible One''') is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] appearing in [[American comic book]]s published by [[Marvel Comics]]. His first appearance was in ''[[New Mutants|New Mutants Annual]]'' #7.
+
+==Fictional character biography==
+'''Aminedi''' is part of the Iraqi mercenary team called [[Desert Sword]]. [[Freedom Force (comics)|Freedom Force]], led by [[Crimson Commando]], travels to the Middle East on a mission and ends up in a confrontation with Desert Sword. Aminedi decapitates [[Super Sabre (comics)|Super Sabre]] and cuts off the Commado's right arm.<ref>''New Mutants Annual'' #7 (1991)</ref> Desert Sword loses team member [[Veil (comics)|Veil]]<ref name="XFAnn6">''X-Factor Annual'' #6 (1991)</ref> and the scientist Kurtzmann,<ref>''X-Men Annual'' #15 (1991)</ref> both of whom are killed by [[Pyro (Marvel Comics)|Pyro]]. [[Sirocco (comics)|Sirocco]] and Aminedi trap [[Avalanche (comics)|Avalanche]] and Commando in a mine field and as Commando's condition worsens Avalanche traps the two under a pile of rock, though they later escaped.<ref name="XFAnn6" />
+
+[[Blob (comics)|Blob]] and Pyro were later captured by Desert Sword. Freedom Force's devastating failure soon led to the team's abandonment.
+
+At an unknown point Aminedi contracts the [[Legacy Virus]], and dies from it.<ref>''X-Men Annual vol. 2 #2</ref>
+
+==Powers and abilities==
+Aminedi can transform his physical body into a mass of sentient airborne particles, making him invisible and intangible while moving at superhuman speeds and striking as a razor cutting wind that can slice through solid materials.  This wind was incredibly sharp, even able to cut through the Blob's nearly impenetrable skin.
+
+==Notes and references==
+{{reflist}}
+
+==External links==
+* {{Marvelwiki|Aminedi|Aminedi}}
+* {{comicbookdb|character|14334|Aminedi}}
+
+[[Category:Characters created by Fabian Nicieza]]
+[[Category:Fictional Iraqi people]]
+[[Category:Fictional shapeshifters]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]
+
+
+{{Marvel-hero-stub}}

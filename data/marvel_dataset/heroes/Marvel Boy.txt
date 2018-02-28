@@ -1,0 +1,72 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:MarvelBoy1-1950.jpg|210px]]
+|caption=Atlas Comics' ''Marvel Boy'' #1 (Dec. 1950): Cover artist uncertain; possibly [[Sol Brodsky]]
+|character_name=Marvel Boy
+|real_name='''(I)''' Martin "Marty" Simon Burns<br>'''(II)''' Martin Oksner Burns<br>'''(III)''' [[Marvel Boy (Robert Grayson)|Robert Grayson]]<br>'''(IV)''' [[Wendell Vaughn]]<br>'''(V)''' [[Vance Astrovik]]<br>'''(VI)''' [[Marvel Boy (David Bank)|David Bank]]<br>'''(VII)''' [[Noh-Varr]]
+|publisher=[[Marvel Comics]]
+|debut=(Burns I) ''[[Daring Mystery Comics]]'' #6 (June 1940)<br>(Burns II) ''[[USA Comics]]'' #7 (Feb. 1943)<br>(Grayson) ''Marvel Boy'' #1 (Dec. 1950)<br>(Vaughn) ''[[Captain America]]'' #217 (Jan. 1978)
+|creators=(Burns I): [[Joe Simon]] & [[Jack Kirby]]<br>(Burns II): [[Bob Oksner]]<br>
+(Grayson) [[Stan Lee]] & [[Russ Heath]]
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=[[Telepathy]],<br>Light blasts
+}}
+
+'''Marvel Boy''' is the name of several [[fictional character|fictional]] [[comic book]] characters in [[comic books]] published by [[Marvel Comics]], including predecessor companies [[Timely Comics]] and [[Atlas Comics (1950s)|Atlas Comics]].
+
+==Martin Burns==
+'''Martin Burns''' is the 1940s Marvel Boy. After a mysterious shadow revealed to him that he possessed the power of [[Hercules]], he became a superhero. The character made only two appearances: ''[[Daring Mystery Comics]]'' #6 (June 1940), by the writer-artist collaborators [[Joe Simon]] & [[Jack Kirby]], and ''[[USA Comics]]'' #7 (Feb. 1943), by [[writer]]-[[artist]] [[Bob Oksner]]. Each featured a wildly disparate version of his origin, with the first positing him as the [[reincarnation]] of the mythic [[ancient Greece|Greek]] [[demigod]], while the second had him accidentally scratched by Hercules' [[mummy|mummified remains]] in a museum and "infected' with his superhuman strength, although both versions shared the basics noted above.<ref>[http://www.internationalhero.co.uk/m/marvelboyga1.htm Marvel Boy (Martin Burns)] at the International Catalogue of Superheroes</ref> The ''[[Official Handbook of the Marvel Universe]]: [[Golden Age of Comic Books|Golden Age]] 2004'' reconciles these different origins by stating that there were two Marvel Boys named Martin Burns active in the 1940s.
+
+==Robert Grayson==
+{{main|Marvel Boy (Robert Grayson)}}
+'''Robert Grayson''' is the 1950s Marvel Boy, debuting in ''Marvel Boy'' #1 (Dec. 1950), from Marvel 1950s forerunner, [[Atlas Comics (1950s)|Atlas Comics]]. He continued to appear when the series title was changed to ''Astonishing'' with issue #3. Created by writer-[[editing|editor]] [[Stan Lee]] and artist [[Russ Heath]], with writer-artist [[Bill Everett]] taking over with issue #2, this Marvel Boy is the son of Dr. Horace Grabshield (later Anglicized as Grayson), a scientist who fled Earth to [[Uranus]] with his infant son during the rise of [[Nazi Germany]]. His final story during this period was in ''Astonishing'' #7 (Dec. 1951). He returned in ''[[Fantastic Four]]'' #165 (Dec. 1975) under the name "The Crusader", and appeared in the 12-issue ensemble [[miniseries]] ''[[Marvel: The Lost Generation]]'' (March 2000 - Feb. 2001) and elsewhere, eventually joining the superhero group [[Agents of Atlas]].<ref>[http://www.internationalhero.co.uk/m/marvelboyatlas.htm Marvel Boy (Robert Grayson)] at the International Catalogue of Superheroes</ref><ref>[http://www.toonopedia.com/marvlboy.htm Marvel Boy (Robert Grayson)] at [[Don Markstein's Toonopedia]]</ref><ref>[https://web.archive.org/web/20091026210034/http://www.geocities.com/ratmmjess/mboy3.html Marvel Boy (Robert Grayson)] at the Guide to Marvel's Pre-FF #1 Heroes</ref>
+
+==Wendell Vaughn==
+{{main|Quasar (Wendell Vaughn)}}
+'''Wendell Elvis Vaughn''', an agent in the Marvel Comics [[espionage]] agency [[S.H.I.E.L.D.]], became the 1970s Marvel Boy in ''[[Captain America (comic book)|Captain America]]'' #217 (Jan. 1978), when he became bonded to the 1950s character's "quantum band" bracelets. The bands had been remanded to S.H.I.E.L.D. after the events of ''The Fantastic Four'' #165, above. His codename was quickly changed to '''Marvel Man''' as part of the agency's short-lived Super-Agent program. He changed it to '''[[Quasar (comics)|Quasar]]''' in ''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' #234 (April 1979).
+
+==Vance Astrovik==
+{{main|Vance Astrovik}}
+'''Vance Astrovik''' was the 1980s Marvel Boy. He used the Marvel Boy codename for some time before being sent to prison in the pages of ''[[New Warriors]]''. He later adopted the codename '''Justice'''.
+
+==David Bank==
+{{main|Marvel Boy (David Bank)}}
+'''David Bank''' is a [[Mutant (Marvel Comics)|mutant]] in the [[Marvel Comics]] Universe, who can fly and project energy blasts. He first appeared in ''[[Vance Astrovik|Justice: Four Balance]]'' #4 (1994). '''David Bank''' took on the name of [[Marvel Boy (David Bank)|Marvel Boy]] in the closing issue of a series featuring Vance Astrovik, the previous Marvel Boy.
+
+==Noh-Varr==
+{{main|Noh-Varr}}
+While never using the name Marvel Boy, [[Noh-Varr]] was introduced in a 2000 [[Limited series (comics)|miniseries]] of that title by writer [[Grant Morrison]] and artist [[J. G. Jones]]. He is an alien of the pink-skinned version of [[Extraterrestrials in fiction|extraterrestrial]] [[Kree]], although he hails from [[Parallel universe (fiction)|alternate reality]]. Upon arriving on Earth, he became an [[anti-hero]] with elements of teenage rebellion.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20051224195211/http://underworld.fortunecity.com/blood/201/marvel/quasar.html Marvel Boy (Wendell Vaughn)] at Marvel Infinity
+* [http://www.marvunapp.com/Appendix3/marvelboybank.htm Marvel Boy (David Bank)] at the Appendix to the Handbook of the Marvel Universe
+* [http://marvel.com/universe/Marvel_Boy_(disambiguation) Marvel Boy (disambiguation)] at the Marvel Universe
+* [[MarvelDatabase:Marvel Boy|Marvel Boy]] at the Marvel Database Project
+* {{comicbookdb|type=character|id=21139|title=Marvel Boy (Martin Burns)}}
+* {{comicbookdb|type=character|id=3897|title=Marvel Boy (Robert Grayson)}}
+* {{comicbookdb|type=character|id=4781|title=Marvel Boy (Wendell Vaughn)}}
+* {{comicbookdb|type=character|id=4782|title=Marvel Boy (Vance Astrovik)}}
+* {{comicbookdb|type=character|id=16574|title=Marvel Boy (David Bank)}}
+* {{comicbookdb|type=character|id=4783|title=Marvel Boy (Noh-Varr)}}
+{{GoldenAge}}
+
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Characters created by Bob Oksner]]
+[[Category:Characters created by Joe Simon]]
+[[Category:Comics characters introduced in 1940]]
+[[Category:Comics characters introduced in 1943]]
+[[Category:Comics characters introduced in 1950]]
+[[Category:Comics characters introduced in 1978]]
+[[Category:Atlas Comics titles]]
+[[Category:Atlas Comics characters]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Timely Comics characters]]
+[[Category:Heracles in fiction]]
+[[Category:Reincarnation in fiction]]

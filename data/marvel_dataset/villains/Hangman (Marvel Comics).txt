@@ -1,0 +1,71 @@
+'''Hangman''' is the name of two fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Harlan Krueger==
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|image=
+|caption=
+|character_name=Hangman
+|real_name=Harlan Krueger
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Werewolf by Night]]'' #11 (Nov 1973) 
+|creators=[[Marv Wolfman]] and [[Gil Kane]]
+|alliances=
+|aliases=
+|powers=Skilled in use of rope and scythe<br>Extensive knowledge of American cinema
+}}
+
+===Fictional character biography===
+Harlan Krueger was born in [[Los Angeles, California]].  He was a fanatical moviegoer who idolized movie stars of the past (such as [[John Wayne]], [[Humphrey Bogart]], and [[Alan Ladd]]).  He identified with these heroic figures, developing a simplistic view of good and evil in real life, deciding that evildoers should pay for their crimes with their lives.
+
+After being court-martialed from the army for torturing prisoners of war, Krueger resolved to take the law into his own hands and became the masked vigilante the Hangman.  His modus operandi involved executing male criminals while leaving female ones alive but imprisoned to 'protect them' from corruption (many died of starvation while in captivity). After years of stalking criminals with a noose and scythe, he came into conflict with the [[Werewolf by Night]].<ref>''Werewolf by Night'' #11</ref> He later battled the Werewolf again and DePrayve.<ref>''Werewolf by Night'' #26</ref> Hangman then seemingly allied with [[Doctor Glitternight]] and [[Moon Knight]] against the Werewolf. However, all three of them were illusions created by the ghost of the 19th century black magician Belaric Marcosa.<ref>''Werewolf by Night'' #37</ref>
+
+Hangman next stalked one of the [[Brothers Grimm (comics)|Brothers Grimm]], who had been stealing from diamond merchants. Mistaking one Brother Grimm (Jake) for his target (William), he pursued him to a pyrotechnics building and saw him seemingly die in an explosion.<ref>''Spider-Woman'' #4-5</ref> He was later one of the criminals captured by the [[Locksmith (comics)|Locksmith]] and [[Tiktok]].<ref>''Spider-Woman'' #50</ref>
+
+While attending a Hollywood costume party held for the premiere of a horror movie to 'purge' yet more 'unworthy souls' (in other words, target members of the film industry for execution), the Hangman killed a disguised woman, thus inadvertently violating his own moral code. As he knelt over the corpse in remorse, he was apparently fatally stabbed in the back by film reviewer Matthew O'Brien, who had been trying to stop the Hangman from his latest killing spree, impaling the Hangman on his own scythe.<ref>''Bizarre Adventures'' #31</ref>
+
+===Powers and abilities===
+Harlan Krueger was an athletic man with no superhuman powers. He carried a {{convert|30|ft|m|adj=on}} length of half-inch hemp rope, terminating in a hangman's noose.  He also used a harvesting scythe with an eight-foot wooden handle and curved four-foot single-edged steel blade. He received Army hand-to-hand combat training.
+
+Krueger had extensive knowledge of American cinema, particularly the films of the 1930s, 1940s, and 1950s.
+
+==Jason Roland==
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|image=
+|caption=
+|character_name=Hangman
+|real_name=Jason Roland
+|species=
+|publisher=[[Marvel Comics]]
+|debut=[[Tower of Shadows]] #5 (May, 1970)
+|creators=[[Roy Thomas]] and [[Barry Windsor-Smith|Barry Smith]]
+|alliances=[[Night Shift (comics)|Night Shift]]<br/>[[Lethal Legion]]
+|aliases=
+|powers=Magically enhanced physical attributes and virtually indestructible rope<br>Ability to levitate and climb rope without attaching it<br>Mind-link with Satannish  
+}}
+
+===Fictional character biography===
+Jason Roland was an aspiring actor who made a deal with a [[Demons (Marvel Comics)|demon]] (later revealed to be [[Satannish]]{{issue|date=January 2014}}) to make his career successful.{{issue|date=January 2014}}  He was trapped in a monstrous form and hid out for years.{{issue|date=January 2014}}  He eventually encountered the [[Night Shift (comics)|Night Shift]] and convinced them to deal with Satannish to increase their powers.  They were defeated by the [[West Coast Avengers|Avengers West Coast]].<ref>''West Coast Avengers'' #79</ref>
+
+Satannish later used the Hangman as part of his [[Lethal Legion]], made up of some of the most notorious figures in history given superhuman powers; for example Stalin transformed into the superstrong giant Coldsteel. [[Mephisto (comics)|Mephisto]] aided the Avengers West Coast in defeating Satannish and his minions.<ref>''Avengers West Coast'' #98-100</ref>
+
+Much later, Hangman surfaced again when a demon named Bloodbath revealed that his former wife had sired a son he did not know about.  Bloodbath forced Hangman to kill people for him for a while, until [[X-Factor]] Investigations found out about the killings and fought, then helped him.<ref>''X-Factor'' v3 #224.1 to #228 (Nov 2011-Feb 2012)</ref>
+
+===Powers and abilities===
+As Hangman, Roland possessed magically enhanced strength, durability, etc. He was strong enough to go head-to-head with [[Wonder Man]]. His rope was also magically enhanced, making it virtually indestructible. He could also levitate his rope and climb it without it being attached to anything. He was in almost constant communication with [[Satannish]], who could enhance his powers as needed.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/hangman2.htm|Hangman (Roland)}}
+*http://marvel.com/universe/Hangman
+
+[[Category:Characters created by Gil Kane]]
+[[Category:Characters created by Marv Wolfman]]
+[[Category:Comics characters introduced in 1973]]
+[[Category:Fictional actors]]
+[[Category:Fictional characters from Los Angeles]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supervillains]]

@@ -1,0 +1,55 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Solarr
+|real_name=Silas King
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Captain America (comic book)|Captain America]] #160'' (Apr 1973)
+|creators=[[Steve Englehart]]<br>[[Sal Buscema]]
+|alliances=[[Emissaries of Evil]]
+|aliases=
+|powers=
+}}
+'''Solarr''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. Solarr first appeared in ''Captain America'' #160 and was created by [[Steve Englehart]] and [[Sal Buscema]].
+
+==Fictional character biography==
+Silas King was born in [[Carson City, Nevada]]. He was a latent [[Mutant (Marvel Comics)|Mutant]] who worked as a smuggler of illicit narcotics. On a drug run from New York City to Los Angeles, his van broke down in the [[Mojave Desert]]. Trying to make his way back to civilization, King spent several days out in the desert sun, which catalyzed his latent mutation. While recovering from sunstroke and dehydration in the hospital, he realized he could discharge the solar energy he had stored as heat blasts.
+
+Calling himself Solarr, he began a criminal career in New York City by starting with bank robbery. This activity brought him into partnership with [[Klaw (Marvel Comics)|Klaw]], and membership in the [[Emissaries of Evil]] led by [[Egghead (Marvel Comics)|Egghead]].<ref>''Alpha Flight Special'' #1</ref> 
+
+Solarr later battled [[Daredevil (Marvel Comics character)|Daredevil]] and [[Spider-Man]] when he was hired to kill a more hitman. The duo defeated Solarr, though the hitman went insane.<ref>''Marvel Team-Up'' vol.1 #123</ref>
+
+He repeatedly met defeat, and was eventually captured and imprisoned at the [[Project Pegasus]] research center in New York State, where scientists studied his powers.<ref>''Marvel Two-in-One'' #57-58</ref><ref>''Dazzler'' #9</ref>
+
+One of the other captives and subjects for study at Project Pegasus was [[Bres (comics)|Bres]], a member of the other-dimensional [[Fomor (comics)|Fomor]]. Bres began to use his powers to manipulate the staff at the facility, and caused a guard named Harry Winslow to die of heart failure. Bres also freed Solarr from his cell. Solarr hated Winslow, and when he found his corpse he incinerated it. Bres used his magic to animate the charred corpse, which killed Solarr.<ref>''Power Man & Iron Fist'' vol.1 #113</ref>
+
+It was later revealed that Solarr was one of the possible targets of [[Scourge of the Underworld]], until Scourge found out that Solarr was already dead.<ref>''Captain America'' vol.1 #320</ref>
+
+==Powers and abilities==
+Solarr was a [[Mutant (Marvel Comics)|mutant]] with the ability to absorb, store, and manipulate large amounts of energy from light, especially direct sunlight.
+
+==In other media==
+===Television===
+* Solarr appears in the ''[[X-Men (TV series)|X-Men]]'' episode "Secrets, Not Long Buried" voiced by [[Lorne Kennedy]].{{cn|date=December 2017}} This version's identity is of Bill Braddock. He appears as the leader of the mutant-supremacist group, Children of the Shadow, and ruler of the mutant and human cohabitation community called Skull Mesa founded by Taylor Prescott. He's aided by [[Toad (comics)|Toad]] and an original mutant character Chet (a mutant with phasing powers).
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.com/universe/Solarr Solarr] at Marvel.com
+* [http://marvel.wikia.com/wiki/Silas_King_(Earth-616) Solarr] at Marvel Wiki
+* [https://comicvine.gamespot.com/solarr/4005-13849/ Solarr] at Comic Vine
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/solarrking.htm|Solarr}}
+* [https://comicbookrealm.com/report/character/1362/solarr-silas-king Solarr] at Comic Book Realm
+
+{{Defenders}}
+
+[[Category:Characters created by Sal Buscema]]
+[[Category:Characters created by Steve Englehart]]
+[[Category:Comics characters introduced in 1973]]
+[[Category:Fictional characters from Nevada]]
+[[Category:Marvel Comics supervillains]]
+
+
+{{Marvel-villain-stub}}
