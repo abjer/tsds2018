@@ -40,6 +40,9 @@ for c in set(superheroes) | set(supervillains):
     elif c in supervillains:
         folder = "villains"
     
+    # Create folder  
+    os.makedirs(folder, exist_ok=True)
+
     # Only download new pages
     if c[0] + ".txt" in os.listdir('%s' % folder):
         continue
@@ -54,8 +57,8 @@ for c in set(superheroes) | set(supervillains):
     ).json()
     
     # Get the markup
-    markup = data['query']['pages'].values()[0]['revisions'][0]['*']
+    markup = list(data['query']['pages'].values())[0]['revisions'][0]['*']
     
     # Save it
     with open("%s/%s.txt" % (folder, c[0]), 'w') as fp:
-        fp.write(markup.encode('utf-8'))
+        fp.write(markup)
